@@ -5,24 +5,21 @@ import os
 from collections import defaultdict
 
 OUTPUT_PATH = "docs/live-events.m3u"
-SOURCES_PATH = "sources.json"
 
 # =============================
-# BLACKLIST (SAFE MODE)
-# Base labels ONLY – never sports or live events
+# SAFE CATEGORY BLACKLIST
 # =============================
 CATEGORY_BLACKLIST = {
-    "24/7 movies",
-    "24/7 programs",
-    "radio",
-    "radio/music",
-    "local tv",
-    "moveonjoy+",
-    "news other",
-    "sport outdoors",
-    "ppvland - live channels 24/7",
-    "sports temp 1",
-    "sports temp 2",
+    "24/7 movies | other",
+    "24/7 programs | other",
+    "radio | other",
+    "radio/music | other",
+    "local tv | other",
+    "moveonjoy+ | other",
+    "news other | other",
+    "sport outdoors | other",
+    "sports temp 1 | other",
+    "sports temp 2 | other",
 }
 
 # =============================
@@ -34,13 +31,12 @@ PROVIDER_ALIASES = {
     "tvpass": "TheTVApp",
     "thetvapp": "TheTVApp",
     "streamedsu": "StreamedSU",
-    "streamsu": "StreamSU",
-    "buddylive": "Buddy Live",
+    "streamsu": "StreamedSU",
     "buddy": "Buddy",
 }
 
 # =============================
-# PROVIDER PRIORITY (lower = wins)
+# PROVIDER PRIORITY
 # =============================
 PROVIDER_PRIORITY = {
     "TheTVApp": 1,
@@ -48,49 +44,53 @@ PROVIDER_PRIORITY = {
     "StreamedSU": 3,
     "Pixel Sports": 4,
     "Buddy": 5,
-    "Buddy Live": 6,
     "Other": 99,
 }
 
+# =============================
+# SPORT KEYWORDS (GROUP TITLE ONLY)
+# =============================
 SPORT_KEYWORDS = [
     "NFL", "NBA", "NHL", "MLB",
     "NCAAF", "NCAAB",
-    "Football", "Basketball",
-    "Hockey", "Baseball",
-    "Cricket", "Darts",
-    "Soccer", "UFC", "MMA"
+    "Football", "Basketball", "Hockey",
+    "Baseball", "Cricket", "Darts",
+    "Fight", "UFC", "MMA", "Soccer",
 ]
 
 # =============================
 # HELPERS
 # =============================
-def norm(t): return (t or "").strip()
-def low(t): return norm(t).lower()
+def norm(text):
+    return (text or "").strip()
+
+def norm_lower(text):
+    return norm(text).lower()
 
 def extract_provider(text):
-    t = low(text)
-    for k, v in PROVIDER_ALIASES.items():
-        if k in t:
-            return v
+    t = norm_lower(text)
+    for key, name in PROVIDER_ALIASES.items():
+        if key in t:
+            return name
     return "Other"
 
-def extract_sport(group):
-    g = low(group)
-    for s in SPORT_KEYWORDS:
-        if s.lower() in g:
-            return s
+def extract_sport(group_title):
+    g = norm_lower(group_title)
+    for sport in SPORT_KEYWORDS:
+        if sport.lower() in g:
+            return sport
     return None
 
-def provider_rank(p):
-    return PROVIDER_PRIORITY.get(p, 99)
+def is_blacklisted(category):
+    return norm_lower(category) in CATEGORY_BLACKLIST
 
-def is_blacklisted(base_label):
-    return low(base_label) in CATEGORY_BLACKLIST
+def provider_rank(provider):
+    return PROVIDER_PRIORITY.get(provider, 99)
 
 # =============================
-# LOAD SOURCES (FIXES YOUR ERROR)
+# LOAD SOURCES
 # =============================
-with open(SOURCES_PATH, "r", encoding="utf-8") as f:
+with open("sources.json", "r", encoding="utf-8") as f:
     SOURCES = json.load(f)
 
 categories = defaultdict(dict)
@@ -110,59 +110,50 @@ for source in SOURCES:
     except Exception:
         continue
 
-    extinf = None
-    group = None
+    current_extinf = None
+    current_group = None
 
     for line in lines:
         line = line.strip()
 
         if line.startswith("#EXTINF"):
-            extinf = line
+            current_extinf = line
             m = re.search(r'group-title="([^"]+)"', line)
-            group = m.group(1) if m else source_name
+            current_group = m.group(1) if m else source_name
 
-        elif line.startswith("http") and extinf:
+        elif line.startswith("http") and current_extinf:
             stream_url = line
-            base_group = norm(group or source_name)
-            base_lower = low(base_group)
-
+            base_group = norm(current_group or source_name)
             provider = extract_provider(base_group)
 
-            # -------- STREAMEDSU RULE --------
-            if provider == "StreamedSU" and base_lower == "other":
-                final_group = "Other | StreamedSU"
+            sport = extract_sport(base_group)
 
+            if provider == "StreamedSU" and base_group.lower() == "other":
+                final_group = "StreamedSU - Other | StreamedSU"
+            elif provider == "PPV Land" and sport == "Football":
+                final_group = "Global Football Streams | PPV Land"
+            elif sport:
+                final_group = f"{sport} | {provider}"
             else:
-                sport = extract_sport(base_group)
+                base = base_group if base_group else "Live"
+                final_group = f"{base} | {provider}"
 
-                if provider == "PPV Land" and sport == "Football":
-                    final_group = "Global Football Streams | PPV Land"
-                elif sport:
-                    final_group = f"{sport} | {provider}"
-                else:
-                    label = base_group if base_group else "Events"
-                    final_group = f"{label} | {provider}"
-
-            # -------- BLACKLIST CHECK (SAFE) --------
-            base_label = final_group.split("|")[0].strip()
-            if is_blacklisted(base_label):
-                extinf = None
-                group = None
+            if is_blacklisted(final_group):
+                current_extinf = None
                 continue
 
-            # -------- DEDUPE BY URL ONLY --------
             if stream_url in url_map:
-                prev_provider, prev_cat = url_map[stream_url]
+                prev_provider, prev_group = url_map[stream_url]
                 if provider_rank(provider) < provider_rank(prev_provider):
-                    categories[prev_cat].pop(stream_url, None)
-                    categories[final_group][stream_url] = extinf
-                    url_map[stream_url] = (provider, final_group)
-            else:
-                categories[final_group][stream_url] = extinf
-                url_map[stream_url] = (provider, final_group)
+                    del categories[prev_group][stream_url]
+                else:
+                    current_extinf = None
+                    continue
 
-            extinf = None
-            group = None
+            categories[final_group][stream_url] = current_extinf
+            url_map[stream_url] = (provider, final_group)
+
+            current_extinf = None
 
 # =============================
 # WRITE OUTPUT
@@ -171,9 +162,11 @@ os.makedirs("docs", exist_ok=True)
 
 with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
     out.write("#EXTM3U\n\n")
-    for cat in sorted(categories.keys()):
-        for url, extinf in categories[cat].items():
-            clean = re.sub(r'group-title="[^"]+"',
-                           f'group-title="{cat}"',
-                           extinf)
-            out.write(f"{clean}\n{url}\n")
+    for category in sorted(categories.keys()):
+        for url, extinf in categories[category].items():
+            cleaned = re.sub(
+                r'group-title="[^"]+"',
+                f'group-title="{category}"',
+                extinf
+            )
+            out.write(f"{cleaned}\n{url}\n")
