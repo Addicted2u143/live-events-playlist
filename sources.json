@@ -1,0 +1,50 @@
+[
+  {
+    "name": "TVPASS",
+    "url": "https://tvpass.org/playlist/m3u"
+  },
+
+  {
+    "name": "Buddy | PPVLand",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8"
+  },
+  {
+    "name": "Buddy | PixelSports",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Pixelsports.m3u8"
+  },
+  {
+    "name": "Buddy | StreamSU",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamSU.m3u"
+  },
+  {
+    "name": "Buddy | StreamedSU",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8"
+  },
+  {
+    "name": "Buddy | Backup",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u"
+  },
+
+  {
+    "name": "Buddy | Live Combined",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/buddylive-combined/refs/heads/main/combined_playlist.m3u"
+  },
+  {
+    "name": "Buddy | BuddyLive v1",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u"
+  },
+  {
+    "name": "Buddy | BuddyLive VideoAll",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u"
+  },
+
+  {
+    "name": "Buddy | Events",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/iptv/refs/heads/main/M3U8/events.m3u8"
+  },
+
+  {
+    "name": "APSATTV | Free Live Sports",
+    "url": "https://www.apsattv.com/freelivesports.m3u"
+  }
+]
