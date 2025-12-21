@@ -7,19 +7,19 @@ from collections import defaultdict
 OUTPUT_PATH = "docs/live-events.m3u"
 
 # =============================
-# SAFE CATEGORY BLACKLIST
+# EXPLICIT CATEGORY BLACKLIST
 # =============================
 CATEGORY_BLACKLIST = {
-    "24/7 movies | other",
-    "24/7 programs | other",
-    "radio | other",
-    "radio/music | other",
-    "local tv | other",
-    "moveonjoy+ | other",
-    "news other | other",
-    "sport outdoors | other",
-    "sports temp 1 | other",
-    "sports temp 2 | other",
+    "favorites",
+    "24/7 movies",
+    "24/7 programs",
+    "radio",
+    "radio / music",
+    "music",
+    "local tv",
+    "moveonjoy+",
+    "news other",
+    "sport outdoors",
 }
 
 # =============================
@@ -32,11 +32,12 @@ PROVIDER_ALIASES = {
     "thetvapp": "TheTVApp",
     "streamedsu": "StreamedSU",
     "streamsu": "StreamedSU",
+    "buddylive": "Buddy Live",
     "buddy": "Buddy",
 }
 
 # =============================
-# PROVIDER PRIORITY
+# PROVIDER PRIORITY (LOWER WINS)
 # =============================
 PROVIDER_PRIORITY = {
     "TheTVApp": 1,
@@ -44,18 +45,19 @@ PROVIDER_PRIORITY = {
     "StreamedSU": 3,
     "Pixel Sports": 4,
     "Buddy": 5,
+    "Buddy Live": 6,
     "Other": 99,
 }
 
 # =============================
-# SPORT KEYWORDS (GROUP TITLE ONLY)
+# SPORT KEYWORDS (GROUP-TITLE ONLY)
 # =============================
 SPORT_KEYWORDS = [
     "NFL", "NBA", "NHL", "MLB",
     "NCAAF", "NCAAB",
     "Football", "Basketball", "Hockey",
     "Baseball", "Cricket", "Darts",
-    "Fight", "UFC", "MMA", "Soccer",
+    "Fight", "UFC", "MMA", "Soccer"
 ]
 
 # =============================
@@ -74,18 +76,30 @@ def extract_provider(text):
             return name
     return "Other"
 
-def extract_sport(group_title):
+def extract_sport_from_group(group_title):
     g = norm_lower(group_title)
     for sport in SPORT_KEYWORDS:
         if sport.lower() in g:
             return sport
     return None
 
-def is_blacklisted(category):
-    return norm_lower(category) in CATEGORY_BLACKLIST
+def is_blacklisted(final_group):
+    return norm_lower(final_group) in CATEGORY_BLACKLIST
 
 def provider_rank(provider):
     return PROVIDER_PRIORITY.get(provider, 99)
+
+def is_allowed_final_group(final_group):
+    """Hard gate: prevent Live TV / full channel dumps"""
+    g = norm_lower(final_group)
+
+    if g.startswith("events |") or g.startswith("live events |"):
+        return True
+
+    if any(g.startswith(s.lower() + " |") for s in [k.lower() for k in SPORT_KEYWORDS]):
+        return True
+
+    return False
 
 # =============================
 # LOAD SOURCES
@@ -97,7 +111,7 @@ categories = defaultdict(dict)
 url_map = {}
 
 # =============================
-# PROCESS SOURCES
+# PROCESS
 # =============================
 for source in SOURCES:
     source_name = source.get("name", "Unknown")
@@ -123,37 +137,54 @@ for source in SOURCES:
 
         elif line.startswith("http") and current_extinf:
             stream_url = line
-            base_group = norm(current_group or source_name)
-            provider = extract_provider(base_group)
+            original_group = norm(current_group or source_name)
+            original_group_l = norm_lower(original_group)
 
-            sport = extract_sport(base_group)
+            if original_group_l == "favorites":
+                current_extinf = None
+                current_group = None
+                continue
 
-            if provider == "StreamedSU" and base_group.lower() == "other":
-                final_group = "StreamedSU - Other | StreamedSU"
-            elif provider == "PPV Land" and sport == "Football":
+            provider = extract_provider(original_group or source_name)
+
+            # -------- CATEGORY LOGIC --------
+            sport = extract_sport_from_group(original_group)
+
+            if provider == "PPV Land" and sport == "Football":
                 final_group = "Global Football Streams | PPV Land"
             elif sport:
                 final_group = f"{sport} | {provider}"
             else:
-                base = base_group if base_group else "Live"
+                base = original_group if original_group else "Events"
+                if base.lower() in ("events", "event", "live events"):
+                    base = "Events"
                 final_group = f"{base} | {provider}"
 
+            # HARD FILTERS
             if is_blacklisted(final_group):
                 current_extinf = None
+                current_group = None
                 continue
 
-            if stream_url in url_map:
-                prev_provider, prev_group = url_map[stream_url]
-                if provider_rank(provider) < provider_rank(prev_provider):
-                    del categories[prev_group][stream_url]
-                else:
-                    current_extinf = None
-                    continue
+            if not is_allowed_final_group(final_group):
+                current_extinf = None
+                current_group = None
+                continue
 
-            categories[final_group][stream_url] = current_extinf
-            url_map[stream_url] = (provider, final_group)
+            # -------- DEDUPE (URL ONLY) --------
+            if stream_url in url_map:
+                prev_provider, prev_category = url_map[stream_url]
+                if provider_rank(provider) < provider_rank(prev_provider):
+                    if stream_url in categories[prev_category]:
+                        del categories[prev_category][stream_url]
+                    categories[final_group][stream_url] = current_extinf
+                    url_map[stream_url] = (provider, final_group)
+            else:
+                categories[final_group][stream_url] = current_extinf
+                url_map[stream_url] = (provider, final_group)
 
             current_extinf = None
+            current_group = None
 
 # =============================
 # WRITE OUTPUT
