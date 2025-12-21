@@ -1,13 +1,14 @@
 import json
 import requests
 import re
+import os
 from collections import defaultdict
 
 OUTPUT_PATH = "docs/live-events.m3u"
 
-# -----------------------------
-# CATEGORY BLACKLIST (EXPLICIT)
-# -----------------------------
+# =============================
+# EXPLICIT CATEGORY BLACKLIST
+# =============================
 CATEGORY_BLACKLIST = {
     "favorites",
     "24/7 movies",
@@ -23,38 +24,47 @@ CATEGORY_BLACKLIST = {
     "thetvapp sd",
 }
 
-# -----------------------------
+# =============================
 # PROVIDER NORMALIZATION
-# -----------------------------
+# =============================
 PROVIDER_ALIASES = {
     "pixelsports": "Pixel Sports",
     "ppvland": "PPV Land",
     "tvpass": "TVPASS",
     "thetvapp": "TheTVApp",
     "streamedsu": "StreamedSU",
+    "buddylive": "Buddy Live",
     "buddy": "Buddy",
 }
 
+# =============================
+# SPORT DETECTION (FOR NAMING)
+# =============================
 SPORT_KEYWORDS = [
     "NFL", "NBA", "NHL", "MLB",
     "NCAAF", "NCAAB",
-    "Football", "Basketball", "Hockey", "Baseball",
-    "Fight", "Cricket", "Darts"
+    "Football", "Basketball", "Hockey",
+    "Baseball", "Cricket", "Darts",
+    "Fight", "UFC", "MMA"
 ]
 
-# -----------------------------
+# =============================
 # HELPERS
-# -----------------------------
+# =============================
 def norm(text):
     return (text or "").strip()
 
 def norm_lower(text):
     return norm(text).lower()
 
+def is_blacklisted(group):
+    return norm_lower(group) in CATEGORY_BLACKLIST
+
 def extract_provider(group):
-    for key, val in PROVIDER_ALIASES.items():
-        if key in norm_lower(group):
-            return val
+    g = norm_lower(group)
+    for key, name in PROVIDER_ALIASES.items():
+        if key in g:
+            return name
     return "Other"
 
 def extract_sport(group):
@@ -63,18 +73,15 @@ def extract_sport(group):
             return sport
     return None
 
-def is_blacklisted(group):
-    return norm_lower(group) in CATEGORY_BLACKLIST
-
-# -----------------------------
+# =============================
 # LOAD SOURCES
-# -----------------------------
+# =============================
 with open("sources.json", "r", encoding="utf-8") as f:
     SOURCES = json.load(f)
 
-# -----------------------------
-# PROCESS
-# -----------------------------
+# =============================
+# PROCESS PLAYLISTS
+# =============================
 categories = defaultdict(list)
 seen_stream_urls = set()
 
@@ -83,7 +90,7 @@ for source in SOURCES:
     url = source.get("url")
 
     try:
-        resp = requests.get(url, timeout=15)
+        resp = requests.get(url, timeout=20)
         resp.raise_for_status()
         lines = resp.text.splitlines()
     except Exception:
@@ -97,19 +104,24 @@ for source in SOURCES:
 
         if line.startswith("#EXTINF"):
             current_extinf = line
-
-            group_match = re.search(r'group-title="([^"]+)"', line)
-            current_group = group_match.group(1) if group_match else source_name
+            m = re.search(r'group-title="([^"]+)"', line)
+            current_group = m.group(1) if m else source_name
 
         elif line.startswith("http") and current_extinf:
             stream_url = line
 
-            # DEDUPE BY STREAM URL ONLY
+            # DEDUPE — URL ONLY
             if stream_url in seen_stream_urls:
+                current_extinf = None
+                current_group = None
                 continue
+
             seen_stream_urls.add(stream_url)
 
+            # CATEGORY BLACKLIST ONLY
             if is_blacklisted(current_group):
+                current_extinf = None
+                current_group = None
                 continue
 
             provider = extract_provider(current_group)
@@ -125,6 +137,19 @@ for source in SOURCES:
             current_extinf = None
             current_group = None
 
-# -----------------------------
-# WRITE PLAYLIST
-#
+# =============================
+# WRITE OUTPUT
+# =============================
+os.makedirs("docs", exist_ok=True)
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
+    out.write("#EXTM3U\n\n")
+
+    for category in sorted(categories.keys()):
+        for extinf, url in categories[category]:
+            cleaned_extinf = re.sub(
+                r'group-title="[^"]+"',
+                f'group-title="{category}"',
+                extinf
+            )
+            out.write(f"{cleaned_extinf}\n{url}\n")
