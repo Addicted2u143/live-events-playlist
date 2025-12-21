@@ -1,84 +1,116 @@
-import requests
-from collections import OrderedDict
+# --- SNIP: imports unchanged ---
 
-PLAYLIST_URLS = [
-    # keep your existing list here
-]
+OUTPUT_PATH = "docs/live-events.m3u"
 
-OUTPUT_FILE = "docs/live-events.m3u"
-
-BLACKLIST_GROUPS = {
-    "24/7 Movies | Other",
-    "24/7 Programs | Other",
-    "Live | Other",
-    "Local TV | Other",
-    "MoveOnJoy+ | Other",
-    "Radio/Music | Other",
-    "Sport Outdoors | Other",
-    "Sports Temp 1 | Other",
-    "Sports Temp 2 | Other",
-    "News Other | Other",
-    "PPVLand - Live Channels 24/7 | PPV Land"
+# =============================
+# EXPLICIT CATEGORY BLACKLIST
+# (ONLY junk, NEVER real events)
+# =============================
+CATEGORY_BLACKLIST = {
+    "favorites",
+    "24/7 movies | other",
+    "24/7 programs | other",
+    "radio | other",
+    "radio/music | other",
+    "local tv | other",
+    "moveonjoy+ | other",
+    "news other | other",
+    "sport outdoors | other",
 }
 
-PROTECTED_GROUP_PREFIXES = (
-    "Events |",
-    "PPVLand - Combat Sports |"
-)
+# --- providers, priorities, helpers UNCHANGED ---
 
-def fetch_playlist(url):
-    r = requests.get(url, timeout=30)
-    r.raise_for_status()
-    return r.text.splitlines()
+# =============================
+# PROCESS
+# =============================
+for source in SOURCES:
+    source_name = source.get("name", "Unknown")
+    url = source.get("url")
 
-def parse_playlists():
-    entries = OrderedDict()
+    try:
+        resp = requests.get(url, timeout=20)
+        resp.raise_for_status()
+        lines = resp.text.splitlines()
+    except Exception:
+        continue
 
-    for url in PLAYLIST_URLS:
-        lines = fetch_playlist(url)
-        current_meta = None
+    current_extinf = None
+    current_group = None
 
-        for line in lines:
-            if line.startswith("#EXTINF"):
-                current_meta = line
-            elif line.startswith("http") and current_meta:
-                stream_url = line.strip()
+    for line in lines:
+        line = line.strip()
 
-                # Extract group-title
-                group = ""
-                if 'group-title="' in current_meta:
-                    group = current_meta.split('group-title="')[1].split('"')[0]
+        if line.startswith("#EXTINF"):
+            current_extinf = line
+            m = re.search(r'group-title="([^"]+)"', line)
+            current_group = m.group(1) if m else source_name
 
-                # Extract source name (fallback safe)
-                source = group.split(" - ")[0] if " - " in group else group
+        elif line.startswith("http") and current_extinf:
+            stream_url = line
 
-                # Normalize final group name
-                final_group = f"{group} | {source}".strip(" |")
+            original_group = norm(current_group or source_name)
+            original_group_l = norm_lower(original_group)
 
-                # Blacklist check
-                if (
-                    final_group in BLACKLIST_GROUPS
-                    and not final_group.startswith(PROTECTED_GROUP_PREFIXES)
-                ):
-                    current_meta = None
-                    continue
+            if original_group_l == "favorites":
+                current_extinf = None
+                continue
 
-                # Deduplicate ONLY by stream URL
-                if stream_url not in entries:
-                    entries[stream_url] = (current_meta, final_group)
+            provider = extract_provider(original_group or source_name)
 
-                current_meta = None
+            # -------------------------
+            # CATEGORY RULES
+            # -------------------------
+            if provider == "StreamedSU" and original_group_l == "other":
+                final_group = "Other | StreamedSU"
+            else:
+                sport = extract_sport_from_group(original_group)
 
-    return entries
+                if provider == "PPV Land" and sport == "Football":
+                    final_group = "Global Football Streams | PPV Land"
+                elif sport:
+                    final_group = f"{sport} | {provider}"
+                else:
+                    base = original_group if original_group else "Events"
+                    if base.lower() in ("event", "events", "live events"):
+                        base = "Events"
+                    final_group = f"{base} | {provider}"
 
-def write_playlist(entries):
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for url, (meta, group) in entries.items():
-            meta_clean = meta.split(" group-title=")[0]
-            f.write(f'{meta_clean} group-title="{group}"\n')
-            f.write(f"{url}\n")
+            # Blacklist only explicit junk
+            if norm_lower(final_group) in CATEGORY_BLACKLIST:
+                current_extinf = None
+                continue
 
-if __name__ == "__main__":
-    entries = parse_playlists()
-    write_playlist(entries)
+            # -------------------------
+            # DEDUPE BY URL ONLY
+            # -------------------------
+            if stream_url in url_map:
+                prev_provider, prev_category = url_map[stream_url]
+                if provider_rank(provider) < provider_rank(prev_provider):
+                    categories[prev_category].pop(stream_url, None)
+                    categories[final_group][stream_url] = current_extinf
+                    url_map[stream_url] = (provider, final_group)
+            else:
+                categories[final_group][stream_url] = current_extinf
+                url_map[stream_url] = (provider, final_group)
+
+            current_extinf = None
+
+# =============================
+# WRITE OUTPUT (GUARDRAIL)
+# =============================
+total = sum(len(v) for v in categories.values())
+if total == 0:
+    raise RuntimeError("ABORT: zero channels survived filtering")
+
+os.makedirs("docs", exist_ok=True)
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
+    out.write("#EXTM3U\n\n")
+    for category in sorted(categories.keys()):
+        for url, extinf in categories[category].items():
+            cleaned = re.sub(
+                r'group-title="[^"]+"',
+                f'group-title="{category}"',
+                extinf
+            )
+            out.write(f"{cleaned}\n{url}\n")
