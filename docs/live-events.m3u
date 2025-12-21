@@ -11,9 +11,11 @@ https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15217" tvg-name="Houston Rockets vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" group-title="Basketball | PPV Land",Houston Rockets vs. Sacramento Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dubai Capitals vs Gulf Giants" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgUxUaBIhuIPrh0gIIEzD0gzfAhSZWuYMvCLzR6prTAOxoiEA.webp" group-title="Cricket | StreamedSU",Dubai Capitals vs Gulf Giants
-https://lb6.strmd.top/secure/EWrLDzOTJctEBTZAOnfDSvFXreWNiFzz/charlie/stream/gulf-giants-vs-dubai-capitals-1629472468/1/playlist.m3u8
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
+https://lb10.strmd.top/secure/vnHChMZNrxVxsZnOrlKPknUSzzznqrUr/charlie/stream/gulf-giants-vs-dubai-capitals-1629472468/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Darts Championship
 https://gg.poocloud.in/darts/index.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Championships: Day Eleven" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Championships: Day Eleven
+https://lb1.strmd.top/secure/aTrIusiccuxsBrzTfyPAyNhcugrnKLjt/charlie/stream/day-eleven-1629472469/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -346,10 +348,34 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nrnberg vs Hannover" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDdYqjQBMQ3EBBB8QifST06zIAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Football | StreamedSU",FC Nrnberg vs Hannover
+https://lb10.strmd.top/secure/bPqKFawWbroHVtdyIOAcuaSkQpkzSpyS/echo/stream/1-fc-nurnberg-vs-hannover-96-football-1388764/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Club Brugge vs Gent" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQIUrhAC0IbtpAkQMAycT6cEAhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Football | StreamedSU",Club Brugge vs Gent
+https://lb7.strmd.top/secure/YtgEAUiuSfiVWdcFICNtMWzeqcRNeXmD/charlie/stream/club-brugge-kv-vs-gent-1382572/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eintracht Braunschweig vs Schalke 04" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAmtFLhCbuIACZbdJbSESa+IbYRhr+KLmDLwi80ffXAwjsaIhA.webp" group-title="Football | StreamedSU",Eintracht Braunschweig vs Schalke 04
+https://lb3.strmd.top/secure/tUwuKPEUyKUnnCtunyIeDOxnGURLIqdn/charlie/stream/eintracht-braunschweig-vs-fc-schalke-04-1388759/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Preuen Mnster vs Elversberg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgYIPiBT9KIbiAAmG4yWOIUuQwQpM+2tmDLwi80dqa0wjsaIhA.webp" group-title="Football | StreamedSU",Preuen Mnster vs Elversberg
+https://lb10.strmd.top/secure/poTclTmTHFxYOGsRzCrtUDDKEHgcQdiw/echo/stream/preussen-munster-vs-sv-elversberg-football-1388766/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Havelse vs Alemannia Aachen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMGlMABMwSENxB9cITSBIhEiE-r4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title="Football | StreamedSU",Havelse vs Alemannia Aachen
+https://lb3.strmd.top/secure/kGjyMibjVpyxHzHULaaiopfRljOZogNm/echo/stream/havelse-vs-alemannia-aachen-football-1394240/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="2. Bundesliga: 1. FC Nurnberg vs Hannover 96" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIecf4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="Football | StreamedSU",2. Bundesliga: 1. FC Nurnberg vs Hannover 96
+https://lb1.strmd.top/secure/XPEMwErPnIXhjxnWxZVtirlUEAZIYitN/charlie/stream/1-fc-nurnberg-vs-hannover-96-1388764/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="2. Bundesliga: Preuen Munster vs SV Elversberg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIecZz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football | StreamedSU",2. Bundesliga: Preuen Munster vs SV Elversberg
+https://lb4.strmd.top/secure/EBaFDxqFLDwXfCymVMRVFhMnUykEBAkg/charlie/stream/preussen-munster-vs-sv-elversberg-1388766/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Heart of Midlothian vs Rangers
+https://lb2.strmd.top/secure/XBljsqkCacOOWpygTpshBmSfpxDRcenz/delta/stream/live_premiership_hearts-rangers-live-streaming-440313408/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Girona FC vs Atltico Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Girona FC vs Atltico Madrid
+https://lb8.strmd.top/secure/xWKpYqEuaLSQDrjGUfVIJRTSGXbWxYKk/delta/stream/live_laliga_girona-atl-madrid-live-streaming-440384256/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bundesliga 2   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Bundesliga 2
+https://lb10.strmd.top/secure/pnkbxGjsjtodiETHkPemQcTXVQUXPnNq/echo/stream/bundesliga-2-bundes3-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs Pisa" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Football | StreamedSU",Cagliari vs Pisa
+https://gg.poocloud.in/sa_cag/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Alanyaspor vs Fatih Karagmrk" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kATBiE1QUIbiBKaQMQxBB8QO08sIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Alanyaspor vs Fatih Karagmrk
+https://lb6.strmd.top/secure/aXeaYKwdMVEREWDZhiiRnTfvoqFISQKE/echo/stream/alanyaspor-vs-fatih-karagumruk-football-1394577/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Utrecht vs PSV Eindhoven" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJuSQg17ENxB9ceoygMgIRkAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Football | StreamedSU",Utrecht vs PSV Eindhoven
+https://lb6.strmd.top/secure/SoMBbmjlZPDUyVWURaPBaoLeSDPMRSYA/charlie/stream/utrecht-vs-psv-eindhoven-1381019/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Felgueiras vs FC Porto B" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJtSxE+IbiDW5VRkiBggUIEygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Felgueiras vs FC Porto B
-https://lb7.strmd.top/secure/rhnceDPcBksWvJbgdZUDIyCqPfFpTvVg/charlie/stream/felgueiras-1932-vs-fc-porto-b-1398098/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs Pisa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Cagliari vs Pisa
-https://lb7.strmd.top/secure/rwOwHmURexTctRPqoqLxwSNsNYLWyhKi/delta/stream/live_serie-a_cagliari-pisa-live-streaming-440300016/1/playlist.m3u8
+https://lb1.strmd.top/secure/cxTMkOBgxqKmuUDNmcbcEOfEirkgktTI/charlie/stream/felgueiras-1932-vs-fc-porto-b-1398098/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
@@ -412,8 +438,6 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyI5bdpUhZgyV7WJsLR
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyFXe7NEJFtF9hbu8qGU75Hs/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="NBA | Pixel Sports",Portland Trail Blazers at Sacramento Kings
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCxHAW0B7O1YccaF03JGL3A/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="NBA | Pixel Sports",Portland Trail Blazers at Sacramento Kings
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMFgEyzv9t0ra_2vFMRF2co/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA | Pixel Sports",Charlotte Hornets at Detroit Pistons
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMN6H0PU7LwnhGZcU8wj4F8/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA | Pixel Sports",Charlotte Hornets at Detroit Pistons
@@ -454,10 +478,10 @@ https://v8.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=X3vdQNKDO9wHl4i2B2u
 https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-id="" tvg-name="Tulane Green Wave @ Ole Miss Rebels (12/20 3:30 PM ET)" group-title="NCAAF | Other",Tulane Green Wave @ Ole Miss Rebels (12/20 3:30 PM ET)
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 group-title="NCAAF | Other",12/20/25 12:00:00 PM EST = Miami Hurricanes @ Texas A&M Aggies
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Philadelphia Eagles @ Washington Commanders (12/20 5:00 PM ET)" group-title="NFL | Other",Philadelphia Eagles @ Washington Commanders (12/20 5:00 PM ET)
 https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 group-title="NFL | Other",12/21/25 01:00:00 PM EST = Tampa Bay Buccaneers @ Carolina Panthers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="ppv-15072" tvg-name="Buffalo Bills vs. Cleveland Browns" tvg-logo="https://api.ppv.to/assets/thumb/4f6f9b2fcef428719b4dc1ec89a0da50-thumbnail.jpg" group-title="NFL | PPV Land",Buffalo Bills vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/clevelandbrowns/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15074" tvg-name="Los Angeles Chargers vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. Dallas Cowboys - 01:00 PM ET / 11:00 AM MT / 18:00 UK
@@ -468,8 +492,6 @@ https://gg.poocloud.in/tennesseetitans/index.m3u8
 https://gg.poocloud.in/miamidolphins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15080" tvg-name="New York Jets vs. New Orleans Saints" tvg-logo="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg" group-title="NFL | PPV Land",New York Jets vs. New Orleans Saints - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/neworleanssaints/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15081" tvg-name="Minnesota Vikings vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg" group-title="NFL | PPV Land",Minnesota Vikings vs. New York Giants - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15082" tvg-name="Tampa Bay Buccaneers vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/0cb28b14ef6c9f5c864635115201ddd5-thumbnail.jpg" group-title="NFL | PPV Land",Tampa Bay Buccaneers vs. Carolina Panthers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15083" tvg-name="Jacksonville Jaguars vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" group-title="NFL | PPV Land",Jacksonville Jaguars vs. Denver Broncos - 04:05 PM ET / 02:05 PM MT / 21:05 UK
@@ -480,6 +502,8 @@ https://gg.poocloud.in/detroitlions/index.m3u8
 https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15087" tvg-name="New England Patriots vs. Baltimore Ravens" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" group-title="NFL | PPV Land",New England Patriots vs. Baltimore Ravens - 08:20 PM ET / 06:20 PM MT / 01:20 UK
 https://gg.poocloud.in/baltimoreravens/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15088" tvg-name="San Francisco 49ers vs. Indianapolis Colts" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Indianapolis Colts - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png" group-title="NFL | Pixel Sports",Atlanta Falcons at Arizona Cardinals
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyObAdZvPOfQQhCsk7zEQw58/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png" group-title="NFL | Pixel Sports",Atlanta Falcons at Arizona Cardinals
@@ -568,16 +592,18 @@ https://tvpass.org/live/NHL20/sd
 https://tvpass.org/live/NHL28/sd
 #EXTINF:-1 tvg-id="" tvg-name="Seattle Kraken @ San Jose Sharks (12/20 10:00 PM ET)" group-title="NHL | Other",Seattle Kraken @ San Jose Sharks (12/20 10:00 PM ET)
 https://tvpass.org/live/NHL16/sd
+#EXTINF:-1 tvg-id="ppv-15204" tvg-name="Washington Capitals vs. Detroit Red Wings" tvg-logo="https://api.ppv.to/assets/thumb/2de80b25ba1edf89c36ee425745bb998-thumbnail.jpg" group-title="NHL | PPV Land",Washington Capitals vs. Detroit Red Wings - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/detroitredwings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15206" tvg-name="Colorado Avalanche vs. Minnesota Wild" tvg-logo="https://api.ppv.to/assets/thumb/e8fc6191aa93b57e16445798916999d2-thumbnail.jpg" group-title="NHL | PPV Land",Colorado Avalanche vs. Minnesota Wild - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 https://gg.poocloud.in/minnesotawild/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15209" tvg-name="Ottawa Senators vs. Boston Bruins" tvg-logo="https://api.ppv.to/assets/thumb/e4cbdb5057f25f6597bae8441ce27815-thumbnail.jpg" group-title="NHL | PPV Land",Ottawa Senators vs. Boston Bruins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15211" tvg-name="Buffalo Sabres vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/eef29af3ea513ce73f449c1e02b902ae-thumbnail.jpg" group-title="NHL | PPV Land",Buffalo Sabres vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15212" tvg-name="Montreal Canadiens vs. Pittsburgh Penguins" tvg-logo="https://api.ppv.to/assets/thumb/6c1dc75889c0c83388d621de2b24d4fa-thumbnail.jpg" group-title="NHL | PPV Land",Montreal Canadiens vs. Pittsburgh Penguins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15214" tvg-name="New York Rangers vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/170b6d6613673c63644255adf855e075-thumbnail.jpg" group-title="NHL | PPV Land",New York Rangers vs. Nashville Predators - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/nashvillepredators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15216" tvg-name="Toronto Maple Leafs vs. Dallas Stars" tvg-logo="https://api.ppv.to/assets/thumb/f92443fe4041e61951f88e8e139ed1f5-thumbnail.jpg" group-title="NHL | PPV Land",Toronto Maple Leafs vs. Dallas Stars - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/dallasstars/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15218" tvg-name="Winnipeg Jets vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/725cd8cdb1253d26ba46a5560d2a6df3-thumbnail.jpg" group-title="NHL | PPV Land",Winnipeg Jets vs. Utah Mammoth - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/utahmammoth/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15219" tvg-name="Vegas Golden Knights vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/d4d004c8cced1ade4bf3f4a7cce847c7-thumbnail.jpg" group-title="NHL | PPV Land",Vegas Golden Knights vs. Edmonton Oilers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
@@ -589,7 +615,7 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCSENu_Hi29oXcf1dY
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png" group-title="NHL | Pixel Sports",Vancouver Canucks at Boston Bruins
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyOgXcGNPcfi26b2dA-BnT6Y/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png" group-title="NHL | Pixel Sports",Vancouver Canucks at Boston Bruins
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyEJrJFF4t2841N8lofM-x7U/.m3u8
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyM_Tduhy9w95BpGuaMK7-Kw/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png" group-title="NHL | Pixel Sports",New York Islanders at Buffalo Sabres
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyNsvHql5ltXBlVcW0TS8CvM/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png" group-title="NHL | Pixel Sports",New York Islanders at Buffalo Sabres
@@ -618,8 +644,6 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCwWQ2TUpBndWAZgQD
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyG5eatdcuq8b3m6GEkjzk1w/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png" group-title="NHL | Pixel Sports",Detroit Red Wings at Washington Capitals
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyD5dNXkK9mPz725G69UiMUA/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="NHL | Pixel Sports",Chicago Blackhawks at Ottawa Senators
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyM_Tduhy9w95BpGuaMK7-Kw/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="NHL | Pixel Sports",Chicago Blackhawks at Ottawa Senators
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyM3LLzGbtH-M3ufNSFjV5FM/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png" group-title="NHL | Pixel Sports",Philadelphia Flyers at New York Rangers
