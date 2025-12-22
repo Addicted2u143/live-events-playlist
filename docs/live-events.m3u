@@ -10,8 +10,6 @@ https://gg.poocloud.in/neworleanspelicans/index.m3u8
 https://gg.poocloud.in/denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15303" tvg-name="Memphis Grizzlies vs. Oklahoma City Thunder" tvg-logo="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" group-title="Basketball | PPV Land",Memphis Grizzlies vs. Oklahoma City Thunder - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 https://gg.poocloud.in/oklahomacitythunder/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15304" tvg-name="Orlando Magic vs. Golden State Warriors" tvg-logo="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" group-title="Basketball | PPV Land",Orlando Magic vs. Golden State Warriors - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15306" tvg-name="Detroit Pistons vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" group-title="Basketball | PPV Land",Detroit Pistons vs. Portland Trail Blazers - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sydney Thunder vs Brisbane Heat" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATbCFG0wYFCG4gIIPTlUgYa3CEQoCFJnxRcwZeEXminTbS7GiIQA.webp" group-title="Cricket | StreamedSU",Sydney Thunder vs Brisbane Heat
@@ -432,6 +430,8 @@ https://e5.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=QS78V7NIiRe2I8YWvRZ
 https://v3.thetvapp.to/hls/NBA25/tracks-v1a1/mono.m3u8?token=sE4U0lrnUJPaVDvaqun_Rg&expires=1766419610&user_id=YzQybjVOOUNnWDhxSTNxOWFySXB5c2YwOTFsSGw4SE41RmFOYWgyTg==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Sacramento Kings - 12/22/25, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Houston Rockets @ Sacramento Kings - 12/22/25 - 3:10:00 AM UTC HD
 https://v17.thetvapp.to/hls/NBA25/tracks-v1a1/mono.m3u8?token=9PpRopJisnfv2bWPPuAxBA&expires=1766419616&user_id=YzQybjVOOUNnWDhxSTNxOWFySXB5c2YwOTFsSGw4SE41RmFOYWgyTg==
+#EXTINF:-1 group-title="NCAAF | Other",12/22/25 02:00:00 PM EST = Washington State Cougars @ Utah State Aggies
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Buccaneers @ Carolina Panthers (12/21 1:00 PM ET)" group-title="NFL | Other",Tampa Bay Buccaneers @ Carolina Panthers (12/21 1:00 PM ET)
 https://tvpass.org/live/NFL12/sd
 #EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Cleveland Browns (12/21 1:00 PM ET)" group-title="NFL | Other",Buffalo Bills @ Cleveland Browns (12/21 1:00 PM ET)
@@ -515,9 +515,7 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyJA9o24sh4UZTJb2x2
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Seattle Seahawks
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCnhUz2FjK58d-mhYtT4qpY/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png" group-title="NFL | Pixel Sports",San Francisco 49ers at Indianapolis Colts
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyEHG7MFYUksj8NR6QnMho0Q/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png" group-title="NFL | Pixel Sports",San Francisco 49ers at Indianapolis Colts
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMStrzVnUHG-PGk1xctvmVA/.m3u8
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyGigxDFPlqQaPgRq_DseWFU/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills @ Cleveland Browns - 12/21/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Buffalo Bills @ Cleveland Browns - 12/21/25 - 6:00:00 PM UTC SD
 https://v15.thetvapp.to/hls/NFL18/tracks-v1a1/mono.m3u8?token=SDl2itr09SkQqSArQv4WPw&expires=1766419623&user_id=YzQybjVOOUNnWDhxSTNxOWFySXB5c2YwOTFsSGw4SE41RmFOYWgyTg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills @ Cleveland Browns - 12/21/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Buffalo Bills @ Cleveland Browns - 12/21/25 - 6:00:00 PM UTC HD
