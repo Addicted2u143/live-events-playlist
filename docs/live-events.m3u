@@ -26,6 +26,8 @@ https://lb1.strmd.top/secure/TCpgbVXwnqXevjJamSNjFThdneuqUEAE/charlie/stream/mex
 https://lb5.strmd.top/secure/newKMmpOuimEJQPNrOVQPCIFyoCPUFIz/delta/stream/live_ncaa_south-carolina-south-carolina-st-live-streaming-426829392/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Weber State Wildcats vs Lincoln University Oaklanders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Weber State Wildcats vs Lincoln University Oaklanders
 https://lb4.strmd.top/secure/biutgpeHGhIYPVzkjRVxohUOUZCPGTcI/delta/stream/live_ncaa_weber-lu-oaklanders-live-streaming-426830688/1/playlist.m3u8
+#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -404,6 +406,20 @@ https://tvpass.org/live/NBA15/sd
 https://tvpass.org/live/NBA01/sd
 #EXTINF:-1 tvg-id="" tvg-name="Orlando Magic @ Golden State Warriors (12/22 10:10 PM ET)" group-title="NBA | Other",Orlando Magic @ Golden State Warriors (12/22 10:10 PM ET)
 https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 group-title="NBA | Other",12/22/25 07:10:00 PM EST = Charlotte Hornets @ Cleveland Cavaliers
+https://e1.thetvapp.to/hls/NBA13/tracks-v1a1/mono.m3u8?token=EaJQ5MecRqqfaW7JZDKh-g&expires=1766464474&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 07:40:00 PM EST = Indiana Pacers @ Boston Celtics
+https://e2.thetvapp.to/hls/NBA23/tracks-v1a1/mono.m3u8?token=Rab6x4Sy4VnOSiPKROox3Q&expires=1766464484&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 08:10:00 PM EST = Dallas Mavericks @ New Orleans Pelicans
+https://e3.thetvapp.to/hls/NBA29/tracks-v1a1/mono.m3u8?token=t5hT_08pzSmHERrtjIYJlg&expires=1766464494&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 09:10:00 PM EST = Utah Jazz @ Denver Nuggets
+https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=HdxUFrebpfEPyIsvw6Qicg&expires=1766464504&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 09:40:00 PM EST = Memphis Grizzlies @ Oklahoma City Thunder
+https://v18.thetvapp.to/hls/NBA15/tracks-v1a1/mono.m3u8?token=nM60uAdIaSP6oIHZeRnUBw&expires=1766464515&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 10:00:00 PM EST = Detroit Pistons @ Portland Trail Blazers
+https://v1.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=UB_-EPr8X0Ewo7rl3qHlaA&expires=1766464525&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NBA | Other",12/22/25 10:10:00 PM EST = Orlando Magic @ Golden State Warriors
+https://v12.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=hkrNsBkSL_Id0KedseCdaQ&expires=1766464535&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA | Pixel Sports",Orlando Magic at Golden State Warriors
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyH-5y4hr0vfnPAfvifM-8PY/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA | Pixel Sports",Orlando Magic at Golden State Warriors
@@ -464,10 +480,14 @@ https://v3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=ase68waryYSugrsoizI
 https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 group-title="NCAAF | Other",12/22/25 02:00:00 PM EST = Washington State Cougars @ Utah State Aggies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF | Other",12/22/25 02:00:00 PM EST = Washington State Cougars @ Utah State Aggies
+https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=k9PsuNdMBUph4PGq0EDhow&expires=1766464463&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Washington State Cougars @ Utah State Aggies - 12/22/25, 7:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Washington State Cougars @ Utah State Aggies - 12/22/25 - 7:00:00 PM UTC SD
 https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=9xH2dH5MVG8_tLPBUHHIjg&expires=1766462245&user_id=NmpCREFYaDBjV3o3eUFhdldZYU1MdE1Vd01OSFA5WmJGdENuOGlhSQ==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Washington State Cougars @ Utah State Aggies - 12/22/25, 7:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Washington State Cougars @ Utah State Aggies - 12/22/25 - 7:00:00 PM UTC HD
 https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=dQbKArgzou9PVDNmpZ_2dg&expires=1766462250&user_id=NmpCREFYaDBjV3o3eUFhdldZYU1MdE1Vd01OSFA5WmJGdENuOGlhSQ==
+#EXTINF:-1 group-title="NFL | Other",12/22/25 08:15:00 PM EST = San Francisco 49ers @ Indianapolis Colts
+https://v17.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=VjPYV8FNJXGjLGTDc3N2Sg&expires=1766464586&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
 #EXTINF:-1 tvg-id="ppv-15088" tvg-name="San Francisco 49ers vs. Indianapolis Colts" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Indianapolis Colts - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png" group-title="NFL | Pixel Sports",Tampa Bay Buccaneers at Carolina Panthers
@@ -516,6 +536,14 @@ https://tvpass.org/live/NHLNetwork/sd
 https://tvpass.org/live/NHL16/sd
 #EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Los Angeles Kings (12/22 10:10 PM ET)" group-title="NHL | Other",Columbus Blue Jackets @ Los Angeles Kings (12/22 10:10 PM ET)
 https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 group-title="NHL | Other",12/22/25 07:10:00 PM EST = St Louis Blues @ Tampa Bay Lightning
+https://v4.thetvapp.to/hls/NHL22/tracks-v1a1/mono.m3u8?token=cRAU0Efes-Sj-RPtU4wc7w&expires=1766464545&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NHL | Other",12/22/25 07:40:00 PM EST = Vancouver Canucks @ Philadelphia Flyers
+https://v14.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=KRYXArb_6-bk-p64wH5NqQ&expires=1766464556&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NHL | Other",12/22/25 10:10:00 PM EST = Seattle Kraken @ Anaheim Ducks
+https://v8.thetvapp.to/hls/NHL16/tracks-v1a1/mono.m3u8?token=H7xxo167Dn0wtpbRpk09wA&expires=1766464566&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
+#EXTINF:-1 group-title="NHL | Other",12/22/25 10:10:00 PM EST = Columbus Blue Jackets @ Los Angeles Kings
+https://e5.thetvapp.to/hls/NHL20/tracks-v1a1/mono.m3u8?token=WBomUcNuG5Fr7lgdXWhRhQ&expires=1766464576&user_id=YXVhQ3ZYNlFlWjZ5VXdhdTRndUdDNERHVlN6UXhwV0h1aFNwTmJlVw==
 #EXTINF:-1 tvg-id="ppv-15296" tvg-name="St. Louis Blues vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/3d370ac000d3cfe4bc66a90df8d203d6-thumbnail.jpg" group-title="NHL | PPV Land",St. Louis Blues vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15300" tvg-name="Vancouver Canucks vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg" group-title="NHL | PPV Land",Vancouver Canucks vs. Philadelphia Flyers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
