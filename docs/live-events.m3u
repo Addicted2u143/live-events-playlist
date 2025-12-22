@@ -8,10 +8,10 @@ https://gg.poocloud.in/bostonceltics/index.m3u8
 https://gg.poocloud.in/neworleanspelicans/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15301" tvg-name="Utah Jazz vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/27c0c38dc0c8fd606f56d0e5c547a638-thumbnail.jpg" group-title="Basketball | PPV Land",Utah Jazz vs. Denver Nuggets - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 https://gg.poocloud.in/denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15303" tvg-name="Memphis Grizzlies vs. Oklahoma City Thunder" tvg-logo="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" group-title="Basketball | PPV Land",Memphis Grizzlies vs. Oklahoma City Thunder - 09:30 PM ET / 07:30 PM MT / 02:30 UK
-https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15304" tvg-name="Orlando Magic vs. Golden State Warriors" tvg-logo="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" group-title="Basketball | PPV Land",Orlando Magic vs. Golden State Warriors - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15306" tvg-name="Detroit Pistons vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" group-title="Basketball | PPV Land",Detroit Pistons vs. Portland Trail Blazers - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Houston Rockets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA.webp" group-title="Basketball | StreamedSU",Sacramento Kings vs Houston Rockets
 https://gg.poocloud.in/sacramentokings/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -514,6 +514,8 @@ https://v12.thetvapp.to/hls/NFL02/tracks-v1a1/mono.m3u8?token=rtcmAukd0iFtOwxKFW
 https://v14.thetvapp.to/hls/NFL19/tracks-v1a1/mono.m3u8?token=TFY9qJoCp4-tfcvmEobJZQ&expires=1766400710&user_id=cjd3VGFka2F6dlBydGxJZ0JRRjlmTG9SdkE3U0tHek50RGpMM3dJZQ==
 #EXTINF:-1 group-title="NFL | Other",12/21/25 08:20:00 PM EST = New England Patriots @ Baltimore Ravens
 https://v18.thetvapp.to/hls/NFL03/tracks-v1a1/mono.m3u8?token=OCdPZ3csm3TAG8nAKWMO2w&expires=1766400720&user_id=cjd3VGFka2F6dlBydGxJZ0JRRjlmTG9SdkE3U0tHek50RGpMM3dJZQ==
+#EXTINF:-1 tvg-id="ppv-15088" tvg-name="San Francisco 49ers vs. Indianapolis Colts" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Indianapolis Colts - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png" group-title="NFL | Pixel Sports",Tampa Bay Buccaneers at Carolina Panthers
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyBENjmbIcIC6HL_TF5yx8sM/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="NFL | Pixel Sports",Green Bay Packers at Chicago Bears
@@ -656,8 +658,6 @@ https://gg.poocloud.in/tampabaylightning/index.m3u8
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15302" tvg-name="Seattle Kraken vs. Anaheim Ducks" tvg-logo="https://api.ppv.to/assets/thumb/bda2b8775578b430255dbabba203a2a4-thumbnail.jpg" group-title="NHL | PPV Land",Seattle Kraken vs. Anaheim Ducks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/anaheimducks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15305" tvg-name="Columbus Blue Jackets vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/8324015438e74566ad4107797464ecce-thumbnail.jpg" group-title="NHL | PPV Land",Columbus Blue Jackets vs. Los Angeles Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png" group-title="NHL | Pixel Sports",Vegas Golden Knights at Edmonton Oilers
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyJKbdz6w37WhU4IYZUIzYYw/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png" group-title="NHL | Pixel Sports",Vegas Golden Knights at Edmonton Oilers
