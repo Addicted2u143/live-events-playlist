@@ -28,10 +28,10 @@ https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 https://gg.poocloud.in/sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15377" tvg-name="Houston Rockets vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/94b4f1cf31966369b75b8bde3a5ff25a-thumbnail.jpg" group-title="Basketball | PPV Land",Houston Rockets vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
 https://gg.poocloud.in/laclippers/index.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Adelaide Strikers vs Melbourne Stars" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4EEHzAATEIm6aQBkrhC6Uhk3wIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Cricket | StreamedSU",Adelaide Strikers vs Melbourne Stars
-https://lb9.strmd.top/secure/PQvwwSKQUznwLddcAmDWueWDyaJGApvt/charlie/stream/adelaide-strikers-vs-melbourne-stars-1629472397/1/playlist.m3u8
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Darts Championship
 https://gg.poocloud.in/darts/index.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Championships: Day Thirteen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Championships: Day Thirteen
+https://lb8.strmd.top/secure/xQYfTiXnRuxXWjwJLJWLINzqsoCugBWS/charlie/stream/day-thirteen-1629472564/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -364,6 +364,10 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="DR Congo vs Benin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh174Q3XGBIgU6kNt2IcfHSAggLfAhSZWuW8vXmiUwJrTBaxoiEA.webp" group-title="Football | StreamedSU",DR Congo vs Benin
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Africa Cup of Nations: Congo DR vs Benin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFkfn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football | StreamedSU",Africa Cup of Nations: Congo DR vs Benin
+https://lb10.strmd.top/secure/LfhfplpIawybjnouXmTdBNcLXhSyzCUV/charlie/stream/congo-dr-vs-benin-1347246/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
@@ -444,30 +448,14 @@ https://v2.thetvapp.to/hls/NBA15/tracks-v1a1/mono.m3u8?token=BerH26SjPw_Q4ukLTJl
 https://v1.thetvapp.to/hls/NBA15/tracks-v1a1/mono.m3u8?token=IoYuhXBlpfXZGUSdsOIP9Q&expires=1766505793&user_id=UTgyaEtCSEpRNkRQaHBiNm45U0NmTHNHZ0pFS0t6NXlybVh4UTVmZw==
 #EXTINF:-1 tvg-id="" tvg-name="Washington State Cougars @ Utah State Aggies (12/22 2:00 PM ET)" group-title="NCAAF | Other",Washington State Cougars @ Utah State Aggies (12/22 2:00 PM ET)
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 group-title="NCAAF | Other",12/22/25 02:00:00 PM EST = Washington State Cougars @ Utah State Aggies
+#EXTINF:-1 group-title="NCAAF | Other",12/23/25 02:00:00 PM EST = Toledo Rockets @ Louisville Cardinals
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 tvg-id="ppv-15337" tvg-name="Dallas Cowboys vs. Washington Commanders" tvg-logo="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg" group-title="NFL | PPV Land",Dallas Cowboys vs. Washington Commanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15342" tvg-name="Detroit Lions vs. Minnesota Vikings" tvg-logo="https://api.ppv.to/assets/thumb/03acdf9085886d1cc43f0e5e625e64b7-thumbnail.jpg" group-title="NFL | PPV Land",Detroit Lions vs. Minnesota Vikings - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 https://gg.poocloud.in/minnesotavikings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15345" tvg-name="Denver Broncos vs. Kansas City Chiefs" tvg-logo="https://api.ppv.to/assets/thumb/f62324be7b3bf56476438d49563762f2-thumbnail.jpg" group-title="NFL | PPV Land",Denver Broncos vs. Kansas City Chiefs - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 https://gg.poocloud.in/kansascitychiefs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15347" tvg-name="Houston Texans vs. Los Angeles Chargers" tvg-logo="https://api.ppv.to/assets/thumb/4aa181f5dc2a6ba15bb634a389592ce0-thumbnail.jpg" group-title="NFL | PPV Land",Houston Texans vs. Los Angeles Chargers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
-https://gg.poocloud.in/losangeleschargers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15354" tvg-name="Baltimore Ravens vs. Green Bay Packers" tvg-logo="https://api.ppv.to/assets/thumb/de39ba20ea4671132358f4d801684320-thumbnail.jpg" group-title="NFL | PPV Land",Baltimore Ravens vs. Green Bay Packers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-https://gg.poocloud.in/greenbaypackers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15359" tvg-name="Pittsburgh Steelers vs. Cleveland Browns" tvg-logo="https://api.ppv.to/assets/thumb/e48fc14b33e31a3a596c628d15b01ed9-thumbnail.jpg" group-title="NFL | PPV Land",Pittsburgh Steelers vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/clevelandbrowns/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15362" tvg-name="New Orleans Saints vs. Tennessee Titans" tvg-logo="https://api.ppv.to/assets/thumb/61a6d4c8d6c69316e8584f2f3a48bb51-thumbnail.jpg" group-title="NFL | PPV Land",New Orleans Saints vs. Tennessee Titans - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/tennesseetitans/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15365" tvg-name="Jacksonville Jaguars vs. Indianapolis Colts" tvg-logo="https://api.ppv.to/assets/thumb/f06f88f731415663cd77133b9e102bac-thumbnail.jpg" group-title="NFL | PPV Land",Jacksonville Jaguars vs. Indianapolis Colts - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/indianapoliscolts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15373" tvg-name="New England Patriots vs. New York Jets" tvg-logo="https://api.ppv.to/assets/thumb/43e0f565474b3d0cb791a89438c2f605-thumbnail.jpg" group-title="NFL | PPV Land",New England Patriots vs. New York Jets - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/newyorkjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15376" tvg-name="Seattle Seahawks vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/24a50be34f52ac5c251f2d2470d5483a-thumbnail.jpg" group-title="NFL | PPV Land",Seattle Seahawks vs. Carolina Panthers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-https://gg.poocloud.in/carolinapanthers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15379" tvg-name="Philadelphia Eagles vs. Buffalo Bills" tvg-logo="https://api.ppv.to/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg" group-title="NFL | PPV Land",Philadelphia Eagles vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK
-https://gg.poocloud.in/buffalobills/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15380" tvg-name="Chicago Bears vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/3c6e96c183dc419879fb33d07bf334de-thumbnail.jpg" group-title="NFL | PPV Land",Chicago Bears vs. San Francisco 49ers - 08:20 PM ET / 06:20 PM MT / 01:20 UK
-https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15381" tvg-name="Los Angeles Rams vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/78103dcbc7712cff3aa665658996a4d7-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png" group-title="NFL | Pixel Sports",Pittsburgh Steelers at Detroit Lions
