@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dubai Capitals vs Sharjah Warriorz" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5huIOPCIATEOr649ICCFMwQBxDAIUmfFFzBkt9eaIdNaYJ2NEQgA.webp" group-title="Cricket | StreamedSU",Dubai Capitals vs Sharjah Warriorz
-https://lb10.strmd.top/secure/AvCnFRaFeCVeQTwnsqSeaUfUtXBkqFtE/charlie/stream/dubai-capitals-vs-sharjah-warriorz-1629472400/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -336,10 +334,12 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ivory Coast vs Mozambique" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQUsYACZgUIEiG4g+ICLn0gYpkCA3mCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Football | StreamedSU",Ivory Coast vs Mozambique
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Samsunspor vs Eypspor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJgxBxRObiDW59ICMZAlVIPTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Samsunspor vs Eypspor
+https://lb2.strmd.top/secure/rTjvgxSfVLUGznpfuQFeyfjSbjKrgAXQ/echo/stream/samsunspor-vs-eyupspor-football-1489319/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cte d'Ivoire vs Mozambique" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Cte d'Ivoire vs Mozambique
-https://lb9.strmd.top/secure/tyEIvWttwUxFIBDDgUWWngDYXkwMRVFa/delta/stream/live_africa-cup-of-nations-group-f_cote-divoire-mozambique-live-streaming-440472816/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Champions League Two: Al Nassr vs Al Zawraa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",AFC Champions League Two: Al Nassr vs Al Zawraa
-https://lb9.strmd.top/secure/RZUXtrRiZZcZuXcrOsvwiUBsUEgJngge/charlie/stream/al-nassr-w-vs-al-zawraa-1629472603/1/playlist.m3u8
+https://lb8.strmd.top/secure/jcXknjsnwMXmTJSrEakRooKKBTchGXKS/delta/stream/live_africa-cup-of-nations-group-f_cote-divoire-mozambique-live-streaming-440472816/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
 https://locked.pixelpanel.online/hdstream/embed/617.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
@@ -383,13 +383,11 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyI0GxCvocLRBeC7LQU
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF | Other",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 group-title="NCAAF | Other",12/24/25 08:00:00 PM EST = California Golden Bears @ Hawaii Rainbow Warriors
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NCAAF | Other",12/24/25 08:00:00 PM EST = California Golden Bears @ Hawaii Rainbow Warriors
 https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=huXEAIVjaUvkCllfb98mXg&expires=1766615898&user_id=UWVFc1l4SzV1bHR6MHFRRnA0aGJsTWozNXVNZTZEOEkxaklaVjhhaw==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors - 12/25/25, 1:00:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",California Golden Bears @ Hawaii Rainbow Warriors - 12/25/25 - 1:00:00 AM UTC SD
-https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=8UaMio4YsACQ2DY2d_fj5Q&expires=1766617330&user_id=ZVNEUHh0V1l5YVF1VEF6ZmZPcmIzQ1Jheml6V1czWVVCZWVVRnYwTQ==
+https://v5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=ZUIQVIWjXghLcaxl1NiygA&expires=1766620495&user_id=bTZGSDViMk9xRzRMR2dJc0JOeXpqWkFZVHl0aGQyWnVHalZMQWpZNg==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors - 12/25/25, 1:00:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",California Golden Bears @ Hawaii Rainbow Warriors - 12/25/25 - 1:00:00 AM UTC HD
-https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=0vnXcai2SRHlLfH1Ejqhjg&expires=1766617335&user_id=ZVNEUHh0V1l5YVF1VEF6ZmZPcmIzQ1Jheml6V1czWVVCZWVVRnYwTQ==
+https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=1o4DsVPpoMAJ_UXpnHvxWw&expires=1766620500&user_id=bTZGSDViMk9xRzRMR2dJc0JOeXpqWkFZVHl0aGQyWnVHalZMQWpZNg==
 #EXTINF:-1 tvg-id="ppv-15337" tvg-name="Dallas Cowboys vs. Washington Commanders" tvg-logo="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg" group-title="NFL | PPV Land",Dallas Cowboys vs. Washington Commanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15342" tvg-name="Detroit Lions vs. Minnesota Vikings" tvg-logo="https://api.ppv.to/assets/thumb/03acdf9085886d1cc43f0e5e625e64b7-thumbnail.jpg" group-title="NFL | PPV Land",Detroit Lions vs. Minnesota Vikings - 04:30 PM ET / 02:30 PM MT / 21:30 UK
