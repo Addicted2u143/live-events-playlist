@@ -16,12 +16,10 @@ https://gg.poocloud.in/houstonrockets/index.m3u8
 https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15467" tvg-name="Utah Jazz vs. San Antonio Spurs" tvg-logo="https://api.ppv.to/assets/thumb/6d351ca8380aade234b06aacb4406e37-thumbnail.jpg" group-title="Basketball | PPV Land",Utah Jazz vs. San Antonio Spurs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs Joburg Super Kings" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgAJsCRgUdbCG4g+IRBH0hziIyWMEKTPjrZgy8IvNE6mtMM7GiIQA.webp" group-title="Cricket | StreamedSU",Pretoria Capitals vs Joburg Super Kings
-https://lb7.strmd.top/secure/UcbDNdESgYLVEHClSBoBfPkSWqKfdnGe/charlie/stream/pretoria-capitals-vs-joburg-super-kings-1629472410/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Darts Championship
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Championships: Day Fourteen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Championships: Day Fourteen
-https://lb9.strmd.top/secure/JuZSwpMsgjHZnaZbLuejQcwlTNHsPnUR/charlie/stream/day-fourteen-1629472668/1/playlist.m3u8
+https://lb10.strmd.top/secure/GqKhsdquDVEKaHblEQxKzFzTqkQRjqad/charlie/stream/day-fourteen-1629472668/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -355,23 +353,47 @@ https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyze
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Naoya Inoue vs David Picasso" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Fight | StreamedSU",Naoya Inoue vs David Picasso
-https://lb10.strmd.top/secure/iuKtYjSrOhaRlavVpoVbTdygwGfbqWnR/delta/stream/live-event_naoya-inoue-vs-david-picasso-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/ANHiZPYOOYKAHrxtujeSQmbRQMYpkbbS/delta/stream/live-event_naoya-inoue-vs-david-picasso-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ring V: Night of the Samurai: Inoue vs. Picasso" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Fight | StreamedSU",Ring V: Night of the Samurai: Inoue vs. Picasso
 https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lecce vs Como" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Lecce vs Como
-https://lb5.strmd.top/secure/MRYgmsvTaafsLdgfYUDZtATVkSvYHmLB/delta/stream/live_serie-a_lecce-como-live-streaming-440519472/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Torino vs Cagliari" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Torino vs Cagliari
-https://lb9.strmd.top/secure/xZlfcDnnMbIsMqwhtAqNrIFCBPbMlCBG/delta/stream/live_serie-a_torino-cagliari-live-streaming-440519904/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Carrarese vs Mantova" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATNmCQg+RHNzUgIIYyW0gUIRKYmEYwJnxRcwZeLtKcmtMC7GiIQA.webp" group-title="Football | StreamedSU",Carrarese vs Mantova
+https://lb2.strmd.top/secure/dxgdlJItiUfJfKFsPMNNZRQjaIADMSLb/charlie/stream/carrarese-vs-mantova-1419765/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Venezia vs Virtus Entella" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0R8wKBiDIkQ3EABMQKEIghaQfA1cYUmfDWzBl4ReaI1NaYJ2NEQgA.webp" group-title="Football | StreamedSU",Venezia vs Virtus Entella
+https://lb6.strmd.top/secure/HGWnkCsWeMbNtOHaVPRUZOHIopRwJVMm/charlie/stream/venezia-vs-virtus-entella-1419763/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Catanzaro vs Cesena" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgYEDE1gk2ENxAATEHxO4QJI2ZzwCFJnzVswZeEXmi1TWmBdjREEA.webp" group-title="Football | StreamedSU",Catanzaro vs Cesena
+https://lb7.strmd.top/secure/CiZOgSfChDVBOLFSIfNPnyhUdQFvcVUw/charlie/stream/catanzaro-vs-cesena-1419767/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Juve Stabia vs Sdtirol" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhgAE04sQEENxAkQfECiO4DIGCdUEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Juve Stabia vs Sdtirol
+https://lb3.strmd.top/secure/TpjJflVUZezMPzMWqyAhFTGUVXxSSXNT/echo/stream/juve-stabia-vs-sudtirol-football-1419761/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Torino vs Cagliari" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuQ3gIIbiB06+IEiEQGQRiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Torino vs Cagliari
+https://gg.poocloud.in/sa_tor/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sampdoria vs Reggiana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATYKrAgQ6tCG46QMI7kOqQfC0YIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Sampdoria vs Reggiana
+https://lb10.strmd.top/secure/eogWpEwlVJbntTzIjAhbdYKOEFgUuhTA/charlie/stream/sampdoria-vs-reggiana-1419764/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lecce vs Como" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="Football | StreamedSU",Lecce vs Como
+https://gg.poocloud.in/sa_lec/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal vs Brighton & Hove Albion" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Arsenal vs Brighton & Hove Albion
+https://lb9.strmd.top/secure/jKPPOkWEQFrEoWMFQuwdqnvwVNXEjSIs/delta/stream/live_premier-league_arsenal-brighton-live-streaming-440515152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brentford vs Bournemouth" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Brentford vs Bournemouth
+https://lb1.strmd.top/secure/DfKCKREXZRxGQCiKlzQQOiKxWSJPtMSI/delta/stream/live_premier-league_brentford-bournemouth-live-streaming-440515584/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Burnley vs Everton" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Burnley vs Everton
+https://lb6.strmd.top/secure/HfXeMyBeeYErmtrEImEIUtbMfbbXcaBB/delta/stream/live_premier-league_burnley-everton-live-streaming-440516016/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Wolverhampton" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Liverpool vs Wolverhampton
+https://lb2.strmd.top/secure/MYFHLRixvjZoywMKPSdFUWteDuCyJMUI/delta/stream/live_premier-league_liverpool-wolves-live-streaming-440517312/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="West Ham United vs Fulham" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",West Ham United vs Fulham
+https://lb10.strmd.top/secure/VGLAeHLLILYKLhXCfkQWaNoZqqYivdGp/delta/stream/live_premier-league_west-ham-fulham-live-streaming-440519040/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Livingston vs Celtic" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Livingston vs Celtic
+https://lb5.strmd.top/secure/KjnENugHIdZMGpLZgVOEUZNMdAniztmb/delta/stream/live_premiership_livingston-celtic-live-streaming-440528112/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rangers vs Motherwell" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Rangers vs Motherwell
+https://lb7.strmd.top/secure/WEPsgfFqDsKcoAtcHNwOGKlkmLoMjJEq/delta/stream/live_premiership_rangers-motherwell-live-streaming-440528544/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Senegal vs DR Congo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Senegal vs DR Congo
+https://lb7.strmd.top/secure/HwJRdjbwDViAgakzVAkHLtDTMspbNXwM/delta/stream/live_africa-cup-of-nations-group-d_senegal-dr-congo-live-streaming-440514288/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Nassr vs Al-Okhdood" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Al-Nassr vs Al-Okhdood
+https://lb8.strmd.top/secure/AaOfAPIIWPggPtsmGIyyugKkDLSFVBjq/delta/stream/live_saudi-pro-league_al-nassr-al-okhdood-live-streaming-440534160/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benin vs Botswana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjghgSYGDEATENxAkDIRDhgg+IS7uWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="Football | StreamedSU",Benin vs Botswana
 https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nottingham Forest vs Manchester City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPrDBqsYFCG4gIIFSD6HjuCyX0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Nottingham Forest vs Manchester City
 https://gg.poocloud.in/pl_nfo/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hibernian vs Heart of Midlothian" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MABMwKSCG4gIhkHxAkQKExZCIUBCkz4ouYMvCLzRzprTCuxohBAA.webp" group-title="Football | StreamedSU",Hibernian vs Heart of Midlothian
-https://lb7.strmd.top/secure/sOqCtzpnRZjmFpsiFzOqqbdcnAHEIPrP/charlie/stream/hibernian-vs-heart-of-midlothian-1382774/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Parma vs Fiorentina" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMQqpuBIhuIACYhtBmCBTqQJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Parma vs Fiorentina
-https://gg.poocloud.in/sa_par/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spezia vs Pescara" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIowfMGvA5uICLhAATECeMoQfEIhQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Spezia vs Pescara
-https://lb7.strmd.top/secure/BBSWWCSefNTKJspNnpTibRmiQhdasVKC/charlie/stream/spezia-vs-pescara-1419762/1/playlist.m3u8
+https://lb5.strmd.top/secure/wFWuLDmqPwgBtHSeoDWuiGijIBepntUx/charlie/stream/hibernian-vs-heart-of-midlothian-1382774/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
