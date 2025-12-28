@@ -528,10 +528,14 @@ https://gg.poocloud.in/lasvegasraiders/index.m3u8
 https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15380" tvg-name="Chicago Bears vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/3c6e96c183dc419879fb33d07bf334de-thumbnail.jpg" group-title="NFL | PPV Land",Chicago Bears vs. San Francisco 49ers - 08:20 PM ET / 06:20 PM MT / 01:20 UK
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15428" tvg-name="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/01e2ba4fa3116d354ddb171a3593390f-thumbnail.jpg" group-title="NFL | PPV Land",Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTINF:-1 tvg-id="ppv-15381" tvg-name="Los Angeles Rams vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/78103dcbc7712cff3aa665658996a4d7-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+https://gg.poocloud.in/atlantafalcons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15429" tvg-name="Tennessee Volunteers vs. Illinois Fighting Illini" tvg-logo="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg" group-title="NFL | PPV Land",Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK
 https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15433" tvg-name="Michigan Wolverines vs. Texas Longhorns" tvg-logo="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg" group-title="NFL | PPV Land",Michigan Wolverines vs. Texas Longhorns - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="NFL | PPV Land",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Atlanta Falcons
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyB7gJ9Tf8gsytz1M3_NbY2I/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Atlanta Falcons
@@ -616,6 +620,8 @@ https://tvpass.org/live/NHL14/sd
 https://tvpass.org/live/NHL15/sd
 #EXTINF:-1 group-title="NHL | Other",12/27/25 10:00:00 PM EST = Colorado Avalanche @ Vegas Golden Knights
 https://e5.thetvapp.to/hls/NHL13/tracks-v1a1/mono.m3u8?token=X443sW8cbjzD8HQxE2noAQ&expires=1766896646&user_id=TkxPSThwYjl3Wmltb3NNc01sbFc4WUNZaHhjRlBjMVd6dFdvTTBIeA==
+#EXTINF:-1 tvg-id="ppv-15476" tvg-name="Sweden vs. Switzerland" tvg-logo="https://api.ppv.to/assets/thumb/5ea4c054eb5df714471e5c526dfaf671-thumbnail.jpg" group-title="NHL | PPV Land",Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+https://gg.poocloud.in/wjc_swe/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15479" tvg-name="Montreal Canadiens vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg" group-title="NHL | PPV Land",Montreal Canadiens vs. Tampa Bay Lightning - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15481" tvg-name="New York Islanders vs. Columbus Blue Jackets" tvg-logo="https://api.ppv.to/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg" group-title="NHL | PPV Land",New York Islanders vs. Columbus Blue Jackets - 05:00 PM ET / 03:00 PM MT / 22:00 UK
