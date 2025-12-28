@@ -8,16 +8,18 @@ https://gg.poocloud.in/washingtonwizards/index.m3u8
 https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15485" tvg-name="Detroit Pistons vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/b266ee1a775e74f71027ddfff28b6a9f-thumbnail.jpg" group-title="Basketball | PPV Land",Detroit Pistons vs. LA Clippers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 https://gg.poocloud.in/laclippers/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="St. Joseph's Hawks vs Arcadia Knights" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",St. Joseph's Hawks vs Arcadia Knights
+https://lb7.strmd.top/secure/RmqVlygeUUaQzkOhLuJtsYwhvQagnrPp/delta/stream/live_ncaa_st-josephs-arcadia-knights-live-streaming-427052736/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bristol Flyers vs Surrey 89ers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQg+YJMSYQQ3NSEQATEDtV8QJEMfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Basketball | StreamedSU",Bristol Flyers vs Surrey 89ers
-https://lb2.strmd.top/secure/xjZXJhxeCvKwDHPizcHFAToYkquQPZzS/charlie/stream/bristol-flyers-vs-surrey-89ers-1629472709/1/playlist.m3u8
+https://lb4.strmd.top/secure/nsaJwtPxKIEEWECLTosLkxIttgiGqIFH/charlie/stream/bristol-flyers-vs-surrey-89ers-1629472709/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Durban's Super Giants vs MI Cape Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTcQEEABNgABlAg1fEIg1qQxkChAwtBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Cricket | StreamedSU",Durban's Super Giants vs MI Cape Town
+https://lb5.strmd.top/secure/YKdPVMqHDkTRlLZstDEwmOrEhRhbvdwR/charlie/stream/durbans-super-giants-vs-mi-cape-town-1629472415/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Gulf Giants vs Abu Dhabi Knight Riders" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDBVA8OBzcQfXCB0QQxmLpCmJhGMCZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Cricket | StreamedSU",Gulf Giants vs Abu Dhabi Knight Riders
-https://lb10.strmd.top/secure/mSWUQHnAbYEALHEXoAOOaJpevwMoXoZy/charlie/stream/gulf-giants-vs-kolkata-knight-riders-1629472416/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="SA20: Super Giants vs Cape Town" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="Cricket | StreamedSU",SA20: Super Giants vs Cape Town
-https://lb7.strmd.top/secure/aTczttovCcMUCFISbkrftOqSIRayiSLE/charlie/stream/durbans-super-giants-vs-mi-cape-town-1629472415/1/playlist.m3u8
+https://lb6.strmd.top/secure/tfzzlGAZdCRSzOheVKadHUkiKNrOzZWQ/charlie/stream/gulf-giants-vs-kolkata-knight-riders-1629472416/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Darts Championship
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Championships: Day Fifteen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Championships: Day Fifteen
-https://lb8.strmd.top/secure/uSaqlHvVPRhxTNAUhbRotmuFhPDzOlwS/charlie/stream/day-fifteen-1629472706/1/playlist.m3u8
+https://lb3.strmd.top/secure/jHSRSvNrFHGsOVuQTqMohjuwUevFADDz/charlie/stream/day-fifteen-1629472706/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -350,22 +352,26 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bologna vs Sassuolo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Bologna vs Sassuolo
+https://lb7.strmd.top/secure/zytVNFvJLAUkOFNRIwJcBIcAYDZWpnXd/delta/stream/live_serie-a_bologna-sassuolo-live-streaming-440555328/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arouca vs Gil Vicente" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Arouca vs Gil Vicente
+https://lb3.strmd.top/secure/KkmcoMCcmheAaMuJDmRQIiQpxueUxkru/echo/stream/arouca-vs-gil-vicente-football-1396372/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Primeira Liga: Casa Pia vs Guimaraes" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football | StreamedSU",Primeira Liga: Casa Pia vs Guimaraes
+https://lb3.strmd.top/secure/xpLvWVUrJLInFaHZosFjXIrXZqJkXwNs/charlie/stream/casa-pia-vs-guimaraes-1396374/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Crystal Palace vs Tottenham Hotspur" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Crystal Palace vs Tottenham Hotspur
+https://lb9.strmd.top/secure/EKuxAzBwHkeOYmMhGCoOQgXWRPVBhBgX/delta/stream/live_premier-league_crystal-palace-tottenham-live-streaming-440516880/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Equatorial Guinea vs Sudan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxxYKoEMDAhuIPrhCH9JEDBARTeghSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="Football | StreamedSU",Equatorial Guinea vs Sudan
 https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cremonese vs Napoli" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Cremonese vs Napoli
-https://gg.poocloud.in/sa_cre/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paos de Ferreira vs Farense" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAweqkCjC9E3EABNNGiEcQkjjCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="Football | StreamedSU",Paos de Ferreira vs Farense
-https://lb6.strmd.top/secure/UJxSeMFnEZqBclFpYpAwOWSiaXFgtTBx/echo/stream/pacos-ferreira-vs-farense-football-1398110/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sunderland vs Leeds United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTN+2LmBDcQfECRAATIyAggUIGCEQwCFJnxSay8IvNFOmtMGFFS6QA.webp" group-title="Football | StreamedSU",Sunderland vs Leeds United
-https://gg.poocloud.in/pl_sun/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Segunda Liga: Pacos Ferreira vs Farense" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEIj4EYwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football | StreamedSU",Segunda Liga: Pacos Ferreira vs Farense
-https://lb9.strmd.top/secure/NhTyhixVdTVyfRHQbxLZBQyGciPCUACl/charlie/stream/pacos-ferreira-vs-farense-1398110/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="NFL Network" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="Football | StreamedSU",NFL Network
-https://lb4.strmd.top/secure/QwdHDYMKwavAUlgiQpYFpPklesYiLYNU/delta/stream/live-event_nfl-network-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dresdner Eislowen vs EHC Red Bull Mnchen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw6YFKtIhE3EABMdIPiAgGQJIyGsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Hockey | StreamedSU",Dresdner Eislowen vs EHC Red Bull Mnchen
-https://lb10.strmd.top/secure/VvLepxBqWlwsQzWgFZqyCXurlSjDsFHf/echo/stream/dresdner-eislowen-vs-munchen-hockey-408997/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Eisbaren Berlin vs Nurnberg Ice Tigers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA.webp" group-title="Hockey | StreamedSU",Eisbaren Berlin vs Nurnberg Ice Tigers
-https://lb2.strmd.top/secure/claEUoPLIcMqbCpwXNRTSgyjQqyznhHt/echo/stream/eisbaren-berlin-vs-nurnberg-ice-tigers-hockey-408998/1/playlist.m3u8
+https://lb3.strmd.top/secure/LwsHlZBIFXjWZOqxEpfqRqvydpnHBJYV/delta/stream/live-event_nfl-network-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="ERC Ingolstadt vs Grizzlys Wolfsburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkuSEKLAhuIACYhEfEBH2aTuXAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Hockey | StreamedSU",ERC Ingolstadt vs Grizzlys Wolfsburg
+https://lb9.strmd.top/secure/YkzjYBaeAyYYBJsAmdfswjsGPBVXviVG/echo/stream/erc-ingolstadt-vs-grizzly-wolfsburg-hockey-409000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Straubing Tigers vs Iserlohn Roosters" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJB8w3dQoghuIACYhEfENoMkTIczAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Hockey | StreamedSU",Straubing Tigers vs Iserlohn Roosters
+https://lb6.strmd.top/secure/hpdbXNRMZQVBOkFCWnuKcmMRVvVmJrEw/echo/stream/straubing-tigers-vs-iserlohn-roosters-hockey-408999/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kolner vs Schwenninger" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsi+uQYBjZsDA94kqlMINWYbW1wQgA.webp" group-title="Hockey | StreamedSU",Kolner vs Schwenninger
+https://lb9.strmd.top/secure/hzjwOqJbqKQAFhOsLempPSBSYHliOZvs/echo/stream/kolner-vs-schwenninger-hockey-409001/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bremerhaven vs Frankfurt Lowen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogAJvPrkGAY2bAwPeJKpTCDVmB1tcEIA.webp" group-title="Hockey | StreamedSU",Bremerhaven vs Frankfurt Lowen
+https://lb1.strmd.top/secure/anugthVDhuUTPIWuwvvxQoYWTxpGLmrl/echo/stream/bremerhaven-vs-frankfurt-lowen-hockey-408996/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
 https://locked.pixelpanel.online/hdstream/embed/617.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
@@ -416,6 +422,30 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIv4TlIsXsVC5z5KP-JWO70/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyFCcRLJAqs8Mp6P7Fg8R_1w/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-title="NBA | Pixel Sports",Philadelphia 76ers at Oklahoma City Thunder
 https://hd.pixelhd.online/7cFdf8vWab/QuhxjzcZY2/426.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Toronto Raptors - 12/28/25, 8:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Golden State Warriors @ Toronto Raptors - 12/28/25 - 8:40:00 PM UTC SD
+https://v15.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=t5cT-TwKLY65LO_qftiTAw&expires=1766959002&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Toronto Raptors - 12/28/25, 8:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Golden State Warriors @ Toronto Raptors - 12/28/25 - 8:40:00 PM UTC HD
+https://v12.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=q3HYSv54n8DJKqj3bWPw-A&expires=1766959007&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Philadelphia 76ers @ Oklahoma City Thunder - 12/28/25, 8:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Philadelphia 76ers @ Oklahoma City Thunder - 12/28/25 - 8:40:00 PM UTC SD
+https://v12.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=XG2qCXb_fqQcZl-HJfl0RQ&expires=1766959013&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Philadelphia 76ers @ Oklahoma City Thunder - 12/28/25, 8:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Philadelphia 76ers @ Oklahoma City Thunder - 12/28/25 - 8:40:00 PM UTC HD
+https://v16.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=D5Tud5Y81Z4aGtEAw0i6yQ&expires=1766959018&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Portland Trail Blazers - 12/28/25, 11:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Boston Celtics @ Portland Trail Blazers - 12/28/25 - 11:10:00 PM UTC SD
+https://v14.thetvapp.to/hls/NBA14/tracks-v1a1/mono.m3u8?token=K_XUoWF421uvHAb_AnXkTQ&expires=1766959024&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Portland Trail Blazers - 12/28/25, 11:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Boston Celtics @ Portland Trail Blazers - 12/28/25 - 11:10:00 PM UTC HD
+https://e1.thetvapp.to/hls/NBA14/tracks-v1a1/mono.m3u8?token=i_6KSMyktmJk-aJOht8VJg&expires=1766959029&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Memphis Grizzlies @ Washington Wizards - 12/28/25, 11:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Memphis Grizzlies @ Washington Wizards - 12/28/25 - 11:10:00 PM UTC SD
+https://e1.thetvapp.to/hls/NBA15/tracks-v1a1/mono.m3u8?token=yZtvJhEQ4m0O47CvE7PgQA&expires=1766959034&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Memphis Grizzlies @ Washington Wizards - 12/28/25, 11:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Memphis Grizzlies @ Washington Wizards - 12/28/25 - 11:10:00 PM UTC HD
+https://v1.thetvapp.to/hls/NBA15/tracks-v1a1/mono.m3u8?token=Fb19FSUcQfFVEddJ8puOvg&expires=1766959040&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Los Angeles Clippers - 12/29/25, 2:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Detroit Pistons @ Los Angeles Clippers - 12/29/25 - 2:10:00 AM UTC SD
+https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=ChYKdTWMCkY2BDQpmz0Mww&expires=1766959045&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Los Angeles Clippers - 12/29/25, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Detroit Pistons @ Los Angeles Clippers - 12/29/25 - 2:10:00 AM UTC HD
+https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=taav1iTcfj2TbHct_YXXow&expires=1766959051&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Los Angeles Lakers - 12/29/25, 2:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Los Angeles Lakers - 12/29/25 - 2:40:00 AM UTC SD
+https://v13.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=6rD17I0vZm0mp9NITde6xQ&expires=1766959056&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Los Angeles Lakers - 12/29/25, 2:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Los Angeles Lakers - 12/29/25 - 2:40:00 AM UTC HD
+https://v4.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=XTzqCLW0Brm8TtCrO_6Y3Q&expires=1766959062&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
 #EXTINF:-1 tvg-id="" tvg-name="New Orleans Saints @ Tennessee Titans (12/28 1:00 PM ET)" group-title="NFL | Other",New Orleans Saints @ Tennessee Titans (12/28 1:00 PM ET)
 https://tvpass.org/live/NFL17/sd
 #EXTINF:-1 tvg-id="" tvg-name="New England Patriots @ New York Jets (12/28 1:00 PM ET)" group-title="NFL | Other",New England Patriots @ New York Jets (12/28 1:00 PM ET)
@@ -522,10 +552,46 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGVqGwIDMVaK1zse2e1zIq0/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyEwqoA0jboyCMUpD2IyDa9Q/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png" group-title="NFL | Pixel Sports",New Orleans Saints at Tennessee Titans
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDzHlaActtw9bTQY-B-VrUE/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona Cardinals @ Cincinnati Bengals - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Arizona Cardinals @ Cincinnati Bengals - 12/28/25 - 6:00:00 PM UTC SD
+https://v4.thetvapp.to/hls/NFL13/tracks-v1a1/mono.m3u8?token=ONj6dQbslGBT7_dIkTUgxA&expires=1766959068&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona Cardinals @ Cincinnati Bengals - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Arizona Cardinals @ Cincinnati Bengals - 12/28/25 - 6:00:00 PM UTC HD
+https://v8.thetvapp.to/hls/NFL13/tracks-v1a1/mono.m3u8?token=A3hd4Xg9aCtI-NUTGAd0AQ&expires=1766959074&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seattle Seahawks @ Carolina Panthers - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Seattle Seahawks @ Carolina Panthers - 12/28/25 - 6:00:00 PM UTC SD
+https://v8.thetvapp.to/hls/NFL07/tracks-v1a1/mono.m3u8?token=xTQ-bhx4pd0ptavaCs0MSQ&expires=1766959079&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seattle Seahawks @ Carolina Panthers - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Seattle Seahawks @ Carolina Panthers - 12/28/25 - 6:00:00 PM UTC HD
+https://e4.thetvapp.to/hls/NFL07/tracks-v1a1/mono.m3u8?token=9rMlt3nAooLFl9yFSXJgzQ&expires=1766959084&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers @ Cleveland Browns - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Pittsburgh Steelers @ Cleveland Browns - 12/28/25 - 6:00:00 PM UTC SD
+https://v17.thetvapp.to/hls/NFL02/tracks-v1a1/mono.m3u8?token=_6z5OU8o79d8qOMSTSmsbg&expires=1766959090&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers @ Cleveland Browns - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Pittsburgh Steelers @ Cleveland Browns - 12/28/25 - 6:00:00 PM UTC HD
+https://v17.thetvapp.to/hls/NFL02/tracks-v1a1/mono.m3u8?token=DvQYuAyrGDXy4igOdkDZ7Q&expires=1766959095&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars @ Indianapolis Colts - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Jacksonville Jaguars @ Indianapolis Colts - 12/28/25 - 6:00:00 PM UTC SD
+https://e3.thetvapp.to/hls/NFL08/tracks-v1a1/mono.m3u8?token=x4e8E-ryBfPyn54maUb-5Q&expires=1766959101&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars @ Indianapolis Colts - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Jacksonville Jaguars @ Indianapolis Colts - 12/28/25 - 6:00:00 PM UTC HD
+https://v2.thetvapp.to/hls/NFL08/tracks-v1a1/mono.m3u8?token=Q0EWMiFrk2faunqbTfrrow&expires=1766959106&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers @ Miami Dolphins - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Tampa Bay Buccaneers @ Miami Dolphins - 12/28/25 - 6:00:00 PM UTC SD
+https://v2.thetvapp.to/hls/NFL12/tracks-v1a1/mono.m3u8?token=NnMX-7KX_5dgUj6OofBRaQ&expires=1766959112&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers @ Miami Dolphins - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Tampa Bay Buccaneers @ Miami Dolphins - 12/28/25 - 6:00:00 PM UTC HD
+https://e5.thetvapp.to/hls/NFL12/tracks-v1a1/mono.m3u8?token=PoxrJhK369OgQKsteIA5mw&expires=1766959117&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots @ New York Jets - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New England Patriots @ New York Jets - 12/28/25 - 6:00:00 PM UTC SD
-https://v18.thetvapp.to/hls/NFL03/tracks-v1a1/mono.m3u8?token=lliylXq9sB-0t7UrqmIZaw&expires=1766955515&user_id=TXpDNjFMdjJ1dUU4YjVUZ0FLUmExTloyU2FWQld2bWtmbjhtbEpPUQ==
+https://v13.thetvapp.to/hls/NFL03/tracks-v1a1/mono.m3u8?token=sDgssNRKwPsanq5rC2Ly7g&expires=1766959122&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots @ New York Jets - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New England Patriots @ New York Jets - 12/28/25 - 6:00:00 PM UTC HD
-https://v18.thetvapp.to/hls/NFL03/tracks-v1a1/mono.m3u8?token=nrRjLAZQ4zBdWycSwSjBrw&expires=1766955521&user_id=TXpDNjFMdjJ1dUU4YjVUZ0FLUmExTloyU2FWQld2bWtmbjhtbEpPUQ==
+https://v3.thetvapp.to/hls/NFL03/tracks-v1a1/mono.m3u8?token=OVW9UI73MIAD0nKi1w2Huw&expires=1766959128&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Tennessee Titans - 12/28/25, 6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New Orleans Saints @ Tennessee Titans - 12/28/25 - 6:00:00 PM UTC SD
+https://v3.thetvapp.to/hls/NFL17/tracks-v1a1/mono.m3u8?token=P3H6vOPNSGBMfoUkV3UvEg&expires=1766959133&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Tennessee Titans - 12/28/25, 6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New Orleans Saints @ Tennessee Titans - 12/28/25 - 6:00:00 PM UTC HD
+https://v17.thetvapp.to/hls/NFL17/tracks-v1a1/mono.m3u8?token=1giwScwQQ1Jt56O_Lck7vg&expires=1766959139&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants @ Las Vegas Raiders - 12/28/25, 9:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New York Giants @ Las Vegas Raiders - 12/28/25 - 9:05:00 PM UTC SD
+https://v15.thetvapp.to/hls/NFL04/tracks-v1a1/mono.m3u8?token=GmnQd6X-YDxkgYsSvIoZCw&expires=1766959144&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants @ Las Vegas Raiders - 12/28/25, 9:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New York Giants @ Las Vegas Raiders - 12/28/25 - 9:05:00 PM UTC HD
+https://v15.thetvapp.to/hls/NFL04/tracks-v1a1/mono.m3u8?token=go4veuteVDnupnRXvfS70g&expires=1766959150&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles @ Buffalo Bills - 12/28/25, 9:25:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Philadelphia Eagles @ Buffalo Bills - 12/28/25 - 9:25:00 PM UTC SD
+https://e3.thetvapp.to/hls/NFL11/tracks-v1a1/mono.m3u8?token=jz6ten2FvKziwm3Xcm3fgw&expires=1766959155&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles @ Buffalo Bills - 12/28/25, 9:25:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Philadelphia Eagles @ Buffalo Bills - 12/28/25 - 9:25:00 PM UTC HD
+https://e3.thetvapp.to/hls/NFL11/tracks-v1a1/mono.m3u8?token=WCOzI-4IQecImPofvoas4Q&expires=1766959160&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chicago Bears @ San Francisco 49ers - 12/29/25, 1:20:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Chicago Bears @ San Francisco 49ers - 12/29/25 - 1:20:00 AM UTC SD
+https://e4.thetvapp.to/hls/NFL25/tracks-v1a1/mono.m3u8?token=eq6kwEekcvdkCc5rbms5OQ&expires=1766959166&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chicago Bears @ San Francisco 49ers - 12/29/25, 1:20:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Chicago Bears @ San Francisco 49ers - 12/29/25 - 1:20:00 AM UTC HD
+https://e2.thetvapp.to/hls/NFL25/tracks-v1a1/mono.m3u8?token=OLWrYtrkau2FC_c7lD8tTg&expires=1766959171&user_id=bTVJRElzR2V5Z0QwMDA5Y095QzB3dFlnY2R5c1ZZeGpTeWt1VDZjNg==
 #EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Tampa Bay Lightning (12/28 5:10 PM ET)" group-title="NHL | Other",Montréal Canadiens @ Tampa Bay Lightning (12/28 5:10 PM ET)
 https://tvpass.org/live/NHL08/sd
 #EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Columbus Blue Jackets (12/28 5:10 PM ET)" group-title="NHL | Other",New York Islanders @ Columbus Blue Jackets (12/28 5:10 PM ET)
