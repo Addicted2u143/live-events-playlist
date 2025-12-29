@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ppv-15511" tvg-name="Milwaukee Bucks vs. Charlotte Hornets" tvg-logo="https://api.ppv.to/assets/thumb/93220b806877b899320236079156017e-thumbnail.jpg" group-title="Basketball | PPV Land",Milwaukee Bucks vs. Charlotte Hornets - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15514" tvg-name="Phoenix Suns vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/c61476a82fdab56c6174f8ef567937ad-thumbnail.jpg" group-title="Basketball | PPV Land",Phoenix Suns vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15518" tvg-name="Golden State Warriors vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/ad64ae2cdd86c6b69ff779acc7a993a7-thumbnail.jpg" group-title="Basketball | PPV Land",Golden State Warriors vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+https://gg.poocloud.in/brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15520" tvg-name="Denver Nuggets vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/bbc14208f911727f832223b6c6bb137d-thumbnail.jpg" group-title="Basketball | PPV Land",Denver Nuggets vs. Miami Heat - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+https://gg.poocloud.in/miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15525" tvg-name="Minnesota Timberwolves vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/e949248ab8236008cb8ae9615b4796eb-thumbnail.jpg" group-title="Basketball | PPV Land",Minnesota Timberwolves vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15527" tvg-name="Indiana Pacers vs. Houston Rockets" tvg-logo="https://api.ppv.to/assets/thumb/4c5610d9ea39cefdf1c63f228bc04fe2-thumbnail.jpg" group-title="Basketball | PPV Land",Indiana Pacers vs. Houston Rockets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/houstonrockets/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Sacramento Kings" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA.webp" group-title="Basketball | StreamedSU",Los Angeles Lakers vs Sacramento Kings
 https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Clippers vs Detroit Pistons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Basketball | StreamedSU",Los Angeles Clippers vs Detroit Pistons
@@ -462,14 +474,14 @@ https://e4.thetvapp.to/hls/NFL04/tracks-v1a1/mono.m3u8?token=EbXm-23iIV5Miz0Gy0B
 https://e4.thetvapp.to/hls/NFL11/tracks-v1a1/mono.m3u8?token=qoag9Reh2BwZhsetrt5Aww&expires=1766982926&user_id=VE1lUnc2b0w3Q1k5VXp0QTdYVU9yaGdFRmJkZXJsdmxsTmQzSEk0Rg==
 #EXTINF:-1 group-title="NFL | Other",12/28/25 08:20:00 PM EST = Chicago Bears @ San Francisco 49ers
 https://e4.thetvapp.to/hls/NFL25/tracks-v1a1/mono.m3u8?token=bUjIavbO-zK67VNkj59twg&expires=1766982936&user_id=VE1lUnc2b0w3Q1k5VXp0QTdYVU9yaGdFRmJkZXJsdmxsTmQzSEk0Rg==
+#EXTINF:-1 group-title="NFL | Other",12/28/25 01:00:00 PM EST = New Orleans Saints @ Tennessee Titans
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="ppv-15427" tvg-name="Georgia Southern Eagles vs. App State Mountaineers" tvg-logo="https://api.ppv.to/assets/thumb/7e071c3c8204c8e51b8e09f647d4bcce-thumbnail.jpg" group-title="NFL | PPV Land",Georgia Southern Eagles vs. App State Mountaineers - 02:00 PM ET / 12:00 PM MT / 19:00 UK
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15381" tvg-name="Los Angeles Rams vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/78103dcbc7712cff3aa665658996a4d7-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK
-https://gg.poocloud.in/atlantafalcons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15432" tvg-name="Arizona State Sun Devils vs. Duke Blue Devils" tvg-logo="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg" group-title="NFL | PPV Land",Arizona State Sun Devils vs. Duke Blue Devils - 02:00 PM ET / 12:00 PM MT / 19:00 UK
-https://gg.poocloud.in/CBS/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15433" tvg-name="Michigan Wolverines vs. Texas Longhorns" tvg-logo="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg" group-title="NFL | PPV Land",Michigan Wolverines vs. Texas Longhorns - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="NFL | PPV Land",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15492" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/9ee9f14c44231960cb969b365b1ff86a-thumbnail.jpg" group-title="NFL | PPV Land",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Atlanta Falcons
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBWoGiMGcskdDkCatAy5_d4/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Atlanta Falcons
@@ -588,6 +600,18 @@ https://v12.thetvapp.to/hls/NHL19/tracks-v1a1/mono.m3u8?token=3qnFUAVcwzGaxWL06H
 https://e4.thetvapp.to/hls/NHL10/tracks-v1a1/mono.m3u8?token=6BPVMOHcRm2n9UnbvcNBww&expires=1766983039&user_id=VE1lUnc2b0w3Q1k5VXp0QTdYVU9yaGdFRmJkZXJsdmxsTmQzSEk0Rg==
 #EXTINF:-1 group-title="NHL | Other",12/28/25 08:10:00 PM EST = Philadelphia Flyers @ Seattle Kraken
 https://e4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=yTkvWkvRrovZ7ckGJrV1rQ&expires=1766983049&user_id=VE1lUnc2b0w3Q1k5VXp0QTdYVU9yaGdFRmJkZXJsdmxsTmQzSEk0Rg==
+#EXTINF:-1 tvg-id="ppv-15508" tvg-name="Germany vs. Sweden" tvg-logo="https://api.ppv.to/assets/thumb/d4cc821226ccc51102326ec6fca98141-thumbnail.jpg" group-title="NHL | PPV Land",Germany vs. Sweden - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/wjc_ger/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15509" tvg-name="Finland vs. Czech Republic" tvg-logo="https://api.ppv.to/assets/thumb/fe8f84bf609ae6d514f85f01bbfba435-thumbnail.jpg" group-title="NHL | PPV Land",Finland vs. Czech Republic - 03:30 PM ET / 01:30 PM MT / 20:30 UK
+https://gg.poocloud.in/wjc_fin/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15512" tvg-name="Slovakia vs. United States" tvg-logo="https://api.ppv.to/assets/thumb/4c403f0a5a421510eac8c212cb206560-thumbnail.jpg" group-title="NHL | PPV Land",Slovakia vs. United States - 06:00 PM ET / 04:00 PM MT / 23:00 UK
+https://gg.poocloud.in/wjc_svk/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15510" tvg-name="Columbus Blue Jackets vs. Ottawa Senators" tvg-logo="https://api.ppv.to/assets/thumb/124fc38dee9322aef6c4c343995a796f-thumbnail.jpg" group-title="NHL | PPV Land",Columbus Blue Jackets vs. Ottawa Senators - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/ottawasenators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15516" tvg-name="New York Rangers vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/0796c6ff9e54ef2c503d09efa9822ae6-thumbnail.jpg" group-title="NHL | PPV Land",New York Rangers vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15521" tvg-name="Edmonton Oilers vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg" group-title="NHL | PPV Land",Edmonton Oilers vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="NHL | Pixel Sports",Philadelphia Flyers at Seattle Kraken
 https://live.webcastserver.online/newz/newz/97.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="NHL | Pixel Sports",Philadelphia Flyers at Seattle Kraken
