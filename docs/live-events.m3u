@@ -19,7 +19,7 @@ https://gg.poocloud.in/milwaukeebucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15649" tvg-name="Portland Trail Blazers vs. Oklahoma City Thunder" tvg-logo="https://api.ppv.to/assets/thumb/d32491b8c1f7fc0057ea950487673a54-thumbnail.jpg" group-title="Basketball | PPV Land",Portland Trail Blazers vs. Oklahoma City Thunder - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sunrisers Eastern Cape vs Paarl Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQvbmCTAADLvUg+IRGu4hzamMZAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Cricket | StreamedSU",Sunrisers Eastern Cape vs Paarl Royals
-https://lb4.strmd.top/secure/SJXShpygHVpGyIqHbzahbNrZJgPmCuTD/charlie/stream/sunrisers-eastern-cape-vs-paarl-royals-1629472426/1/playlist.m3u8
+https://lb8.strmd.top/secure/UuVsZtPsSHdmPmYkWKUCmeiQbVeRCQjz/charlie/stream/sunrisers-eastern-cape-vs-paarl-royals-1629472426/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -400,26 +400,42 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDeS8chYdz26SvdVwTViejc/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIMrjt3haamhXkiBrhLtb1Y/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png" group-title="NBA | Pixel Sports",Detroit Pistons at Los Angeles Lakers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyN-PtlKOYJExdM5rvXkDUVY/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Charlotte Hornets - 12/31/25, 6:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Golden State Warriors @ Charlotte Hornets - 12/31/25 - 6:10:00 PM UTC SD
+https://v12.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=ON_CUTV_ye82rANQMgPL4g&expires=1767211819&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Charlotte Hornets - 12/31/25, 6:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Golden State Warriors @ Charlotte Hornets - 12/31/25 - 6:10:00 PM UTC HD
+https://v16.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=BHCYTfbjGoscNa27kp_L_Q&expires=1767211824&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Atlanta Hawks - 12/31/25, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Minnesota Timberwolves @ Atlanta Hawks - 12/31/25 - 8:10:00 PM UTC SD
-https://v18.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=ofQa8o6zStSLxRBeafH-iQ&expires=1767208769&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://e1.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=jDxDdR5BmjYPf-bZZr_8Uw&expires=1767211830&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Atlanta Hawks - 12/31/25, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Minnesota Timberwolves @ Atlanta Hawks - 12/31/25 - 8:10:00 PM UTC HD
-https://v16.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=ZzuyHpTRnPVDWnUOBiKiTw&expires=1767208775&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=beBpBkwJ5jDnfipDCaFn-A&expires=1767211835&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Indiana Pacers - 12/31/25, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Orlando Magic @ Indiana Pacers - 12/31/25 - 8:10:00 PM UTC SD
-https://v16.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=2RVfSGpJvXGXSPxonISzAg&expires=1767208780&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v15.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=j9PyP86fVLtyl4VkFAnO8Q&expires=1767211841&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Indiana Pacers - 12/31/25, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Orlando Magic @ Indiana Pacers - 12/31/25 - 8:10:00 PM UTC HD
-https://v1.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=0kBnynYxo-qm9tF6OGQ3Kw&expires=1767208786&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://e4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=_3dctBKSG0MF1Bk5VQS-0w&expires=1767211846&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Cleveland Cavaliers - 12/31/25, 8:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Phoenix Suns @ Cleveland Cavaliers - 12/31/25 - 8:40:00 PM UTC SD
-https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=HsdVKZ8Nm5OCHID7YWfHRg&expires=1767208791&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=ZZNwRkoxbIe15kkTZDKdWA&expires=1767211852&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Cleveland Cavaliers - 12/31/25, 8:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Phoenix Suns @ Cleveland Cavaliers - 12/31/25 - 8:40:00 PM UTC HD
-https://e4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=njBq02qygF7u8jkxHJSIdg&expires=1767208797&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=HdHcg8mk8wVJNWt3kGGFeg&expires=1767211857&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Chicago Bulls - 1/1/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Chicago Bulls - 1/1/26 - 12:10:00 AM UTC SD
+https://v17.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=bQmC9j4U7n3TSSLZ3OJmSw&expires=1767211863&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Chicago Bulls - 1/1/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Chicago Bulls - 1/1/26 - 12:10:00 AM UTC HD
+https://v17.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=ADMumdad7zp90lugMHR6HA&expires=1767211868&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ San Antonio Spurs - 1/1/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New York Knicks @ San Antonio Spurs - 1/1/26 - 12:10:00 AM UTC SD
+https://v4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=X3aMCi2Wo1p4ZfMTmvBUbA&expires=1767211874&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ San Antonio Spurs - 1/1/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New York Knicks @ San Antonio Spurs - 1/1/26 - 12:10:00 AM UTC HD
+https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=fAXmI9QU3spbypiZlBlwKA&expires=1767211879&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors - 1/1/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Denver Nuggets @ Toronto Raptors - 1/1/26 - 12:40:00 AM UTC SD
-https://v13.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=qsMqmHRzVfyZRDx7LnFpWg&expires=1767208824&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v3.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=YADOYi11d-dW6RnA_5L_0g&expires=1767211885&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors - 1/1/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Denver Nuggets @ Toronto Raptors - 1/1/26 - 12:40:00 AM UTC HD
-https://e1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=Mibs0qwQjrVHtNwAU5hHPA&expires=1767208830&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v3.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=RJIsMYVvEcilNzAsJ3QKfA&expires=1767211890&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Milwaukee Bucks - 1/1/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Milwaukee Bucks - 1/1/26 - 1:10:00 AM UTC SD
+https://v15.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=6DuXF39pmsCV3JZmjgihlw&expires=1767211896&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Milwaukee Bucks - 1/1/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Milwaukee Bucks - 1/1/26 - 1:10:00 AM UTC HD
+https://v14.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=S1H9gFWqargZfSv7FunTIg&expires=1767211901&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Oklahoma City Thunder - 1/1/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Portland Trail Blazers @ Oklahoma City Thunder - 1/1/26 - 1:10:00 AM UTC SD
-https://e3.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=60esH4-8OEfdnKlFsuOSKA&expires=1767208846&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v14.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=CcgXE0Sy5O7EBFjvplJ05Q&expires=1767211907&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Oklahoma City Thunder - 1/1/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Portland Trail Blazers @ Oklahoma City Thunder - 1/1/26 - 1:10:00 AM UTC HD
-https://e3.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=nGYHP-uXrpRXwH2viRnMIA&expires=1767208852&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v4.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=VKMzTTCshay6b3kjf6Ashw&expires=1767211912&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="" tvg-name="Iowa Hawkeyes @ Vanderbilt Commodores (12/31 12:00 PM ET)" group-title="NCAAF | Other",Iowa Hawkeyes @ Vanderbilt Commodores (12/31 12:00 PM ET)
 https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-id="" tvg-name="Arizona State Sun Devils @ Duke Blue Devils (12/31 2:00 PM ET)" group-title="NCAAF | Other",Arizona State Sun Devils @ Duke Blue Devils (12/31 2:00 PM ET)
@@ -428,18 +444,26 @@ https://tvpass.org/live/WCBSDT1/sd
 https://tvpass.org/live/WABCDT1/sd
 #EXTINF:-1 group-title="NCAAF | Other",12/31/25 12:00:00 PM EST = Iowa Hawkeyes @ Vanderbilt Commodores
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa Hawkeyes @ Vanderbilt Commodores - 12/31/25, 5:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Iowa Hawkeyes @ Vanderbilt Commodores - 12/31/25 - 5:00:00 PM UTC SD
+https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=sNKEdPWAf6zHY3yZOvH95Q&expires=1767211920&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa Hawkeyes @ Vanderbilt Commodores - 12/31/25, 5:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Iowa Hawkeyes @ Vanderbilt Commodores - 12/31/25 - 5:00:00 PM UTC HD
+https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=9v5b9W2OM86qk7ITAScILw&expires=1767211925&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Duke Blue Devils - 12/31/25, 7:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Arizona State Sun Devils @ Duke Blue Devils - 12/31/25 - 7:00:00 PM UTC SD
-https://v18.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=4BHHBwiWkpLKOz9w7aSdIA&expires=1767208870&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://e5.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=8jke5jKaLUalw3-gI0snOQ&expires=1767211931&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Duke Blue Devils - 12/31/25, 7:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Arizona State Sun Devils @ Duke Blue Devils - 12/31/25 - 7:00:00 PM UTC HD
-https://v3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=32y_OviJV6Z3XJ-G3mDmqw&expires=1767208876&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v16.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=UboL4So281eLNvYIKSlxPA&expires=1767211937&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Michigan Wolverines @ Texas Longhorns - 12/31/25, 8:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Michigan Wolverines @ Texas Longhorns - 12/31/25 - 8:00:00 PM UTC SD
-https://v3.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=Sddw7qFmFC9zh3TInvz-kQ&expires=1767208882&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v16.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=NU9aAtuLsWKh-hs5I0NPQQ&expires=1767211942&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Michigan Wolverines @ Texas Longhorns - 12/31/25, 8:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Michigan Wolverines @ Texas Longhorns - 12/31/25 - 8:00:00 PM UTC HD
-https://v15.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=AmytEe8zzkqL8NxS2ex3vQ&expires=1767208887&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://e4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=c_SKoQTvbd_wZ4Fq3oS8lg&expires=1767211948&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Nebraska Cornhuskers @ Utah Utes - 12/31/25, 8:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Nebraska Cornhuskers @ Utah Utes - 12/31/25 - 8:30:00 PM UTC SD
+https://v5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=ZOUuxVu5oEW8jYICj_kgZA&expires=1767211953&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Nebraska Cornhuskers @ Utah Utes - 12/31/25, 8:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Nebraska Cornhuskers @ Utah Utes - 12/31/25 - 8:30:00 PM UTC HD
+https://e1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=GfspyHxdjwUIGVEIzduuLg&expires=1767211959&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Miami Hurricanes @ Ohio State Buckeyes - 1/1/26, 12:30:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Miami Hurricanes @ Ohio State Buckeyes - 1/1/26 - 12:30:00 AM UTC SD
-https://e1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_zK_2_YatS6zDjlOyMhkwA&expires=1767208904&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://e1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=e-TE9ubgg9A1-1llOiqp0Q&expires=1767211964&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Miami Hurricanes @ Ohio State Buckeyes - 1/1/26, 12:30:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="NCAAF | TheTVApp",Miami Hurricanes @ Ohio State Buckeyes - 1/1/26 - 12:30:00 AM UTC HD
-https://v17.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=TknHkny9ooh3LVL4Arx9zg&expires=1767208910&user_id=NzRxeVBMNFVxSjdWVEM0ZzlVRVZldTY3bFV0Z1hvRWJHY0hLc01Fdg==
+https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=eCBjidzeQM4-60pylodxYg&expires=1767211970&user_id=VHZ2SDM1QUdibEJTQW9vNUR0N3RncXVvdzlUbm9KSWhZT3RZdjZCWA==
 #EXTINF:-1 tvg-id="ppv-15431" tvg-name="Iowa Hawkeyes vs. Vanderbilt Commodores" tvg-logo="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg" group-title="NFL | PPV Land",Iowa Hawkeyes vs. Vanderbilt Commodores - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15432" tvg-name="Arizona State Sun Devils vs. Duke Blue Devils" tvg-logo="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg" group-title="NFL | PPV Land",Arizona State Sun Devils vs. Duke Blue Devils - 02:00 PM ET / 12:00 PM MT / 19:00 UK
