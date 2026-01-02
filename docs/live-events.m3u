@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ppv-15658" tvg-name="Miami Heat vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" group-title="Basketball | PPV Land",Miami Heat vs. Detroit Pistons - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15660" tvg-name="Philadelphia 76ers vs. Dallas Mavericks" tvg-logo="https://api.ppv.to/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg" group-title="Basketball | PPV Land",Philadelphia 76ers vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
 https://gg.poocloud.in/dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15662" tvg-name="Boston Celtics vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" group-title="Basketball | PPV Land",Boston Celtics vs. Sacramento Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15664" tvg-name="Utah Jazz vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg" group-title="Basketball | PPV Land",Utah Jazz vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
+https://gg.poocloud.in/laclippers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brooklyn Nets vs Houston Rockets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA.webp" group-title="Basketball | StreamedSU",Brooklyn Nets vs Houston Rockets
 https://gg.poocloud.in/brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Montana vs Northern Arizona" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtUCBDdtIElpAQQfAwBM96rQQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Basketball | StreamedSU",Montana vs Northern Arizona
@@ -488,12 +488,12 @@ https://e4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=85UHbkWnEhfMvILvlttL
 https://e4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=uhLUCA9n75E4LgltiOiuuw&expires=1767329908&user_id=aXgzQm91RzRZMWtzazhsRGRCT3NrdXgxaVJyRmpPWEFGRVM2ZmhLcw==
 #EXTINF:-1 tvg-id="ppv-15438" tvg-name="Ole Miss Rebels vs. Georgia Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" group-title="NFL | PPV Land",Ole Miss Rebels vs. Georgia Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="NFL | PPV Land",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15602" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="NFL | PPV Land",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15605" tvg-name="Seattle Seahawks vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" group-title="NFL | PPV Land",Seattle Seahawks vs. San Francisco 49ers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15608" tvg-name="New Orleans Saints vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="NFL | PPV Land",New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15611" tvg-name="Cleveland Browns vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/c9fda0396269ada10e8703bf8ac2fc55-thumbnail.jpg" group-title="NFL | PPV Land",Cleveland Browns vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15614" tvg-name="Green Bay Packers vs. Minnesota Vikings" tvg-logo="https://api.ppv.to/assets/thumb/cc4278e682e6e34097304dbf85516024-thumbnail.jpg" group-title="NFL | PPV Land",Green Bay Packers vs. Minnesota Vikings - 01:00 PM ET / 11:00 AM MT / 18:00 UK
@@ -502,6 +502,8 @@ https://gg.poocloud.in/minnesotavikings/index.m3u8
 https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15617" tvg-name="Indianapolis Colts vs. Houston Texans" tvg-logo="https://api.ppv.to/assets/thumb/6dc83f19777b178e00da683930748b7d-thumbnail.jpg" group-title="NFL | PPV Land",Indianapolis Colts vs. Houston Texans - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/houstontexans/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15618" tvg-name="New York Jets vs. Buffalo Bills" tvg-logo="https://api.ppv.to/assets/thumb/90200cdcb846ee2180bd0871c0a99265-thumbnail.jpg" group-title="NFL | PPV Land",New York Jets vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15619" tvg-name="Detroit Lions vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/404514c6f8c063faddb3a67656422151-thumbnail.jpg" group-title="NFL | PPV Land",Detroit Lions vs. Chicago Bears - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15620" tvg-name="Los Angeles Chargers vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/03c1e246ce1614e05daae5808ca37c4d-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. Denver Broncos - 04:25 PM ET / 02:25 PM MT / 21:25 UK
@@ -614,14 +616,6 @@ https://e4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=Uo89qQ5DgpnBRp
 https://e4.thetvapp.to/hls/NHL27/tracks-v1a1/mono.m3u8?token=T9BWb7Vgl8uI9p_4xg0CCw&expires=1767328539&user_id=VFhyV3VXUkpYSDJMd3VKZkJ3NXZ2djZ4dU5sN2pVVnh5bEg0MmpWdA==
 #EXTINF:-1 group-title="NHL | Other",01/01/26 10:10:00 PM EST = Nashville Predators @ Seattle Kraken
 https://e4.thetvapp.to/hls/NHL12/tracks-v1a1/mono.m3u8?token=aqbGl5-oBp_cA9aXqNKjcQ&expires=1767328549&user_id=VFhyV3VXUkpYSDJMd3VKZkJ3NXZ2djZ4dU5sN2pVVnh5bEg0MmpWdA==
-#EXTINF:-1 tvg-id="ppv-15659" tvg-name="Winnipeg Jets vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" group-title="NHL | PPV Land",Winnipeg Jets vs. Toronto Maple Leafs - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15661" tvg-name="Detroit Red Wings vs. Pittsburgh Penguins" tvg-logo="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" group-title="NHL | PPV Land",Detroit Red Wings vs. Pittsburgh Penguins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/pittsburghpenguins/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15663" tvg-name="Montreal Canadiens vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" group-title="NHL | PPV Land",Montreal Canadiens vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15665" tvg-name="Tampa Bay Lightning vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" group-title="NHL | PPV Land",Tampa Bay Lightning vs. Los Angeles Kings - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15666" tvg-name="Dallas Stars vs. Chicago Blackhawks" tvg-logo="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg" group-title="NHL | PPV Land",Dallas Stars vs. Chicago Blackhawks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15667" tvg-name="Nashville Predators vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" group-title="NHL | PPV Land",Nashville Predators vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
