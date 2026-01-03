@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Adelaide Giants vs Sydney Blue Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4hwSauBQhVAExCI+IfWpIHcIZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Baseball | StreamedSU",Adelaide Giants vs Sydney Blue Sox
-https://lb1.strmd.top/secure/rLpkkqtpsGHodutLCsXaufRTZjXisXPz/charlie/stream/adelaide-giants-vs-sydney-blue-sox-1629472903/1/playlist.m3u8
+https://lb3.strmd.top/secure/XjXajZfgLcZnTPbMbfRLXOncJjTGmIZO/charlie/stream/adelaide-giants-vs-sydney-blue-sox-1629472903/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ppv-15694" tvg-name="Minnesota Timberwolves vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" group-title="Basketball | PPV Land",Minnesota Timberwolves vs. Miami Heat - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 https://gg.poocloud.in/miamiheat/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15697" tvg-name="Philadelphia 76ers vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/538641e5d67f300ee62a75dfb2b87c11-thumbnail.jpg" group-title="Basketball | PPV Land",Philadelphia 76ers vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
@@ -16,8 +16,10 @@ https://gg.poocloud.in/dallasmavericks/index.m3u8
 https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15709" tvg-name="Boston Celtics vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/0eb7bbff98ce2066105a9f94710dff4b-thumbnail.jpg" group-title="Basketball | PPV Land",Boston Celtics vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
 https://gg.poocloud.in/laclippers/index.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Sunrisers Eastern Cape" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjKIyAE1LsQ3EHxCIIOkCaM4cEAhSZ8UXMKqLzRdprTAOxoiEA.webp" group-title="Cricket | StreamedSU",Joburg Super Kings vs Sunrisers Eastern Cape
+https://lb3.strmd.top/secure/kaqgBboGmbrFOzlQCKxsEccoGLdisJPu/charlie/stream/joburg-super-kings-vs-sunrisers-eastern-cape-1629472904/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sydney Thunder vs Hobart Hurricanes" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmY2mB4gIIbtpApcIFSBjGQJCyHgEKTPii5gy8IvNGOmG52NEQgA.webp" group-title="Cricket | StreamedSU",Sydney Thunder vs Hobart Hurricanes
-https://lb7.strmd.top/secure/QtGTQWUAiknxLTeliljoscIHwrHjByEW/charlie/stream/sydney-thunder-vs-hobart-hurricanes-1629472902/1/playlist.m3u8
+https://lb1.strmd.top/secure/ZnKBdPMoyKeNehIBclXrZhFiaqnkWMLF/charlie/stream/sydney-thunder-vs-hobart-hurricanes-1629472902/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts | PPV Land",World Darts Championship - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -352,12 +354,14 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Feirense vs Unio de Leiria" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kQQKSqDAATENxB896kCZOH9axhSZ8NbMGXhF5ojU1pgHY0RCA.webp" group-title="Football | StreamedSU",Feirense vs Unio de Leiria
+https://lb9.strmd.top/secure/cnDszhxmLUcmYejIfnQAKDRVWMFwLplH/echo/stream/feirense-vs-uniao-de-leiria-football-1398115/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Segunda Liga: Feirense vs Uniao de Leiria" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJMgO-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="Football | StreamedSU",Segunda Liga: Feirense vs Uniao de Leiria
+https://lb6.strmd.top/secure/vLuUiUwmuRcjlijpgloqcfgFqqYZupuc/charlie/stream/feirense-vs-uniao-de-leiria-1398115/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs Udinese" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Como vs Udinese
+https://lb10.strmd.top/secure/kjUnkFZSLTgnlFOkGFWRhFJoMBmbniiF/delta/stream/live_serie-a_como-udinese-live-streaming-440629200/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A-League Women: Perth Glory FC W vs Newcastle Jets FC W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRBsCMYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Football | StreamedSU",A-League Women: Perth Glory FC W vs Newcastle Jets FC W
-https://lb7.strmd.top/secure/knUfZBbXWtjsTVRoFUKPOsoxoyMAUuxM/charlie/stream/perth-glory-fc-w-vs-newcastle-jets-fc-w-1484522/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A-League Women: Brisbane Roar FC W vs Wellington Phoenix W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiGwwQbAjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title="Football | StreamedSU",A-League Women: Brisbane Roar FC W vs Wellington Phoenix W
-https://lb3.strmd.top/secure/AtmIJtJrxvmsaTDJCNqRpcrjxbwPDAlq/charlie/stream/brisbane-roar-fc-w-vs-wellington-phoenix-w-1484521/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Melbourne City vs Sydney FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Melbourne City vs Sydney FC
-https://lb3.strmd.top/secure/BkvIXnMdKAOpJXHxedTNMkFXGHxZNGhJ/charlie/stream/melbourne-city-vs-sydney-1469618/1/playlist.m3u8
+https://lb10.strmd.top/secure/lAdVHOYovebcxGmTnHjyxXkvrgPIWOfm/charlie/stream/perth-glory-fc-w-vs-newcastle-jets-fc-w-1484522/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
 https://locked.pixelpanel.online/hdstream/embed/617.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="MLB | Pixel Sports",Chicago White Sox at Chicago Cubs
