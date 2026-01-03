@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ppv-15694" tvg-name="Minnesota Timberwolves vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" group-title="Basketball | PPV Land",Minnesota Timberwolves vs. Miami Heat - 05:00 PM ET / 03:00 PM MT / 22:00 UK
-https://gg.poocloud.in/miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15730" tvg-name="UCLA Bruins vs. Iowa Hawkeyes" tvg-logo="https://api.ppv.to/assets/thumb/6c8986ddb3126fa9b5005f666075d7d1-thumbnail.jpg" group-title="Basketball | PPV Land",UCLA Bruins vs. Iowa Hawkeyes - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-https://gg.poocloud.in/Peacock/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15731" tvg-name="Illinois Fighting Illini vs. Penn State Nittany Lions" tvg-logo="https://api.ppv.to/assets/thumb/fb3cd5e9a6da61b60fab860a8e76fedc-thumbnail.jpg" group-title="Basketball | PPV Land",Illinois Fighting Illini vs. Penn State Nittany Lions - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15697" tvg-name="Philadelphia 76ers vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/538641e5d67f300ee62a75dfb2b87c11-thumbnail.jpg" group-title="Basketball | PPV Land",Philadelphia 76ers vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15700" tvg-name="Atlanta Hawks vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/76fa0ea6fc1310ecd5e12bbb6c6376c6-thumbnail.jpg" group-title="Basketball | PPV Land",Atlanta Hawks vs. Toronto Raptors - 07:30 PM ET / 05:30 PM MT / 00:30 UK
@@ -12,8 +10,8 @@ https://gg.poocloud.in/torontoraptors/index.m3u8
 https://gg.poocloud.in/sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15732" tvg-name="Purdue Boilermakers vs. Wisconsin Badgers" tvg-logo="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg" group-title="Basketball | PPV Land",Purdue Boilermakers vs. Wisconsin Badgers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15733" tvg-name="Florida Gators vs. Missouri Tigers" tvg-logo="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg" group-title="Basketball | PPV Land",Florida Gators vs. Missouri Tigers - 08:30 PM ET / 06:30 PM MT / 01:30 UK
-https://gg.poocloud.in/SECN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15705" tvg-name="Houston Rockets vs. Dallas Mavericks" tvg-logo="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg" group-title="Basketball | PPV Land",Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
+https://gg.poocloud.in/dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15707" tvg-name="Utah Jazz vs. Golden State Warriors" tvg-logo="https://api.ppv.to/assets/thumb/e06c569d1c9d7ee8198e03302dca17fb-thumbnail.jpg" group-title="Basketball | PPV Land",Utah Jazz vs. Golden State Warriors - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15709" tvg-name="Boston Celtics vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/0eb7bbff98ce2066105a9f94710dff4b-thumbnail.jpg" group-title="Basketball | PPV Land",Boston Celtics vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
@@ -22,6 +20,8 @@ https://gg.poocloud.in/laclippers/index.m3u8
 https://lb1.strmd.top/secure/jkTajklzoWCVDzlOzorleqkTfvJpFwQm/delta/stream/live_ncaa_george-mason-rhode-island-live-streaming-460438128/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Dakota State vs Oral Roberts" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghuIFMUR81IACYgIu9SBAlcZswQpM+mtmDLwi80Zqa0wjsaIhA.webp" group-title="Basketball | StreamedSU",North Dakota State vs Oral Roberts
 https://lb1.strmd.top/secure/oVDRteRUKofRQfGLPJpHQqKJsGLezXmt/delta/stream/live_ncaa_north-dakota-state-oral-roberts-live-streaming-427394016/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Arizona Wildcats vs. Utah Utes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Arizona Wildcats vs. Utah Utes
+https://gg.poocloud.in/Peacock/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Florida State vs Duke" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATNiHVIwqkN00GYekIiO6IuAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Basketball | StreamedSU",Florida State vs Duke
 https://gg.poocloud.in/CBS/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Old Dominion vs Georgia Southern" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNAhaAEzBIEIbiHUgIakCRB99Zk4YIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Basketball | StreamedSU",Old Dominion vs Georgia Southern
@@ -40,6 +40,8 @@ https://lb3.strmd.top/secure/LcpNdTIqCwQRKyQAUiTunTuKHzHqEVxR/delta/stream/live_
 https://gg.poocloud.in/CW/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="South Carolina vs Vanderbilt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJiAgg1YbiER6SIYxpzGUIC1sYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Basketball | StreamedSU",South Carolina vs Vanderbilt
 https://gg.poocloud.in/ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Georgia vs Auburn" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowIUsELySIbiF0gQMVaZS4QfYwQpM+KLmDLwiOzk1pgnY0RCA.webp" group-title="Basketball | StreamedSU",Georgia vs Auburn
+https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Charleston Southern Buccaneers vs North Carolina Asheville Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Charleston Southern Buccaneers vs North Carolina Asheville Bulldogs
 https://lb6.strmd.top/secure/dSgyKmNqMSLKOxEtVCPibyIfmLEqHBLn/delta/stream/live_ncaa_charleston-southern-unc-asheville-live-streaming-427401360/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Darts | StreamedSU",World Darts Championship
@@ -502,8 +504,6 @@ https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=uVQxckzFfPYyMcoCq_
 https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=e0tlYEEhJHOHsT5UhuXHqg&expires=1767495634&user_id=ZkRJeWxkRUF0Nndlb2JseEtCeFh5d1NETk5ISlJLdlJPM3o2dVlVeA==
 #EXTINF:-1 tvg-id="" tvg-name="Carolina Panthers @ Tampa Bay Buccaneers (01/03 4:30 PM ET)" group-title="NFL | Other",Carolina Panthers @ Tampa Bay Buccaneers (01/03 4:30 PM ET)
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="ppv-15602" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="NFL | PPV Land",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
-https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15605" tvg-name="Seattle Seahawks vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" group-title="NFL | PPV Land",Seattle Seahawks vs. San Francisco 49ers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15608" tvg-name="New Orleans Saints vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="NFL | PPV Land",New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
@@ -522,14 +522,16 @@ https://gg.poocloud.in/buffalobills/index.m3u8
 https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15620" tvg-name="Los Angeles Chargers vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/03c1e246ce1614e05daae5808ca37c4d-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. Denver Broncos - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/denverbroncos/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15622" tvg-name="Arizona Cardinals vs. Los Angeles Rams" tvg-logo="https://api.ppv.to/assets/thumb/11f3db059bf62c2247acdb35daa7a265-thumbnail.jpg" group-title="NFL | PPV Land",Arizona Cardinals vs. Los Angeles Rams - 04:25 PM ET / 02:25 PM MT / 21:25 UK
-https://gg.poocloud.in/losangelesrams/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15621" tvg-name="Kansas City Chiefs vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" group-title="NFL | PPV Land",Kansas City Chiefs vs. Las Vegas Raiders - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15623" tvg-name="Miami Dolphins vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/7ed24fc2cd7d8e50f6cf5e4d3cfaea79-thumbnail.jpg" group-title="NFL | PPV Land",Miami Dolphins vs. New England Patriots - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15624" tvg-name="Washington Commanders vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/485698f9e71ed5171636e9d50edddee5-thumbnail.jpg" group-title="NFL | PPV Land",Washington Commanders vs. Philadelphia Eagles - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15625" tvg-name="Baltimore Ravens vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/b80cc756e69663d6bcfbd25e9147ec41-thumbnail.jpg" group-title="NFL | PPV Land",Baltimore Ravens vs. Pittsburgh Steelers - 08:20 PM ET / 06:20 PM MT / 01:20 UK
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15443" tvg-name="Illinois State Redbirds vs. Montana State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="NFL | PPV Land",Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="NFL | Pixel Sports",Tennessee Titans at Jacksonville Jaguars
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMCfkm8YUr2B5w2aitjzB94/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="NFL | Pixel Sports",Tennessee Titans at Jacksonville Jaguars
@@ -628,8 +630,6 @@ https://gg.poocloud.in/newyorkislanders/index.m3u8
 https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15713" tvg-name="Colorado Avalanche vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/d467759c3aafdde1cbd2790a53a3a40e-thumbnail.jpg" group-title="NHL | PPV Land",Colorado Avalanche vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15714" tvg-name="Nashville Predators vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/ec18a6c0ed81d2ad797d7ef0fe73347b-thumbnail.jpg" group-title="NHL | PPV Land",Nashville Predators vs. Calgary Flames - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/calgaryflames/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15715" tvg-name="Minnesota Wild vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/419039fd232589802c4ea9b3bbfd1606-thumbnail.jpg" group-title="NHL | PPV Land",Minnesota Wild vs. Los Angeles Kings - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15716" tvg-name="Boston Bruins vs. Vancouver Canucks" tvg-logo="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg" group-title="NHL | PPV Land",Boston Bruins vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
