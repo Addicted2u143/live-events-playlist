@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ppv-15748" tvg-name="New Orleans Pelicans vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/4ee5f16405613bc0c27fb191edb67afb-thumbnail.jpg" group-title="Basketball | PPV Land",New Orleans Pelicans vs. Miami Heat - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-https://gg.poocloud.in/miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15750" tvg-name="Minnesota Timberwolves vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/fc01c87cd7891cd915ce6fbc7cd550b0-thumbnail.jpg" group-title="Basketball | PPV Land",Minnesota Timberwolves vs. Washington Wizards - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-https://gg.poocloud.in/washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15751" tvg-name="Oklahoma City Thunder vs. Phoenix Suns" tvg-logo="https://api.ppv.to/assets/thumb/57cc8949b57395bab3919d83b5596db9-thumbnail.jpg" group-title="Basketball | PPV Land",Oklahoma City Thunder vs. Phoenix Suns - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/phoenixsuns/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15752" tvg-name="Milwaukee Bucks vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/945a32b5c961913e3d432ff18df76a6b-thumbnail.jpg" group-title="Basketball | PPV Land",Milwaukee Bucks vs. Sacramento Kings - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 https://gg.poocloud.in/sacramentokings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15753" tvg-name="Memphis Grizzlies vs. Los Angeles Lakers" tvg-logo="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" group-title="Basketball | PPV Land",Memphis Grizzlies vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK
-https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Belmont vs Southern Illinois" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gAJtgVhg+ENxBqQEXAb0hzJM4wpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Basketball | StreamedSU",Belmont vs Southern Illinois
 https://lb9.strmd.top/secure/HPVtuYRdNMbQvliDYPeSrqDubSsQaoEk/delta/stream/live_ncaa_belmont-southern-illinois-live-streaming-460576800/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Murray State vs Bradley" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1GjaKMGW4htJEPu0wQKXPpB6JhGMCZ8UXTeXrzR9prTCaxoiEA.webp" group-title="Basketball | StreamedSU",Murray State vs Bradley
@@ -630,8 +624,6 @@ https://tvpass.org/live/NHL05/sd
 https://tvpass.org/live/NHL04/sd
 #EXTINF:-1 group-title="NHL | Other",01/03/26 12:10:00 PM EST = Pittsburgh Penguins @ Detroit Red Wings
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 tvg-id="ppv-15747" tvg-name="Carolina Hurricanes vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/eeb9bc88aa150cbe10a1a4155839dba3-thumbnail.jpg" group-title="NHL | PPV Land",Carolina Hurricanes vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15749" tvg-name="Vegas Golden Knights vs. Chicago Blackhawks" tvg-logo="https://api.ppv.to/assets/thumb/d1c5203732347f1b4f561da039794811-thumbnail.jpg" group-title="NHL | PPV Land",Vegas Golden Knights vs. Chicago Blackhawks - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15738" tvg-name="Canada vs. Czech Republic" tvg-logo="https://api.ppv.to/assets/thumb/96cc3119df35c53f5cdc9492ee685352-thumbnail.jpg" group-title="NHL | PPV Land",Canada vs. Czech Republic - 08:30 PM ET / 06:30 PM MT / 01:30 UK
