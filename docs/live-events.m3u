@@ -12,10 +12,12 @@ https://gg.poocloud.in/miamiheat/index.m3u8
 https://gg.poocloud.in/phoenixsuns/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15752" tvg-name="Milwaukee Bucks vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/945a32b5c961913e3d432ff18df76a6b-thumbnail.jpg" group-title="Basketball | PPV Land",Milwaukee Bucks vs. Sacramento Kings - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 https://gg.poocloud.in/sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15753" tvg-name="Memphis Grizzlies vs. Los Angeles Lakers" tvg-logo="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" group-title="Basketball | PPV Land",Memphis Grizzlies vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK
+https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15735" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="Cricket | PPV Land",Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 https://gg.poocloud.in/ashes/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Perth Scorchers vs Adelaide Strikers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0SIAJsAAMIRDBDcQEEClwg1IPeZDXDBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Cricket | StreamedSU",Perth Scorchers vs Adelaide Strikers
-https://lb6.strmd.top/secure/dWZKQajYpKEhjaJgCXHwrhwfBQLVzvvv/charlie/stream/perth-scorchers-vs-adelaide-strikers-1629472950/1/playlist.m3u8
+https://lb10.strmd.top/secure/ogKxOlqZFxZSlZqTKVNzVvXHzZcYXtrK/charlie/stream/perth-scorchers-vs-adelaide-strikers-1629472950/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -348,14 +350,32 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leeds United vs Manchester United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIwvKDm4htJHSD4gAJsZAxcIPYwpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Football | StreamedSU",Leeds United vs Manchester United
+https://gg.poocloud.in/pl_lee/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bolton Wanderers vs Northampton Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh17cQEXCAAm6kGp0hdaxGpwkQywjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title="Football | StreamedSU",Bolton Wanderers vs Northampton Town
+https://lb8.strmd.top/secure/avjkNUvMIAQHcRdKbZlSHVfHyYhfkswe/echo/stream/bolton-vs-northampton-football-1387392/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cheltenham Town vs Crawley Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gUoMABMQtfCFXaQakNsQ4jMEDAIUmfdWzBl4ReaPVNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Cheltenham Town vs Crawley Town
+https://lb2.strmd.top/secure/GfASJMWLohHKpiJKIDhwEXHSddLVpHoS/echo/stream/cheltenham-vs-crawley-town-football-1386288/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Milton Keynes Dons vs Chesterfield" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPutjUUIbiAi59IGCEQ4Sh5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Milton Keynes Dons vs Chesterfield
+https://lb2.strmd.top/secure/neFgUIyjfehmSgIQhiPpYzgLzQvFQtnf/charlie/stream/milton-keynes-dons-vs-chesterfield-1386291/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lincoln City vs Peterborough United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQgAJiHo4IIKCRC8QWdQaOmYICxcmEYwfAJQ8wZeEQVinD+mBfixEEA.webp" group-title="Football | StreamedSU",Lincoln City vs Peterborough United
+https://lb1.strmd.top/secure/gZVpjYfEyEQiOXiDiiLMuhYBLPQlJUSB/echo/stream/lincoln-vs-peterborough-football-1387395/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Birmingham City vs Coventry City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA.webp" group-title="Football | StreamedSU",Birmingham City vs Coventry City
+https://lb4.strmd.top/secure/WgTmQtdwuWzhOceFuqdueZhHfPCLzHqb/charlie/stream/birmingham-vs-coventry-1386858/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sevilla vs Levante UD" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Sevilla vs Levante UD
+https://lb4.strmd.top/secure/ifQGLotXYjDaXsmubtDLKEkMpJQUaNrX/delta/stream/live_laliga_sevilla-levante-live-streaming-440694432/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="QPR vs Sheffield Wednesday" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAj1yDRc3E94IqtwJdWYMLnxmgA.webp" group-title="Football | StreamedSU",QPR vs Sheffield Wednesday
+https://lb2.strmd.top/secure/gzSadjhdxmFbupsAvMWegclLWuNKqBcY/echo/stream/qpr-vs-sheffield-wednesday-football-1386852/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lazio vs Napoli" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football | StreamedSU",Lazio vs Napoli
+https://gg.poocloud.in/sa_laz/index.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="NFL Network" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="Football | StreamedSU",NFL Network
+https://lb9.strmd.top/secure/zxwQAHPvKbhyoYQklzOYfxwMFMrNpCaH/delta/stream/live-event_nfl-network-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Penafiel vs Paos de Ferreira" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwgQZegAYQMENxAATXGpMl15nAYIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="Football | StreamedSU",Penafiel vs Paos de Ferreira
-https://lb9.strmd.top/secure/atVZsEjhLGXGWAjIrqVaygPgwpbmPgOT/echo/stream/penafiel-vs-pacos-ferreira-football-1398118/1/playlist.m3u8
+https://lb9.strmd.top/secure/PUJcrbcJtFYiVGoPkDGuLcyAObHnDdce/echo/stream/penafiel-vs-pacos-ferreira-football-1398118/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Segunda Liga: Penafiel vs Pacos Ferreira" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEIgj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football | StreamedSU",Segunda Liga: Penafiel vs Pacos Ferreira
-https://lb7.strmd.top/secure/qvebneaMBrNgEJoZtPEFbFGZBtliGExK/charlie/stream/penafiel-vs-pacos-ferreira-1398118/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lazio vs Napoli" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Lazio vs Napoli
-https://lb7.strmd.top/secure/CVCErCzXYvFwjnshBSYlNuwIVcxUkIjx/delta/stream/live_serie-a_lazio-napoli-live-streaming-440652096/1/playlist.m3u8
+https://lb10.strmd.top/secure/XUiAChmhJRgEsJfHQdSAIMdAqepnfmjb/charlie/stream/penafiel-vs-pacos-ferreira-1398118/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Croatia U20 vs South Korea U20" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Hockey | StreamedSU",Croatia U20 vs South Korea U20
-https://lb10.strmd.top/secure/nzhmZiYvnEeKCuAJqbTOAApNBrRAeBwF/delta/stream/live_u20-world-championship-division-ii-group-a_croatia-u20-south-korea-u20-live-streaming-484971840/1/playlist.m3u8
+https://lb1.strmd.top/secure/VXFRyEzgAxYiLTowvpeyIFVhxBrtMWbj/delta/stream/live_u20-world-championship-division-ii-group-a_croatia-u20-south-korea-u20-live-streaming-484971840/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
 https://locked.pixelpanel.online/hdstream/embed/417.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
@@ -454,6 +474,8 @@ https://gg.poocloud.in/houstontexans/index.m3u8
 https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15619" tvg-name="Detroit Lions vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/404514c6f8c063faddb3a67656422151-thumbnail.jpg" group-title="NFL | PPV Land",Detroit Lions vs. Chicago Bears - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/chicagobears/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15620" tvg-name="Los Angeles Chargers vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/03c1e246ce1614e05daae5808ca37c4d-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. Denver Broncos - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15621" tvg-name="Kansas City Chiefs vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" group-title="NFL | PPV Land",Kansas City Chiefs vs. Las Vegas Raiders - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15622" tvg-name="Arizona Cardinals vs. Los Angeles Rams" tvg-logo="https://api.ppv.to/assets/thumb/11f3db059bf62c2247acdb35daa7a265-thumbnail.jpg" group-title="NFL | PPV Land",Arizona Cardinals vs. Los Angeles Rams - 04:25 PM ET / 02:25 PM MT / 21:25 UK
