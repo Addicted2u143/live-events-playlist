@@ -368,22 +368,18 @@ https://locked.pixelpanel.online/hdstream/embed/420.m3u8
 https://locked.pixelpanel.online/hdstream/embed/427.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="MLB | Pixel Sports",Arizona Diamondbacks at Colorado Rockies
 https://locked.pixelpanel.online/hdstream/embed/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="New York Knicks @ Detroit Pistons (01/05 7:10 PM ET)" group-title="NBA | Other",New York Knicks @ Detroit Pistons (01/05 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Indiana Pacers (01/06 7:10 PM ET)" group-title="NBA | Other",Cleveland Cavaliers @ Indiana Pacers (01/06 7:10 PM ET)
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Toronto Raptors (01/05 7:40 PM ET)" group-title="NBA | Other",Atlanta Hawks @ Toronto Raptors (01/05 7:40 PM ET)
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Boston Celtics (01/05 7:40 PM ET)" group-title="NBA | Other",Chicago Bulls @ Boston Celtics (01/05 7:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Orlando Magic @ Washington Wizards (01/06 7:10 PM ET)" group-title="NBA | Other",Orlando Magic @ Washington Wizards (01/06 7:10 PM ET)
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Oklahoma City Thunder (01/05 8:10 PM ET)" group-title="NBA | Other",Charlotte Hornets @ Oklahoma City Thunder (01/05 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ New Orleans Pelicans (01/06 8:10 PM ET)" group-title="NBA | Other",Los Angeles Lakers @ New Orleans Pelicans (01/06 8:10 PM ET)
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Houston Rockets (01/05 8:10 PM ET)" group-title="NBA | Other",Phoenix Suns @ Houston Rockets (01/05 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Memphis Grizzlies (01/06 8:10 PM ET)" group-title="NBA | Other",San Antonio Spurs @ Memphis Grizzlies (01/06 8:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Minnesota Timberwolves (01/06 8:10 PM ET)" group-title="NBA | Other",Miami Heat @ Minnesota Timberwolves (01/06 8:10 PM ET)
 https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Denver Nuggets @ Philadelphia 76ers (01/05 8:40 PM ET)" group-title="NBA | Other",Denver Nuggets @ Philadelphia 76ers (01/05 8:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Sacramento Kings (01/06 11:10 PM ET)" group-title="NBA | Other",Dallas Mavericks @ Sacramento Kings (01/06 11:10 PM ET)
 https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Los Angeles Clippers (01/05 10:10 PM ET)" group-title="NBA | Other",Golden State Warriors @ Los Angeles Clippers (01/05 10:10 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Utah Jazz @ Portland Trail Blazers (01/05 10:10 PM ET)" group-title="NBA | Other",Utah Jazz @ Portland Trail Blazers (01/05 10:10 PM ET)
-https://tvpass.org/live/NBA08/sd
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGqNgikZMCSqAh2V0TwkRnI/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
@@ -436,18 +432,18 @@ https://v15.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=7Ncxy4eUbUdV-a939r
 https://v15.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=ZNMJSAN5bBk-qweykbXzwA&expires=1767715488&user_id=TUZrWGpQWnZwbzBHQlFhWnRCYVE3aWd0QnhoRzB5TTBMSEpZVkVNZg==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Portland Trail Blazers - 1/6/26, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Utah Jazz @ Portland Trail Blazers - 1/6/26 - 3:10:00 AM UTC HD
 https://v3.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=daYC20crP5YFOoxrjk23vw&expires=1767715493&user_id=TUZrWGpQWnZwbzBHQlFhWnRCYVE3aWd0QnhoRzB5TTBMSEpZVkVNZg==
-#EXTINF:-1 tvg-id="" tvg-name="Illinois State Redbirds @ Montana State Bobcats (01/05 7:30 PM ET)" group-title="NCAAF | Other",Illinois State Redbirds @ Montana State Bobcats (01/05 7:30 PM ET)
-https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" group-title="NFL | PPV Land",Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15758" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/9c7455eebac691891d928f0a58570de0-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
-https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15768" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/c359a45200d28cdd708520ec618ec4c8-thumbnail.jpg" group-title="NFL | PPV Land",Green Bay Packers vs. Chicago Bears - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15771" tvg-name="Buffalo Bills vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/305ff4d6d42b51b4abbfaf9973642189-thumbnail.jpg" group-title="NFL | PPV Land",Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15775" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/62fd0e19b395aa9aa9170cf7f1a46450-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15777" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/3ab7cde279f1289cde2632df8b51a7b8-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15780" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/90bc034d1e1d2d74fff77be802b4bf63-thumbnail.jpg" group-title="NFL | PPV Land",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAXdA3Xt9g8AYo6mjXv1cn8/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
@@ -486,16 +482,26 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyNB0i1te_L8sZvVq3r_nCSA/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDiqwaQmQ9tE3wxl-5NJPn4/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png" group-title="NFL | Pixel Sports",Washington Commanders at Philadelphia Eagles
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJrCz6SdUXS4hRkuRTgLQW0/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Washington Capitals (01/05 7:00 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Washington Capitals (01/05 7:00 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Philadelphia Flyers (01/06 7:00 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Philadelphia Flyers (01/06 7:00 PM ET)
 https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Utah Mammoth @ New York Rangers (01/05 7:00 PM ET)" group-title="NHL | Other",Utah Mammoth @ New York Rangers (01/05 7:00 PM ET)
-https://tvpass.org/live/NHL23/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Red Wings @ Ottawa Senators (01/05 7:30 PM ET)" group-title="NHL | Other",Detroit Red Wings @ Ottawa Senators (01/05 7:30 PM ET)
-https://tvpass.org/live/NHL06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Kraken @ Calgary Flames (01/05 9:30 PM ET)" group-title="NHL | Other",Seattle Kraken @ Calgary Flames (01/05 9:30 PM ET)
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Wild @ Los Angeles Kings (01/05 10:30 PM ET)" group-title="NHL | Other",Minnesota Wild @ Los Angeles Kings (01/05 10:30 PM ET)
-https://tvpass.org/live/NHL11/sd
+#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Buffalo Sabres (01/06 7:00 PM ET)" group-title="NHL | Other",Vancouver Canucks @ Buffalo Sabres (01/06 7:00 PM ET)
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ Carolina Hurricanes (01/06 7:00 PM ET)" group-title="NHL | Other",Dallas Stars @ Carolina Hurricanes (01/06 7:00 PM ET)
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Avalanche @ Tampa Bay Lightning (01/06 7:00 PM ET)" group-title="NHL | Other",Colorado Avalanche @ Tampa Bay Lightning (01/06 7:00 PM ET)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-id="" tvg-name="Florida Panthers @ Toronto Maple Leafs (01/06 7:30 PM ET)" group-title="NHL | Other",Florida Panthers @ Toronto Maple Leafs (01/06 7:30 PM ET)
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ New York Islanders (01/06 7:30 PM ET)" group-title="NHL | Other",New Jersey Devils @ New York Islanders (01/06 7:30 PM ET)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Winnipeg Jets (01/06 8:00 PM ET)" group-title="NHL | Other",Vegas Golden Knights @ Winnipeg Jets (01/06 8:00 PM ET)
+https://tvpass.org/live/NHL28/sd
+#EXTINF:-1 tvg-id="" tvg-name="Nashville Predators @ Edmonton Oilers (01/06 9:00 PM ET)" group-title="NHL | Other",Nashville Predators @ Edmonton Oilers (01/06 9:00 PM ET)
+https://tvpass.org/live/NHL12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Seattle Kraken (01/06 10:00 PM ET)" group-title="NHL | Other",Boston Bruins @ Seattle Kraken (01/06 10:00 PM ET)
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ San Jose Sharks (01/06 10:00 PM ET)" group-title="NHL | Other",Columbus Blue Jackets @ San Jose Sharks (01/06 10:00 PM ET)
+https://tvpass.org/live/NHL20/sd
 #EXTINF:-1 group-title="NHL | Other",01/06/26 07:00:00 PM EST = Anaheim Ducks @ Philadelphia Flyers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="ppv-15838" tvg-name="Vancouver Canucks vs. Buffalo Sabres" tvg-logo="https://api.ppv.to/assets/thumb/219f4e7f1886a72ff4ebe35543696c8e-thumbnail.jpg" group-title="NHL | PPV Land",Vancouver Canucks vs. Buffalo Sabres - 07:00 PM ET / 05:00 PM MT / 00:00 UK
