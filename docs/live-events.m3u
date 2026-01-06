@@ -474,6 +474,16 @@ https://e3.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=tORo5sDJXuEOjzXMJ20
 https://e3.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=o367WV-3FgNkK58LXQ9bDw&expires=1767750931&user_id=OFRpSGFYSHdDUUZmanBiZUlHSE5BaEx0ZlJqak1KTEI2eHl3RGt6eQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Sacramento Kings - 1/7/26, 4:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Dallas Mavericks @ Sacramento Kings - 1/7/26 - 4:10:00 AM UTC HD
 https://e2.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=VDuXeGsYYf6rI35p2K6hfg&expires=1767750937&user_id=OFRpSGFYSHdDUUZmanBiZUlHSE5BaEx0ZlJqak1KTEI2eHl3RGt6eQ==
+#EXTINF:-1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" group-title="NFL | PPV Land",Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15758" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/9c7455eebac691891d928f0a58570de0-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15768" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/c359a45200d28cdd708520ec618ec4c8-thumbnail.jpg" group-title="NFL | PPV Land",Green Bay Packers vs. Chicago Bears - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/chicagobears/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15775" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/62fd0e19b395aa9aa9170cf7f1a46450-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15777" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/3ab7cde279f1289cde2632df8b51a7b8-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15780" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/90bc034d1e1d2d74fff77be802b4bf63-thumbnail.jpg" group-title="NFL | PPV Land",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
@@ -554,6 +564,8 @@ https://gg.poocloud.in/winnipegjets/index.m3u8
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15854" tvg-name="Columbus Blue Jackets vs. San Jose Sharks" tvg-logo="https://api.ppv.to/assets/thumb/3cfde9cad5b15213594424cef2b1c88f-thumbnail.jpg" group-title="NHL | PPV Land",Columbus Blue Jackets vs. San Jose Sharks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15855" tvg-name="Boston Bruins vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/9b6125f22d660b76b0081d5521b83508-thumbnail.jpg" group-title="NHL | PPV Land",Boston Bruins vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCR4V4WyzxQOvFy1hR_ojR0/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
