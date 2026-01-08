@@ -4,18 +4,8 @@
 https://gg.poocloud.in/charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15906" tvg-name="Miami Heat vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/9ed8aa63f8a7e24c2692247059cd699c-thumbnail.jpg" group-title="Basketball | PPV Land",Miami Heat vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15908" tvg-name="Cleveland Cavaliers vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/e58e12abbd469693c8993593e9cf4b60-thumbnail.jpg" group-title="Basketball | PPV Land",Cleveland Cavaliers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15910" tvg-name="Dallas Mavericks vs. Utah Jazz" tvg-logo="https://api.ppv.to/assets/thumb/13b432c6db1c41251647cfc77e436d6d-thumbnail.jpg" group-title="Basketball | PPV Land",Dallas Mavericks vs. Utah Jazz - 09:00 PM ET / 07:00 PM MT / 02:00 UK
-https://gg.poocloud.in/utahjazz/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boise State vs Grand Canyon" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAgG7EABNgSECRDc9q3CEQwQEECiu4CFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Basketball | StreamedSU",Boise State vs Grand Canyon
-https://lb1.strmd.top/secure/GOCysTLJCYOMQGmzBOFnlGtTVCGrrJZK/delta/stream/live_ncaa_boise-state-gr-canyon-live-streaming-460756512/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Milwaukee Bucks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA.webp" group-title="Basketball | StreamedSU",Golden State Warriors vs Milwaukee Bucks
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Houston Rockets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA.webp" group-title="Basketball | StreamedSU",Portland Trail Blazers vs Houston Rockets
-https://gg.poocloud.in/portlandtrailblazers/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Los Angeles Lakers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp" group-title="Basketball | StreamedSU",San Antonio Spurs vs Los Angeles Lakers
-https://lb7.strmd.top/secure/tzMHTlwsNrXmNdCFiActQlFHGGJqzfCW/charlie/stream/los-angeles-lakers-vs-san-antonio-spurs-1629473121/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Super Smash: Northern Brave vs Canterbury Magicians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="Cricket | StreamedSU",Women's Super Smash: Northern Brave vs Canterbury Magicians
+https://lb3.strmd.top/secure/AgOeIJXlKrogUeLXiFTeLJUrpWVdcGXZ/charlie/stream/northern-brave-vs-canterbury-magicians-1629473128/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Australia vs. England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title="Cricket | StreamedSU",Australia vs. England
 https://gg.poocloud.in/ashes/index.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -351,11 +341,7 @@ https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyze
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Los Angeles Kings vs San Jose Sharks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp" group-title="Hockey | StreamedSU",Los Angeles Kings vs San Jose Sharks
-https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth vs Ottawa Senators" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Hockey | StreamedSU",Utah Mammoth vs Ottawa Senators
-https://lb7.strmd.top/secure/qLWBxHdHlJbKAVeMgyCIZdUYejTODswM/charlie/stream/ottawa-senators-vs-utah-mammoth-1629473122/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks vs St. Louis Blues" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="Hockey | StreamedSU",Chicago Blackhawks vs St. Louis Blues
-https://lb9.strmd.top/secure/RiZPQXgZTWZTJUHzmgcjCWGvdIldtUOB/charlie/stream/st-louis-blues-vs-chicago-blackhawks-1629473123/1/playlist.m3u8
+https://lb7.strmd.top/secure/jyhCuLqYkWdcknryhaLzLOAZsaFFWuwK/charlie/stream/san-jose-sharks-vs-los-angeles-kings-1629473127/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
 https://locked.pixelpanel.online/hdstream/embed/417.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
@@ -398,30 +384,6 @@ https://tvpass.org/live/NBA08/sd
 https://tvpass.org/live/NBA11/sd
 #EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Portland Trail Blazers (01/07 10:10 PM ET)" group-title="NBA | Other",Houston Rockets @ Portland Trail Blazers (01/07 10:10 PM ET)
 https://tvpass.org/live/NBA12/sd
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Toronto Raptors @ Charlotte Hornets
-https://e2.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=04dMva_-4ughWTsof8gBNg&expires=1767846972&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Chicago Bulls @ Detroit Pistons
-https://v18.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=DtW5QPLCrL5V4VLeeIhXGA&expires=1767846982&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Washington Wizards @ Philadelphia 76ers
-https://e1.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=c5-q7TC_-1ukBOjYan4ZCw&expires=1767846993&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Denver Nuggets @ Boston Celtics
-https://v15.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=VYv_Q6uDCokbc7bROKLh0A&expires=1767847003&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:40:00 PM EST = New Orleans Pelicans @ Atlanta Hawks
-https://v16.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=z3N0ilCtPV68G5F7wTca0g&expires=1767847013&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:40:00 PM EST = Orlando Magic @ Brooklyn Nets
-https://v2.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=pP7N2d8dWuvcWwQCs_WwUw&expires=1767847023&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 07:40:00 PM EST = Los Angeles Clippers @ New York Knicks
-https://v5.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=DWv9HPbQHWHpIIj2nrgxHA&expires=1767847033&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 08:10:00 PM EST = Utah Jazz @ Oklahoma City Thunder
-https://v4.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=MyCawII2ifwwptHwCQ8fIg&expires=1767847044&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 08:10:00 PM EST = Phoenix Suns @ Memphis Grizzlies
-https://v1.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=zsTqB9dgHVmXkRjifDIZ8g&expires=1767847054&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 09:40:00 PM EST = Los Angeles Lakers @ San Antonio Spurs
-https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=neOm5ksgsdrub4NjfQ0VPw&expires=1767847064&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 10:10:00 PM EST = Milwaukee Bucks @ Golden State Warriors
-https://v13.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=WWyzPpVcCnVsHodD1AbGfw&expires=1767847074&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NBA | Other",01/07/26 10:10:00 PM EST = Houston Rockets @ Portland Trail Blazers
-https://e4.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=DFitK72ipvnvLz6j_OyE_w&expires=1767847085&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
 #EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Toronto Raptors @ Charlotte Hornets
 https://v5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=Y9mrbepPPwUmMGrbslAQRw&expires=1767869468&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
 #EXTINF:-1 group-title="NBA | Other",01/07/26 07:10:00 PM EST = Chicago Bulls @ Detroit Pistons
@@ -479,55 +441,65 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBMEoZteZ36Fx09nAdicHJ8/.
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA | Pixel Sports",Minnesota Timberwolves at Washington Wizards
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCgYXU1oau_QrYwG5L5YoC8/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Boston Celtics - 1/8/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Denver Nuggets @ Boston Celtics - 1/8/26 - 12:10:00 AM UTC SD
-https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=zO9VDwV1aH_0Ve_IrgWo0Q&expires=1767870989&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v18.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=8t1NblBXqyxJ_daOqg2Xlg&expires=1767873749&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Boston Celtics - 1/8/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Denver Nuggets @ Boston Celtics - 1/8/26 - 12:10:00 AM UTC HD
-https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=q1llZ4xl9bZhL3Hjq4zlWg&expires=1767870995&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=xwUUm7gSVFdbvTo7hBnRQw&expires=1767873755&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Charlotte Hornets - 1/8/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Toronto Raptors @ Charlotte Hornets - 1/8/26 - 12:10:00 AM UTC SD
-https://e5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=p2yAnlnIdjr80zohNd0cWg&expires=1767871000&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v14.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=bpi-V6FeyNGODNVAz5zbsQ&expires=1767873760&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Charlotte Hornets - 1/8/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Toronto Raptors @ Charlotte Hornets - 1/8/26 - 12:10:00 AM UTC HD
-https://e5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=v7G3iZuCso8vz5ib-RA1EA&expires=1767871006&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=YmEybfmPYIuCvE0XDj7iwA&expires=1767873766&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Detroit Pistons - 1/8/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Chicago Bulls @ Detroit Pistons - 1/8/26 - 12:10:00 AM UTC SD
-https://v18.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=aoNPqTDsEDNyiLtDhbdVJg&expires=1767871011&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v16.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=W1OwJR9N78NH4G36gz4ppA&expires=1767873771&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Detroit Pistons - 1/8/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Chicago Bulls @ Detroit Pistons - 1/8/26 - 12:10:00 AM UTC HD
-https://v2.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=RJ2w-Y10mOtYZM-AyNZzwg&expires=1767871017&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v5.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=j4-itHCGQ1Jea0RP_ORg1A&expires=1767873777&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Philadelphia 76ers - 1/8/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Philadelphia 76ers - 1/8/26 - 12:10:00 AM UTC SD
-https://e4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=Zj47FmxZqE1fEhHTWUhtKQ&expires=1767871022&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=ssng_48LJzBClTXUmkvemg&expires=1767873782&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Philadelphia 76ers - 1/8/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Philadelphia 76ers - 1/8/26 - 12:10:00 AM UTC HD
-https://e4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=kUphmi_JV4j4IfritVrfUQ&expires=1767871028&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=PR6oxCB3icKEuraO01ryAQ&expires=1767873788&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Atlanta Hawks - 1/8/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Atlanta Hawks - 1/8/26 - 12:40:00 AM UTC SD
-https://e5.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=SHL_9OoD3iLSKrqoSrJzUg&expires=1767871033&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v3.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=fIimwgfnLUAjpGdjqd2jtw&expires=1767873793&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Atlanta Hawks - 1/8/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Atlanta Hawks - 1/8/26 - 12:40:00 AM UTC HD
-https://v17.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=Af8k5tdoIv6BGMWopIwdwg&expires=1767871038&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v12.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=PIDU0-W87e4X0-TVpV-uZg&expires=1767873799&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Brooklyn Nets - 1/8/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Orlando Magic @ Brooklyn Nets - 1/8/26 - 12:40:00 AM UTC SD
-https://v17.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=rdPuHo7TabocSykUDv2ilw&expires=1767871044&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v12.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=i9gU56VkvpMIjdMcfjQ6Ig&expires=1767873804&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Brooklyn Nets - 1/8/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Orlando Magic @ Brooklyn Nets - 1/8/26 - 12:40:00 AM UTC HD
-https://v13.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=6dKtELGQVwtHhaRmuIlZqg&expires=1767871049&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v15.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=dXuAK3-z6BN_ol5-hQF_zA&expires=1767873810&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Clippers @ New York Knicks - 1/8/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Clippers @ New York Knicks - 1/8/26 - 12:40:00 AM UTC SD
-https://v16.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=8J-YyvQ7E5XMB82yFzfmXA&expires=1767871055&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v15.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=DWKfTIwu8Gb_3FpxVRWeqQ&expires=1767873815&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Clippers @ New York Knicks - 1/8/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Clippers @ New York Knicks - 1/8/26 - 12:40:00 AM UTC HD
-https://v4.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=PENfpohERsmMNP3RLeEthQ&expires=1767871060&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=fwUBlMcSwRgd6SZD2-7Hvw&expires=1767873820&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Memphis Grizzlies - 1/8/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Phoenix Suns @ Memphis Grizzlies - 1/8/26 - 1:10:00 AM UTC SD
-https://v3.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=KYyv2eBhuYlyjt5MxJ9c7g&expires=1767871066&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v14.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=M0KB_HxzOwBPiUj98XAYog&expires=1767873826&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Memphis Grizzlies - 1/8/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Phoenix Suns @ Memphis Grizzlies - 1/8/26 - 1:10:00 AM UTC HD
-https://v5.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=n-tkhgogDN51sqA9oGCjGA&expires=1767871071&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v13.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=SQnyzOAw9hcvokAZahcVew&expires=1767873832&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Oklahoma City Thunder - 1/8/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Utah Jazz @ Oklahoma City Thunder - 1/8/26 - 1:10:00 AM UTC SD
-https://v12.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=Cb_At3pkATttzQSAus5IJA&expires=1767871076&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v13.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=N0vifAyppD83KJZgV2MGIw&expires=1767873837&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Oklahoma City Thunder - 1/8/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Utah Jazz @ Oklahoma City Thunder - 1/8/26 - 1:10:00 AM UTC HD
-https://v16.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=W8VGIdNVSQgxsN2MfkXSrA&expires=1767871082&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v12.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=9R11I2XeZh0UjgN4bJZzAQ&expires=1767873842&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ San Antonio Spurs - 1/8/26, 2:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Lakers @ San Antonio Spurs - 1/8/26 - 2:40:00 AM UTC SD
-https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=BCe0LUPVwcMVqKe9T3zVdA&expires=1767871087&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=OVFBjGm0HVeZui6WhV1FgA&expires=1767873848&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ San Antonio Spurs - 1/8/26, 2:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Lakers @ San Antonio Spurs - 1/8/26 - 2:40:00 AM UTC HD
-https://v1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=tM3p_KhDRepc-JWfUx5rNw&expires=1767871093&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=xwyC0TiCgKq3A7vvmeWXBg&expires=1767873853&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Golden State Warriors - 1/8/26, 3:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Milwaukee Bucks @ Golden State Warriors - 1/8/26 - 3:10:00 AM UTC SD
-https://v1.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=08fOpqaksJYJi55DxXqoYg&expires=1767871098&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e3.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=J3MBsmXr5-PeIVsrTFwD1A&expires=1767873859&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Golden State Warriors - 1/8/26, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Milwaukee Bucks @ Golden State Warriors - 1/8/26 - 3:10:00 AM UTC HD
-https://v5.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=d4aMTmE7i5pcoVRnR1Gk7g&expires=1767871104&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e3.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=ihb27ydKphV6p0fNt55Otw&expires=1767873864&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Portland Trail Blazers - 1/8/26, 3:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Houston Rockets @ Portland Trail Blazers - 1/8/26 - 3:10:00 AM UTC SD
-https://v15.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=sjH0JPu0F8xzye_Y4lDuGQ&expires=1767871109&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e5.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=3y4MM6m0ktQFfUCoNer6pA&expires=1767873870&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Portland Trail Blazers - 1/8/26, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Houston Rockets @ Portland Trail Blazers - 1/8/26 - 3:10:00 AM UTC HD
-https://v18.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=FMy7T6ME4dat3aXmFc-l-A&expires=1767871114&user_id=TGhHY1phRk1uY0lLR3FTaFJtaFRQZ2x4dFBlNzZiZTNRVXVoU2w3Rg==
+https://e5.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=isA_dcf_4GXSMJU1QhbU5A&expires=1767873875&user_id=bHZqWDV2UVVMTncwYWd3UEFkbElRc2w0ejlwSTlwN0hvUk9XYmNVSQ==
 #EXTINF:-1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" group-title="NFL | PPV Land",Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15870" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/3cb40ffda5283992d755754d94972c91-thumbnail.jpg" group-title="NFL | PPV Land",Green Bay Packers vs. Chicago Bears - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/chicagobears/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15871" tvg-name="Buffalo Bills vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="NFL | PPV Land",Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="NFL | PPV Land",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="NFL | PPV Land",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15874" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="NFL | PPV Land",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAXdA3Xt9g8AYo6mjXv1cn8/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
@@ -575,16 +547,6 @@ https://tvpass.org/live/NHL18/sd
 #EXTINF:-1 tvg-id="" tvg-name="San Jose Sharks @ Los Angeles Kings (01/07 10:30 PM ET)" group-title="NHL | Other",San Jose Sharks @ Los Angeles Kings (01/07 10:30 PM ET)
 https://tvpass.org/live/NHL14/sd
 #EXTINF:-1 group-title="NHL | Other",01/07/26 07:00:00 PM EST = Dallas Stars @ Washington Capitals
-https://v5.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=pDwQQ1Ch7hKjQsiWOWWPrA&expires=1767846921&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NHL | Other",01/07/26 07:30:00 PM EST = Calgary Flames @ Montréal Canadiens
-https://v8.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=MZeDtqYPv7eLUxZ5t1wUlw&expires=1767846931&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NHL | Other",01/07/26 09:30:00 PM EST = St Louis Blues @ Chicago Blackhawks
-https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=iIZmSzxQIrbseJYH_ETAlg&expires=1767846941&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NHL | Other",01/07/26 09:30:00 PM EST = Ottawa Senators @ Utah Mammoth
-https://e5.thetvapp.to/hls/NHL18/tracks-v1a1/mono.m3u8?token=rlwDYSZ6AWu20R6Ggy-lUA&expires=1767846951&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NHL | Other",01/07/26 10:30:00 PM EST = San Jose Sharks @ Los Angeles Kings
-https://v1.thetvapp.to/hls/NHL14/tracks-v1a1/mono.m3u8?token=HBbGrhHb-9CgMbOuhHHgKw&expires=1767846961&user_id=MkpoNTRVczdsbDZiRHBiU3VFMmd0ZmRiVW5MRFhqc2Z4TERpZ3NqYg==
-#EXTINF:-1 group-title="NHL | Other",01/07/26 07:00:00 PM EST = Dallas Stars @ Washington Capitals
 https://v3.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=oyuDmGhbUgiHD-vrLvCUsg&expires=1767869416&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
 #EXTINF:-1 group-title="NHL | Other",01/07/26 07:30:00 PM EST = Calgary Flames @ Montréal Canadiens
 https://v17.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=isZhr3sCynofUk-7vHHf4A&expires=1767869427&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
@@ -606,8 +568,18 @@ https://gg.poocloud.in/newyorkrangers/index.m3u8
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15913" tvg-name="New Jersey Devils vs. Pittsburgh Penguins" tvg-logo="https://api.ppv.to/assets/thumb/d1fac59f97954cb796d3390f91a79223-thumbnail.jpg" group-title="NHL | PPV Land",New Jersey Devils vs. Pittsburgh Penguins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15914" tvg-name="Anaheim Ducks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/c842435dac0ce77f40729bb21cd04709-thumbnail.jpg" group-title="NHL | PPV Land",Anaheim Ducks vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15915" tvg-name="New York Islanders vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/3910ddb0c01ff26e7418674e8a002891-thumbnail.jpg" group-title="NHL | PPV Land",New York Islanders vs. Nashville Predators - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15916" tvg-name="Edmonton Oilers vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg" group-title="NHL | PPV Land",Edmonton Oilers vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15917" tvg-name="Ottawa Senators vs. Colorado Avalanche" tvg-logo="https://api.ppv.to/assets/thumb/8643d80d9f2913b358d384a518b2d67c-thumbnail.jpg" group-title="NHL | PPV Land",Ottawa Senators vs. Colorado Avalanche - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15918" tvg-name="Columbus Blue Jackets vs. Vegas Golden Knights" tvg-logo="https://api.ppv.to/assets/thumb/fec4eed84950d37d0fe276f1545f6ede-thumbnail.jpg" group-title="NHL | PPV Land",Columbus Blue Jackets vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15919" tvg-name="Minnesota Wild vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/4740360c98cb01edfeccf53b45a16f27-thumbnail.jpg" group-title="NHL | PPV Land",Minnesota Wild vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCR4V4WyzxQOvFy1hR_ojR0/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
