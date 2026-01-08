@@ -1,13 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Perth Heat vs Sydney Blue Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4hwSauBQhVAExCI+IfWpIHcIZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Baseball | StreamedSU",Perth Heat vs Sydney Blue Sox
+https://lb4.strmd.top/secure/IFDRREzWUoUJqarVwRjrUvfQcbSMMcrh/charlie/stream/perth-heat-vs-sydney-blue-sox-1629473133/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Brisbane Bandits vs Adelaide Giants" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAgeYJLDC9V3EABMQiPgdUgSuMyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Baseball | StreamedSU",Brisbane Bandits vs Adelaide Giants
-https://lb9.strmd.top/secure/LwOevZtgBOIWRTuPCshAycfIZuPlTvMj/charlie/stream/brisbane-bandits-vs-adelaide-giants-1629473132/1/playlist.m3u8
+https://lb3.strmd.top/secure/HXAmNrGAaDeFtjQsFaTjnbnCQMHVUBGC/charlie/stream/brisbane-bandits-vs-adelaide-giants-1629473132/1/playlist.m3u8
 #EXTINF:-1 tvg-id="ppv-15904" tvg-name="Indiana Pacers vs. Charlotte Hornets" tvg-logo="https://api.ppv.to/assets/thumb/ed76984c7d104c6027cc419d6b4a16fd-thumbnail.jpg" group-title="Basketball | PPV Land",Indiana Pacers vs. Charlotte Hornets - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15906" tvg-name="Miami Heat vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/9ed8aa63f8a7e24c2692247059cd699c-thumbnail.jpg" group-title="Basketball | PPV Land",Miami Heat vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Melbourne Stars vs Sydney Sixers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyREADGxAATEDBDcQEEClzbdIPqb1aCFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title="Cricket | StreamedSU",Melbourne Stars vs Sydney Sixers
-https://lb7.strmd.top/secure/SyptyrkzGdXhBXwYVqvgxmgqutjhAXpl/charlie/stream/melbourne-stars-vs-sydney-sixers-1629473131/1/playlist.m3u8
+https://lb4.strmd.top/secure/fSCWoNlHeJPZgLGhZPHJLCzcawXVcnUN/charlie/stream/melbourne-stars-vs-sydney-sixers-1629473131/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
