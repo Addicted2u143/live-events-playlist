@@ -6,10 +6,6 @@ https://lb9.strmd.top/secure/LwOevZtgBOIWRTuPCshAycfIZuPlTvMj/charlie/stream/bri
 https://gg.poocloud.in/charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15906" tvg-name="Miami Heat vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/9ed8aa63f8a7e24c2692247059cd699c-thumbnail.jpg" group-title="Basketball | PPV Land",Miami Heat vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15908" tvg-name="Cleveland Cavaliers vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/e58e12abbd469693c8993593e9cf4b60-thumbnail.jpg" group-title="Basketball | PPV Land",Cleveland Cavaliers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15910" tvg-name="Dallas Mavericks vs. Utah Jazz" tvg-logo="https://api.ppv.to/assets/thumb/13b432c6db1c41251647cfc77e436d6d-thumbnail.jpg" group-title="Basketball | PPV Land",Dallas Mavericks vs. Utah Jazz - 09:00 PM ET / 07:00 PM MT / 02:00 UK
-https://gg.poocloud.in/utahjazz/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Melbourne Stars vs Sydney Sixers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyREADGxAATEDBDcQEEClzbdIPqb1aCFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title="Cricket | StreamedSU",Melbourne Stars vs Sydney Sixers
 https://lb7.strmd.top/secure/SyptyrkzGdXhBXwYVqvgxmgqutjhAXpl/charlie/stream/melbourne-stars-vs-sydney-sixers-1629473131/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
@@ -526,6 +522,8 @@ https://e4.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=LM68kACyXdp7406ii
 https://e3.thetvapp.to/hls/NHL18/tracks-v1a1/mono.m3u8?token=OPIS6bovh13NecNGxeM92A&expires=1767869447&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
 #EXTINF:-1 group-title="NHL | Other",01/07/26 10:30:00 PM EST = San Jose Sharks @ Los Angeles Kings
 https://v18.thetvapp.to/hls/NHL14/tracks-v1a1/mono.m3u8?token=k0gRphYZsTdQ3AY3cwFxng&expires=1767869457&user_id=ZVdCSDhEdW93MWZzdlpRZERYejBoRXByTVBSN3VINWphTkRjdmRONQ==
+#EXTINF:-1 group-title="NHL | Other",01/08/26 07:00:00 PM EST = Toronto Maple Leafs @ Philadelphia Flyers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="ppv-15905" tvg-name="Calgary Flames vs. Boston Bruins" tvg-logo="https://api.ppv.to/assets/thumb/5a76d124e9a6b82f1df681953fe15eb8-thumbnail.jpg" group-title="NHL | PPV Land",Calgary Flames vs. Boston Bruins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15907" tvg-name="Florida Panthers vs. Montreal Canadiens" tvg-logo="https://api.ppv.to/assets/thumb/bf837dae2216feec566daa1d0fcc6b84-thumbnail.jpg" group-title="NHL | PPV Land",Florida Panthers vs. Montreal Canadiens - 07:00 PM ET / 05:00 PM MT / 00:00 UK
@@ -540,8 +538,12 @@ https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15914" tvg-name="Anaheim Ducks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/c842435dac0ce77f40729bb21cd04709-thumbnail.jpg" group-title="NHL | PPV Land",Anaheim Ducks vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15915" tvg-name="New York Islanders vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/3910ddb0c01ff26e7418674e8a002891-thumbnail.jpg" group-title="NHL | PPV Land",New York Islanders vs. Nashville Predators - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15916" tvg-name="Edmonton Oilers vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg" group-title="NHL | PPV Land",Edmonton Oilers vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15917" tvg-name="Ottawa Senators vs. Colorado Avalanche" tvg-logo="https://api.ppv.to/assets/thumb/8643d80d9f2913b358d384a518b2d67c-thumbnail.jpg" group-title="NHL | PPV Land",Ottawa Senators vs. Colorado Avalanche - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15918" tvg-name="Columbus Blue Jackets vs. Vegas Golden Knights" tvg-logo="https://api.ppv.to/assets/thumb/fec4eed84950d37d0fe276f1545f6ede-thumbnail.jpg" group-title="NHL | PPV Land",Columbus Blue Jackets vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15919" tvg-name="Minnesota Wild vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/4740360c98cb01edfeccf53b45a16f27-thumbnail.jpg" group-title="NHL | PPV Land",Minnesota Wild vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
