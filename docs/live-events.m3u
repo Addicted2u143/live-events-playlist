@@ -384,18 +384,26 @@ https://locked.pixelpanel.online/hdstream/embed/420.m3u8
 https://locked.pixelpanel.online/hdstream/embed/427.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="MLB | Pixel Sports",Arizona Diamondbacks at Colorado Rockies
 https://locked.pixelpanel.online/hdstream/embed/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Cleveland Cavaliers (01/10 1:10 PM ET)" group-title="NBA | Other",Minnesota Timberwolves @ Cleveland Cavaliers (01/10 1:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Orlando Magic (01/11 3:10 PM ET)" group-title="NBA | Other",New Orleans Pelicans @ Orlando Magic (01/11 3:10 PM ET)
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Indiana Pacers (01/10 7:10 PM ET)" group-title="NBA | Other",Miami Heat @ Indiana Pacers (01/10 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Memphis Grizzlies (01/11 3:40 PM ET)" group-title="NBA | Other",Brooklyn Nets @ Memphis Grizzlies (01/11 3:40 PM ET)
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Detroit Pistons (01/10 7:40 PM ET)" group-title="NBA | Other",Los Angeles Clippers @ Detroit Pistons (01/10 7:40 PM ET)
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Chicago Bulls (01/10 8:10 PM ET)" group-title="NBA | Other",Dallas Mavericks @ Chicago Bulls (01/10 8:10 PM ET)
-https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Boston Celtics (01/10 8:10 PM ET)" group-title="NBA | Other",San Antonio Spurs @ Boston Celtics (01/10 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="New York Knicks @ Portland Trail Blazers (01/11 6:10 PM ET)" group-title="NBA | Other",New York Knicks @ Portland Trail Blazers (01/11 6:10 PM ET)
 https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Utah Jazz (01/10 9:40 PM ET)" group-title="NBA | Other",Charlotte Hornets @ Utah Jazz (01/10 9:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Toronto Raptors (01/11 6:10 PM ET)" group-title="NBA | Other",Philadelphia 76ers @ Toronto Raptors (01/11 6:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Oklahoma City Thunder (01/11 7:10 PM ET)" group-title="NBA | Other",Miami Heat @ Oklahoma City Thunder (01/11 7:10 PM ET)
 https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Minnesota Timberwolves (01/11 7:10 PM ET)" group-title="NBA | Other",San Antonio Spurs @ Minnesota Timberwolves (01/11 7:10 PM ET)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Phoenix Suns (01/11 8:10 PM ET)" group-title="NBA | Other",Washington Wizards @ Phoenix Suns (01/11 8:10 PM ET)
+https://tvpass.org/live/NBA08/sd
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Bucks @ Denver Nuggets (01/11 8:10 PM ET)" group-title="NBA | Other",Milwaukee Bucks @ Denver Nuggets (01/11 8:10 PM ET)
+https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Golden State Warriors (01/11 8:40 PM ET)" group-title="NBA | Other",Atlanta Hawks @ Golden State Warriors (01/11 8:40 PM ET)
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Sacramento Kings (01/11 9:10 PM ET)" group-title="NBA | Other",Houston Rockets @ Sacramento Kings (01/11 9:10 PM ET)
+https://tvpass.org/live/NBA10/sd
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGqNgikZMCSqAh2V0TwkRnI/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
@@ -444,7 +452,9 @@ https://e4.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=INAzj2enSHS_0SCghHm
 https://e4.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=6G-b-tKO_542LVw5ljx3Lg&expires=1768147154&user_id=cHNYY3ZXRk9Bc003N1ZxbWgzN0hrbTgxT1JhaUkwYVAxSGRHREpIRQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Utah Jazz - 1/11/26, 2:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Charlotte Hornets @ Utah Jazz - 1/11/26 - 2:40:00 AM UTC HD
 https://v8.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=dSfpFfQLoUFI2tGgjY9rSw&expires=1768147160&user_id=cHNYY3ZXRk9Bc003N1ZxbWgzN0hrbTgxT1JhaUkwYVAxSGRHREpIRQ==
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Rams @ Carolina Panthers (01/10 4:30 PM ET)" group-title="NFL | Other",Los Angeles Rams @ Carolina Panthers (01/10 4:30 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Jacksonville Jaguars (01/11 1:00 PM ET)" group-title="NFL | Other",Buffalo Bills @ Jacksonville Jaguars (01/11 1:00 PM ET)
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Francisco 49ers @ Philadelphia Eagles (01/11 4:30 PM ET)" group-title="NFL | Other",San Francisco 49ers @ Philadelphia Eagles (01/11 4:30 PM ET)
 https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 group-title="NFL | Other",01/11/26 01:00:00 PM EST = Buffalo Bills @ Jacksonville Jaguars
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
@@ -494,34 +504,14 @@ https://v12.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=iRZdVhiVyintDw17ipL
 https://v17.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=xbkBZust1lAfzRk5PdRoQA&expires=1768147177&user_id=cHNYY3ZXRk9Bc003N1ZxbWgzN0hrbTgxT1JhaUkwYVAxSGRHREpIRQ==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers @ Chicago Bears - 1/11/26, 1:00:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Green Bay Packers @ Chicago Bears - 1/11/26 - 1:00:00 AM UTC HD
 https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=2vBwcF1JuxaSJZf-6TFt7A&expires=1768147183&user_id=cHNYY3ZXRk9Bc003N1ZxbWgzN0hrbTgxT1JhaUkwYVAxSGRHREpIRQ==
-#EXTINF:-1 tvg-id="" tvg-name="New York Rangers @ Boston Bruins (01/10 1:10 PM ET)" group-title="NHL | Other",New York Rangers @ Boston Bruins (01/10 1:10 PM ET)
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Pittsburgh Penguins (01/10 3:40 PM ET)" group-title="NHL | Other",Calgary Flames @ Pittsburgh Penguins (01/10 3:40 PM ET)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Colorado Avalanche (01/10 4:10 PM ET)" group-title="NHL | Other",Columbus Blue Jackets @ Colorado Avalanche (01/10 4:10 PM ET)
-https://tvpass.org/live/NHL20/sd
-#EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ San Jose Sharks (01/10 4:10 PM ET)" group-title="NHL | Other",Dallas Stars @ San Jose Sharks (01/10 4:10 PM ET)
-https://tvpass.org/live/NHL27/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Toronto Maple Leafs (01/10 7:10 PM ET)" group-title="NHL | Other",Vancouver Canucks @ Toronto Maple Leafs (01/10 7:10 PM ET)
-https://tvpass.org/live/NHL31/sd
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Lightning @ Philadelphia Flyers (01/10 7:10 PM ET)" group-title="NHL | Other",Tampa Bay Lightning @ Philadelphia Flyers (01/10 7:10 PM ET)
-https://tvpass.org/live/NHL08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Florida Panthers @ Ottawa Senators (01/10 7:10 PM ET)" group-title="NHL | Other",Florida Panthers @ Ottawa Senators (01/10 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ Winnipeg Jets (01/11 2:10 PM ET)" group-title="NHL | Other",New Jersey Devils @ Winnipeg Jets (01/11 2:10 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Red Wings @ Montréal Canadiens (01/10 7:10 PM ET)" group-title="NHL | Other",Detroit Red Wings @ Montréal Canadiens (01/10 7:10 PM ET)
-https://tvpass.org/live/NHL06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Kraken @ Carolina Hurricanes (01/10 7:10 PM ET)" group-title="NHL | Other",Seattle Kraken @ Carolina Hurricanes (01/10 7:10 PM ET)
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Buffalo Sabres (01/10 7:10 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Buffalo Sabres (01/10 7:10 PM ET)
-https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Blackhawks @ Nashville Predators (01/10 8:00 PM ET)" group-title="NHL | Other",Chicago Blackhawks @ Nashville Predators (01/10 8:00 PM ET)
-https://tvpass.org/live/NHL05/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Minnesota Wild (01/10 8:10 PM ET)" group-title="NHL | Other",New York Islanders @ Minnesota Wild (01/10 8:10 PM ET)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Edmonton Oilers (01/10 10:10 PM ET)" group-title="NHL | Other",Los Angeles Kings @ Edmonton Oilers (01/10 10:10 PM ET)
-https://tvpass.org/live/NHL29/sd
-#EXTINF:-1 tvg-id="" tvg-name="St Louis Blues @ Vegas Golden Knights (01/10 10:10 PM ET)" group-title="NHL | Other",St Louis Blues @ Vegas Golden Knights (01/10 10:10 PM ET)
-https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Boston Bruins (01/11 5:10 PM ET)" group-title="NHL | Other",Pittsburgh Penguins @ Boston Bruins (01/11 5:10 PM ET)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Nashville Predators (01/11 7:10 PM ET)" group-title="NHL | Other",Washington Capitals @ Nashville Predators (01/11 7:10 PM ET)
+https://tvpass.org/live/NHL30/sd
+#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Utah Mammoth (01/11 7:10 PM ET)" group-title="NHL | Other",Columbus Blue Jackets @ Utah Mammoth (01/11 7:10 PM ET)
+https://tvpass.org/live/NHL20/sd
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCR4V4WyzxQOvFy1hR_ojR0/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
