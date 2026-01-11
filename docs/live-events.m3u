@@ -436,6 +436,26 @@ https://tvpass.org/live/NBA07/sd
 https://tvpass.org/live/NBA09/sd
 #EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Sacramento Kings (01/11 9:10 PM ET)" group-title="NBA | Other",Houston Rockets @ Sacramento Kings (01/11 9:10 PM ET)
 https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 group-title="NBA | Other",01/11/26 03:10:00 PM EST = New Orleans Pelicans @ Orlando Magic
+https://v14.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=XPnrBOhoBJGA3yUCDKJ4Gg&expires=1768171149&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 03:40:00 PM EST = Brooklyn Nets @ Memphis Grizzlies
+https://e2.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=oXC4gdUaZoEzBu3GMPJEZQ&expires=1768171159&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 06:10:00 PM EST = New York Knicks @ Portland Trail Blazers
+https://v2.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=wdPdjWN_2s2lKbIcqbXMlw&expires=1768171169&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 06:10:00 PM EST = Philadelphia 76ers @ Toronto Raptors
+https://v12.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=yQvmURX9UAFe1lZzqSL_XA&expires=1768171179&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 07:10:00 PM EST = Miami Heat @ Oklahoma City Thunder
+https://e5.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=pTwc7XqqfsCm-V0BY1Qs8Q&expires=1768171190&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 07:10:00 PM EST = San Antonio Spurs @ Minnesota Timberwolves
+https://v17.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=XHopjcSa9vwdtHUUYTlBUw&expires=1768171200&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 08:10:00 PM EST = Washington Wizards @ Phoenix Suns
+https://e4.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=F7rE5AgynCqyX-0BeZY6JA&expires=1768171210&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 08:10:00 PM EST = Milwaukee Bucks @ Denver Nuggets
+https://v1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=zkHuBTYs3OXIJcCuIa4GKg&expires=1768171220&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 08:40:00 PM EST = Atlanta Hawks @ Golden State Warriors
+https://e3.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=5IR25YAp7sdHSHZrEUhfaw&expires=1768171230&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NBA | Other",01/11/26 09:10:00 PM EST = Houston Rockets @ Sacramento Kings
+https://v4.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=JbV4OhlrrXe5XgZbYUEYEg&expires=1768171241&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGqNgikZMCSqAh2V0TwkRnI/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA | Pixel Sports",New Orleans Pelicans at Miami Heat
@@ -514,6 +534,12 @@ https://tvpass.org/live/WCBSDT1/sd
 https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 group-title="NFL | Other",01/11/26 01:00:00 PM EST = Buffalo Bills @ Jacksonville Jaguars
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NFL | Other",01/11/26 01:00:00 PM EST = Buffalo Bills @ Jacksonville Jaguars
+https://v15.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=7wXvQ8oULCksIRrLwvPXOg&expires=1768171067&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NFL | Other",01/11/26 04:30:00 PM EST = San Francisco 49ers @ Philadelphia Eagles
+https://v12.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=m2qmjIYqK1DTkdhwV4C5WA&expires=1768171077&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NFL | Other",01/11/26 08:00:00 PM EST = Los Angeles Chargers @ New England Patriots
+https://v3.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=Irl1dHxoSmNtxrCBtu23jw&expires=1768171087&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAXdA3Xt9g8AYo6mjXv1cn8/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="NFL | Pixel Sports",Cleveland Browns at Cincinnati Bengals
@@ -572,6 +598,16 @@ https://tvpass.org/live/NHL10/sd
 https://tvpass.org/live/NHL30/sd
 #EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Utah Mammoth (01/11 7:10 PM ET)" group-title="NHL | Other",Columbus Blue Jackets @ Utah Mammoth (01/11 7:10 PM ET)
 https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 group-title="NHL | Other",01/11/26 02:10:00 PM EST = New Jersey Devils @ Winnipeg Jets
+https://e4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=6sYJ6ufFlRSHDAOlbc8zSw&expires=1768171098&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NHL | Other",01/11/26 05:10:00 PM EST = Pittsburgh Penguins @ Boston Bruins
+https://v14.thetvapp.to/hls/NHL10/tracks-v1a1/mono.m3u8?token=P_9UWk3IO2d6erhM4iLZLg&expires=1768171108&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NHL | Other",01/11/26 07:10:00 PM EST = Washington Capitals @ Nashville Predators
+https://v8.thetvapp.to/hls/NHL30/tracks-v1a1/mono.m3u8?token=PV8DvqStMn0TTlFGMj6XsA&expires=1768171118&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NHL | Other",01/11/26 07:10:00 PM EST = Columbus Blue Jackets @ Utah Mammoth
+https://e4.thetvapp.to/hls/NHL20/tracks-v1a1/mono.m3u8?token=OtjsHMmOVWoK_665mqhmdQ&expires=1768171128&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
+#EXTINF:-1 group-title="NHL | Other",01/11/26 08:10:00 PM EST = Vegas Golden Knights @ San Jose Sharks
+https://v18.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=VOe7jy6NzmFlSH72xxkPew&expires=1768171138&user_id=RWpLVjhhM2s4UDVKMG9xempqWkE0MXhhTklOeUxqWVVpcEthMHBueg==
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCR4V4WyzxQOvFy1hR_ojR0/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL | Pixel Sports",Pittsburgh Penguins at Columbus Blue Jackets
