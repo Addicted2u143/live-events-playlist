@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dhaka Capitals vs Rajshahi Warriors" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3opKwAAxgAJgxDcQfENsMhEJMyBggIIFAQpM+atmDLwi80Wqa0wbsVEIIA.webp" group-title="Cricket | StreamedSU",Dhaka Capitals vs Rajshahi Warriors
-https://lb1.strmd.top/secure/UsOmNWeiPiJJmjfOgdLZRKVijOLipnjV/charlie/stream/noakhali-express-vs-dhaka-capitals-1629473353/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs MI Cape Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTcQEEABNgABlAg1fEIg1qQxkChAwtBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Cricket | StreamedSU",Pretoria Capitals vs MI Cape Town
+https://lb10.strmd.top/secure/oXWYkibwlUewAqwNIEqMBzgdqtiAFGOc/charlie/stream/pretoria-capitals-vs-mi-cape-town-1629473354/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -334,6 +334,8 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Nassr" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Football | StreamedSU",Al-Hilal vs Al-Nassr
+https://lb6.strmd.top/secure/TQAIToDtadItconyRBoMMqsJzzFBxOsg/delta/stream/live_saudi-pro-league_al-hilal-al-nassr-live-streaming-440892288/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
@@ -368,6 +370,18 @@ https://tvpass.org/live/NBA04/sd
 https://tvpass.org/live/NBA06/sd
 #EXTINF:-1 group-title="NBA | Other",01/12/26 07:10:00 PM EST = Utah Jazz @ Cleveland Cavaliers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA | Other",01/12/26 07:10:00 PM EST = Utah Jazz @ Cleveland Cavaliers
+https://v18.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=SYWKZiSiBjBl2J_ZCStkcg&expires=1768257799&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NBA | Other",01/12/26 07:40:00 PM EST = Boston Celtics @ Indiana Pacers
+https://v16.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=gpfwbi3G1DCS6-qCY7D-rA&expires=1768257809&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NBA | Other",01/12/26 07:40:00 PM EST = Philadelphia 76ers @ Toronto Raptors
+https://e3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=1ydPktIRQdnMPjLVcqZRoA&expires=1768257819&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NBA | Other",01/12/26 08:40:00 PM EST = Brooklyn Nets @ Dallas Mavericks
+https://v14.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=uAe_bcKlV86eBX9mDYuuKg&expires=1768257829&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NBA | Other",01/12/26 10:10:00 PM EST = Los Angeles Lakers @ Sacramento Kings
+https://v3.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=89zcJc1p_0xOcv6k0qR_sQ&expires=1768257840&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NBA | Other",01/12/26 10:40:00 PM EST = Charlotte Hornets @ Los Angeles Clippers
+https://v2.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=tfhtqjQuzfG_7y1XarwIpg&expires=1768257850&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA | Pixel Sports",Boston Celtics at Indiana Pacers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBt_j7TPXZKtcCDUDoI5r2U/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA | Pixel Sports",Boston Celtics at Indiana Pacers
@@ -430,6 +444,8 @@ https://v1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=6n94c8bfOC6__i_ki_F
 https://v18.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=094IpXElQo8g9rLndmOAMw&expires=1768213703&user_id=OUFjQk55Zk5KNjhkcHloVkdJYTZRVWxoekJBT2JpVjRoWVBDR1o1Vw==
 #EXTINF:-1 tvg-id="" tvg-name="Houston Texans @ Pittsburgh Steelers (01/12 8:00 PM ET)" group-title="NFL | Other",Houston Texans @ Pittsburgh Steelers (01/12 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 group-title="NFL | Other",01/12/26 08:00:00 PM EST = Houston Texans @ Pittsburgh Steelers
+https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=OWH_UQg-ZrEMoRiTMrSVHw&expires=1768257952&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Carolina Panthers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBDOKVmI2rAipR3UKqE7id0/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="NFL | Pixel Sports",Houston Texans at Pittsburgh Steelers
@@ -472,6 +488,24 @@ https://tvpass.org/live/NHL15/sd
 https://tvpass.org/live/NHL19/sd
 #EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ Los Angeles Kings (01/12 10:10 PM ET)" group-title="NHL | Other",Dallas Stars @ Los Angeles Kings (01/12 10:10 PM ET)
 https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 group-title="NHL | Other",01/12/26 07:10:00 PM EST = Florida Panthers @ Buffalo Sabres
+https://e1.thetvapp.to/hls/NHL07/tracks-v1a1/mono.m3u8?token=vUynNy46FamlBDDeeTKpeg&expires=1768257860&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 07:10:00 PM EST = Carolina Hurricanes @ Detroit Red Wings
+https://v8.thetvapp.to/hls/NHL04/tracks-v1a1/mono.m3u8?token=SeRnpv_IXt2XEn_PN9NK1A&expires=1768257870&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 07:10:00 PM EST = Seattle Kraken @ New York Rangers
+https://v12.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=Q3MtSR0EixSB6o8osPmBow&expires=1768257880&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 07:10:00 PM EST = Tampa Bay Lightning @ Philadelphia Flyers
+https://v2.thetvapp.to/hls/NHL08/tracks-v1a1/mono.m3u8?token=vq649nCkLblPx0JOq2w0bg&expires=1768257891&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 07:40:00 PM EST = Vancouver Canucks @ Montréal Canadiens
+https://e5.thetvapp.to/hls/NHL31/tracks-v1a1/mono.m3u8?token=v-Ycw9WIZbzGtC7dM9o5bA&expires=1768257901&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 08:10:00 PM EST = New Jersey Devils @ Minnesota Wild
+https://v13.thetvapp.to/hls/NHL26/tracks-v1a1/mono.m3u8?token=RSyKZaO6wYKdBX_DbP3Dww&expires=1768257911&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 08:40:00 PM EST = Edmonton Oilers @ Chicago Blackhawks
+https://v15.thetvapp.to/hls/NHL15/tracks-v1a1/mono.m3u8?token=b5IwCrkXZMO6lxGV1HD1Yw&expires=1768257921&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 10:10:00 PM EST = Toronto Maple Leafs @ Colorado Avalanche
+https://v17.thetvapp.to/hls/NHL19/tracks-v1a1/mono.m3u8?token=Ne8rt4qIZbfqNx_S0PwnpA&expires=1768257932&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
+#EXTINF:-1 group-title="NHL | Other",01/12/26 10:10:00 PM EST = Dallas Stars @ Los Angeles Kings
+https://e2.thetvapp.to/hls/NHL27/tracks-v1a1/mono.m3u8?token=C67tKWB-tE7-KpTMePmVWg&expires=1768257942&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyF2IRSLpKuceqeLAtDBXqx8/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
