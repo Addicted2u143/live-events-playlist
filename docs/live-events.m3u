@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs MI Cape Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTcQEEABNgABlAg1fEIg1qQxkChAwtBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Cricket | StreamedSU",Pretoria Capitals vs MI Cape Town
+https://lb10.strmd.top/secure/RVTUaMXYnsYEgkQABhnDRmvmJMzFOqsx/charlie/stream/pretoria-capitals-vs-mi-cape-town-1629473354/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -332,6 +334,10 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Nassr" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqoKMABMwvFCG4g+ICKpAlcxsyE1mCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Football | StreamedSU",Al-Hilal vs Al-Nassr
+https://lb8.strmd.top/secure/jMNyrsglJPjWYMIxvATEpCMDqJfBWPMR/charlie/stream/al-hilal-saudi-fc-vs-al-nassr-1436047/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs Cagliari" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuQ3gIIbiB06+IEiEQGQRiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football | StreamedSU",Genoa vs Cagliari
+https://lb5.strmd.top/secure/vUtssfIWMxrROsnMVOlxMUCFDONPmWyB/admin/stream/sa_gen/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
@@ -364,8 +370,6 @@ https://tvpass.org/live/NBA05/sd
 https://tvpass.org/live/NBA04/sd
 #EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Los Angeles Clippers (01/12 10:40 PM ET)" group-title="NBA | Other",Charlotte Hornets @ Los Angeles Clippers (01/12 10:40 PM ET)
 https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 group-title="NBA | Other",01/12/26 07:10:00 PM EST = Utah Jazz @ Cleveland Cavaliers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA | Other",01/12/26 07:10:00 PM EST = Utah Jazz @ Cleveland Cavaliers
 https://v18.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=SYWKZiSiBjBl2J_ZCStkcg&expires=1768257799&user_id=bWxsc2djMXhoQW1DZTBqUkx2VmZLRThFTUdLQmpjTHRJeEp3d0V2Ng==
 #EXTINF:-1 group-title="NBA | Other",01/12/26 07:40:00 PM EST = Boston Celtics @ Indiana Pacers
