@@ -404,8 +404,20 @@ https://tvpass.org/live/NBA05/sd
 https://tvpass.org/live/NBA06/sd
 #EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Golden State Warriors (01/13 11:10 PM ET)" group-title="NBA | Other",Portland Trail Blazers @ Golden State Warriors (01/13 11:10 PM ET)
 https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 group-title="NBA | Other",01/13/26 07:40:00 PM EST = Phoenix Suns @ Miami Heat
+https://e4.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=7t9v1Le1-8HmVH9AGv7S2g&expires=1768388164&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NBA | Other",01/13/26 08:10:00 PM EST = Chicago Bulls @ Houston Rockets
+https://v12.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=guz78vuJ_f5ZbnUWVp9sYw&expires=1768388174&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NBA | Other",01/13/26 08:10:00 PM EST = San Antonio Spurs @ Oklahoma City Thunder
+https://v14.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=29ZdzgkzzonRe4XFWJC-MA&expires=1768388185&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NBA | Other",01/13/26 08:10:00 PM EST = Minnesota Timberwolves @ Milwaukee Bucks
+https://v15.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=gFS5REg_NHzzEL7T7nJvbA&expires=1768388195&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NBA | Other",01/13/26 08:10:00 PM EST = Denver Nuggets @ New Orleans Pelicans
+https://v18.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=uh6iVdHBNz0pAHsIRyohuQ&expires=1768388205&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
 #EXTINF:-1 group-title="NBA | Other",01/13/26 10:40:00 PM EST = Atlanta Hawks @ Los Angeles Lakers
-https://v4.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=aRFHsZnfm_438raK0UIPnQ&expires=1768386890&user_id=cHpJWnhQOTRVTXJMM04xZ0hMZ1FZWThXYkdIVDRMQkg4akNXeDRtWg==
+https://e4.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=ok2e39NLU9yBvK6NgdIQgA&expires=1768388215&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NBA | Other",01/13/26 11:10:00 PM EST = Portland Trail Blazers @ Golden State Warriors
+https://v13.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=3DhW_yL5Os09MZHhkQXBJw&expires=1768388225&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBA | Pixel Sports",Philadelphia 76ers at Toronto Raptors
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyL4YTOjyD1QIcFAG-YBC_8Y/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBA | Pixel Sports",Philadelphia 76ers at Toronto Raptors
@@ -486,6 +498,26 @@ https://tvpass.org/live/NHL15/sd
 https://tvpass.org/live/NHL19/sd
 #EXTINF:-1 group-title="NHL | Other",01/13/26 07:10:00 PM EST = Tampa Bay Lightning @ Pittsburgh Penguins
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:10:00 PM EST = Tampa Bay Lightning @ Pittsburgh Penguins
+https://v18.thetvapp.to/hls/NHL08/tracks-v1a1/mono.m3u8?token=1otQzhBzAHi12GqSHac3mA&expires=1768388062&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:10:00 PM EST = Calgary Flames @ Columbus Blue Jackets
+https://e4.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=sX6IB4-ega_sdG033TZcsw&expires=1768388072&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:10:00 PM EST = Montréal Canadiens @ Washington Capitals
+https://v17.thetvapp.to/hls/NHL30/tracks-v1a1/mono.m3u8?token=3Ylq48sMCaaRkz1Z2Sk6aA&expires=1768388082&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:10:00 PM EST = Vancouver Canucks @ Ottawa Senators
+https://v13.thetvapp.to/hls/NHL31/tracks-v1a1/mono.m3u8?token=1dv4q-hH1PIRm7pUX5Q4xA&expires=1768388092&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:40:00 PM EST = Carolina Hurricanes @ St Louis Blues
+https://v2.thetvapp.to/hls/NHL04/tracks-v1a1/mono.m3u8?token=RTa1R9vjXzeohb-Lf-C4eA&expires=1768388103&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 07:40:00 PM EST = Detroit Red Wings @ Boston Bruins
+https://v3.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=NXoaWxbTBtP4XSFw0cZ4kg&expires=1768388113&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 08:10:00 PM EST = New York Islanders @ Winnipeg Jets
+https://e5.thetvapp.to/hls/NHL09/tracks-v1a1/mono.m3u8?token=rmFXbHyFtid_DVGSxZX_Lg&expires=1768388123&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 08:10:00 PM EST = Edmonton Oilers @ Nashville Predators
+https://e2.thetvapp.to/hls/NHL15/tracks-v1a1/mono.m3u8?token=wxb8PzfJQVxDY7xI4liJrg&expires=1768388133&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 10:10:00 PM EST = Dallas Stars @ Anaheim Ducks
+https://v4.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=nCyiCLEtKW_5FQR1FzhQHQ&expires=1768388144&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
+#EXTINF:-1 group-title="NHL | Other",01/13/26 10:10:00 PM EST = Toronto Maple Leafs @ Utah Mammoth
+https://e1.thetvapp.to/hls/NHL19/tracks-v1a1/mono.m3u8?token=kDJkC7WVg00XDD8qvy_G4Q&expires=1768388154&user_id=cEhjMXJqNFcxU0JITzFKTTVDRDdmckV6SDJWOThLYzBHMDFOTnR2YQ==
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyF2IRSLpKuceqeLAtDBXqx8/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
