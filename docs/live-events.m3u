@@ -1,25 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs Toronto Raptors" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Indiana Pacers vs Toronto Raptors
-https://lb4.strmd.top/secure/sRLVEBirQiilIAOpbCGJliXNvxrLABCg/delta/stream/live_nba_pacers-raptors-live-streaming-428037696/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Philadelphia 76ers vs Cleveland Cavaliers
-https://lb3.strmd.top/secure/TXMHFpidOYuDCgyqQvkuRRpcsbaCbAAq/delta/stream/live_nba_76ers-cavaliers-live-streaming-428038128/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Georgia Tech Yellow Jackets vs Pittsburgh Panthers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Georgia Tech Yellow Jackets vs Pittsburgh Panthers
-https://lb3.strmd.top/secure/GXqgmwGHUmEEZmUOAvOMhgCFHmXwlaTm/delta/stream/live_ncaa_georgia-tech-pittsburgh-live-streaming-428027328/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cincinnati Bearcats vs Colorado Buffaloes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Cincinnati Bearcats vs Colorado Buffaloes
-https://lb8.strmd.top/secure/nDVvcphnFJVQpXoedpiyfgbCztFwWUYg/delta/stream/live_ncaa_cincinnati-colorado-live-streaming-461313792/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Georgia Bulldogs vs Mississippi Rebels" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Georgia Bulldogs vs Mississippi Rebels
-https://lb8.strmd.top/secure/kYdGTzJXCbFQxMdQSBcqsRWsockQnkWs/delta/stream/live_ncaa_georgia-b-ole-miss-live-streaming-461316816/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="LSU Tigers vs Kentucky Wildcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",LSU Tigers vs Kentucky Wildcats
-https://lb9.strmd.top/secure/dQAgLqJQKgFOShgnpYYjoZQVdahbTEJX/delta/stream/live_ncaa_lsu-kentucky-live-streaming-461320704/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Missouri Tigers vs Auburn Tigers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Missouri Tigers vs Auburn Tigers
-https://lb3.strmd.top/secure/pWjnJMPHwrQzWfPCthnybzcrVMMAtMun/delta/stream/live_ncaa_missouri-auburn-live-streaming-461322864/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Xavier Musketeers vs Butler Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Xavier Musketeers vs Butler Bulldogs
-https://lb7.strmd.top/secure/GBoXhJZkYLVILojoQqpzDyneMpmuBYIN/delta/stream/live_ncaa_xavier-butler-live-streaming-428067936/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Purdue Boilermakers vs Iowa Hawkeyes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Purdue Boilermakers vs Iowa Hawkeyes
-https://lb3.strmd.top/secure/mtGOwfMYUUTqBzbqBQWwKCZuLPFrbqyf/delta/stream/live_ncaa_purdue-iowa-hawkeyes-live-streaming-461310336/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Rhode Island Rams vs VCU Rams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Basketball | StreamedSU",Rhode Island Rams vs VCU Rams
-https://lb4.strmd.top/secure/kcecrJWEZDQlLkYJkXrttgABidRtlDvt/delta/stream/live_ncaa_rhode-island-vcu-live-streaming-461308176/1/playlist.m3u8
 #EXTINF:-1 group-title="Events | Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1  group-title="Events | Other" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
@@ -352,10 +332,6 @@ https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-kudrivka
 https://stream-king.godzilla-will.win/playlist/regular/watchfooty-regular-1-dyzel-penza-hk-norilsk/1/4605978/playlist.m3u8?hash=5_FnA1hAr7N4dwBqYtpvvARXajMea_ZF
 #EXTINF:-1 tvg-chno="156" tvg-id="Live.Event.us" tvg-name="[Virsliga] Riga vs Rigas FS (WFTY)" tvg-logo="https://www.watchfooty.cc/api/v1/poster/4377953" group-title="Events | Other",[Virsliga] Riga vs Rigas FS (WFTY)
 https://stream-king.godzilla-will.win/playlist/elite/watchfooty-elite-1-riga-rigas-fs/1/4377953/playlist.m3u8?hash=bbLG6anbh4RJNbNva_Npyc8ELs62xMI2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Palmeiras vs Santos" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp" group-title="Football | StreamedSU",Palmeiras vs Santos
-https://lb6.strmd.top/secure/pFZwRkBfZgUExXZEqYxnCOWSeJmQGFMh/echo/stream/palmeiras-vs-santos-football-1500521/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils vs Seattle Kraken" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Hockey | StreamedSU",New Jersey Devils vs Seattle Kraken
-https://lb3.strmd.top/secure/ACAwrThuyphZEFdiEoCIKHiCsmArzFAp/delta/stream/live_nhl_devils-kraken-live-streaming-488430432/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
 https://locked.pixelpanel.online/hdstream/embed/349.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB | Pixel Sports",New York Yankees at Baltimore Orioles
