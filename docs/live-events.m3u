@@ -352,19 +352,17 @@ https://locked.pixelpanel.online/hdstream/embed/162.m3u8
 https://locked.pixelpanel.online/hdstream/embed/417.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
 https://locked.pixelpanel.online/hdstream/embed/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Philadelphia 76ers (01/20 7:10 PM ET)" group-title="NBA | Other",Phoenix Suns @ Philadelphia 76ers (01/20 7:10 PM ET)
-https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Chicago Bulls (01/20 8:10 PM ET)" group-title="NBA | Other",Los Angeles Clippers @ Chicago Bulls (01/20 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Charlotte Hornets (01/21 7:10 PM ET)" group-title="NBA | Other",Cleveland Cavaliers @ Charlotte Hornets (01/21 7:10 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Pacers @ Boston Celtics (01/21 7:40 PM ET)" group-title="NBA | Other",Indiana Pacers @ Boston Celtics (01/21 7:40 PM ET)
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Houston Rockets (01/20 8:10 PM ET)" group-title="NBA | Other",San Antonio Spurs @ Houston Rockets (01/20 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ New York Knicks (01/21 7:40 PM ET)" group-title="NBA | Other",Brooklyn Nets @ New York Knicks (01/21 7:40 PM ET)
 https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Utah Jazz (01/20 9:10 PM ET)" group-title="NBA | Other",Minnesota Timberwolves @ Utah Jazz (01/20 9:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Memphis Grizzlies (01/21 8:10 PM ET)" group-title="NBA | Other",Atlanta Hawks @ Memphis Grizzlies (01/21 8:10 PM ET)
 https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ Denver Nuggets (01/20 10:10 PM ET)" group-title="NBA | Other",Los Angeles Lakers @ Denver Nuggets (01/20 10:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Pistons @ New Orleans Pelicans (01/21 8:10 PM ET)" group-title="NBA | Other",Detroit Pistons @ New Orleans Pelicans (01/21 8:10 PM ET)
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Golden State Warriors (01/20 10:10 PM ET)" group-title="NBA | Other",Toronto Raptors @ Golden State Warriors (01/20 10:10 PM ET)
-https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Sacramento Kings (01/20 10:10 PM ET)" group-title="NBA | Other",Miami Heat @ Sacramento Kings (01/20 10:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Sacramento Kings (01/21 10:10 PM ET)" group-title="NBA | Other",Toronto Raptors @ Sacramento Kings (01/21 10:10 PM ET)
 https://tvpass.org/live/NBA07/sd
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBA | Pixel Sports",Philadelphia 76ers at Toronto Raptors
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyL4YTOjyD1QIcFAG-YBC_8Y/.m3u8
@@ -406,20 +404,16 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJOZGU4kFSLxXQ4K_lKdDZQ/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCHnU7K5NTPvXiCPEfO454U/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="NFL | Pixel Sports",Green Bay Packers at Chicago Bears
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCiIoFtghLCUb-eN0UZeFTU/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Columbus Blue Jackets (01/20 7:10 PM ET)" group-title="NHL | Other",Ottawa Senators @ Columbus Blue Jackets (01/20 7:10 PM ET)
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Wild @ Montréal Canadiens (01/20 7:10 PM ET)" group-title="NHL | Other",Minnesota Wild @ Montréal Canadiens (01/20 7:10 PM ET)
-https://tvpass.org/live/NHL11/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Jose Sharks @ Tampa Bay Lightning (01/20 7:10 PM ET)" group-title="NHL | Other",San Jose Sharks @ Tampa Bay Lightning (01/20 7:10 PM ET)
-https://tvpass.org/live/NHL14/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Dallas Stars (01/20 7:40 PM ET)" group-title="NHL | Other",Boston Bruins @ Dallas Stars (01/20 7:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Red Wings @ Toronto Maple Leafs (01/21 7:00 PM ET)" group-title="NHL | Other",Detroit Red Wings @ Toronto Maple Leafs (01/21 7:00 PM ET)
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Sabres @ Nashville Predators (01/20 8:10 PM ET)" group-title="NHL | Other",Buffalo Sabres @ Nashville Predators (01/20 8:10 PM ET)
-https://tvpass.org/live/NHL17/sd
-#EXTINF:-1 tvg-id="" tvg-name="St Louis Blues @ Winnipeg Jets (01/20 8:10 PM ET)" group-title="NHL | Other",St Louis Blues @ Winnipeg Jets (01/20 8:10 PM ET)
-https://tvpass.org/live/NHL01/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Rangers @ Los Angeles Kings (01/20 10:10 PM ET)" group-title="NHL | Other",New York Rangers @ Los Angeles Kings (01/20 10:10 PM ET)
-https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Colorado Avalanche (01/21 9:00 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Colorado Avalanche (01/21 9:00 PM ET)
+https://tvpass.org/live/NHL24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ Utah Mammoth (01/21 9:00 PM ET)" group-title="NHL | Other",Philadelphia Flyers @ Utah Mammoth (01/21 9:00 PM ET)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Calgary Flames (01/21 9:30 PM ET)" group-title="NHL | Other",Pittsburgh Penguins @ Calgary Flames (01/21 9:30 PM ET)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Vancouver Canucks (01/21 10:00 PM ET)" group-title="NHL | Other",Washington Capitals @ Vancouver Canucks (01/21 10:00 PM ET)
+https://tvpass.org/live/NHL30/sd
 #EXTINF:-1 group-title="NHL | Other",01/21/26 07:00:00 PM EST = Detroit Red Wings @ Toronto Maple Leafs
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
