@@ -388,6 +388,10 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJaRrDlE3zGPgbw4e_QeiFc/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyKYEMqrmPzfMo0U5DLBsVls/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="NBA | Pixel Sports",Los Angeles Lakers at Sacramento Kings
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyK14zXQPCPG2Txa494W1mOs/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Detroit Pistons - 1/25/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Detroit Pistons - 1/25/26 - 8:10:00 PM UTC SD
+https://e2.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=0G97Wom8zbboe_5VRKQ97w&expires=1769374615&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Detroit Pistons - 1/25/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Detroit Pistons - 1/25/26 - 8:10:00 PM UTC HD
+https://e2.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=Wqmyh1YUocFWPeo8S22rgA&expires=1769374621&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
 #EXTINF:-1 tvg-id="" tvg-name="New England Patriots @ Denver Broncos (01/25 3:00 PM ET)" group-title="NFL | Other",New England Patriots @ Denver Broncos (01/25 3:00 PM ET)
 https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="" tvg-name="Los Angeles Rams @ Seattle Seahawks (01/25 6:30 PM ET)" group-title="NFL | Other",Los Angeles Rams @ Seattle Seahawks (01/25 6:30 PM ET)
@@ -404,6 +408,14 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJOZGU4kFSLxXQ4K_lKdDZQ/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCHnU7K5NTPvXiCPEfO454U/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="NFL | Pixel Sports",Green Bay Packers at Chicago Bears
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCiIoFtghLCUb-eN0UZeFTU/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots @ Denver Broncos - 1/25/26, 8:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New England Patriots @ Denver Broncos - 1/25/26 - 8:00:00 PM UTC SD
+https://e3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=66aKsgih3flqRwuNQHXw4Q&expires=1769374704&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots @ Denver Broncos - 1/25/26, 8:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",New England Patriots @ Denver Broncos - 1/25/26 - 8:00:00 PM UTC HD
+https://v2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=eqn3jacMVHejK9F6D88cVQ&expires=1769374710&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams @ Seattle Seahawks - 1/25/26, 11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Los Angeles Rams @ Seattle Seahawks - 1/25/26 - 11:30:00 PM UTC SD
+https://e5.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=AUaNJfCHT3HLfR6iom6ZPQ&expires=1769374715&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams @ Seattle Seahawks - 1/25/26, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Los Angeles Rams @ Seattle Seahawks - 1/25/26 - 11:30:00 PM UTC HD
+https://e5.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=FWVoK0JObCl6SvbR1eXqrw&expires=1769374721&user_id=Tzd6MWF1TjQwRTFxbFZkRm1kRVlwUTk2anlIVFVpVEdSc0gzNElSTg==
 #EXTINF:-1 tvg-id="" tvg-name="Colorado Avalanche @ Toronto Maple Leafs (01/25 1:40 PM ET)" group-title="NHL | Other",Colorado Avalanche @ Toronto Maple Leafs (01/25 1:40 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
 #EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ Seattle Kraken (01/25 3:10 PM ET)" group-title="NHL | Other",New Jersey Devils @ Seattle Kraken (01/25 3:10 PM ET)
