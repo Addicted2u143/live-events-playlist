@@ -352,22 +352,20 @@ https://locked.pixelpanel.online/hdstream/embed/162.m3u8
 https://locked.pixelpanel.online/hdstream/embed/417.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="MLB | Pixel Sports",San Diego Padres at Seattle Mariners
 https://locked.pixelpanel.online/hdstream/embed/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Detroit Pistons (01/25 3:10 PM ET)" group-title="NBA | Other",Sacramento Kings @ Detroit Pistons (01/25 3:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Pacers @ Atlanta Hawks (01/26 1:40 PM ET)" group-title="NBA | Other",Indiana Pacers @ Atlanta Hawks (01/26 1:40 PM ET)
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Denver Nuggets @ Memphis Grizzlies (01/25 3:40 PM ET)" group-title="NBA | Other",Denver Nuggets @ Memphis Grizzlies (01/25 3:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Charlotte Hornets (01/26 3:10 PM ET)" group-title="NBA | Other",Philadelphia 76ers @ Charlotte Hornets (01/26 3:10 PM ET)
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Minnesota Timberwolves (01/25 5:40 PM ET)" group-title="NBA | Other",Golden State Warriors @ Minnesota Timberwolves (01/25 5:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Orlando Magic @ Cleveland Cavaliers (01/26 7:10 PM ET)" group-title="NBA | Other",Orlando Magic @ Cleveland Cavaliers (01/26 7:10 PM ET)
 https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Milwaukee Bucks (01/25 7:10 PM ET)" group-title="NBA | Other",Dallas Mavericks @ Milwaukee Bucks (01/25 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Boston Celtics (01/26 8:10 PM ET)" group-title="NBA | Other",Portland Trail Blazers @ Boston Celtics (01/26 8:10 PM ET)
 https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ San Antonio Spurs (01/25 7:10 PM ET)" group-title="NBA | Other",New Orleans Pelicans @ San Antonio Spurs (01/25 7:10 PM ET)
-https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Oklahoma City Thunder (01/25 7:10 PM ET)" group-title="NBA | Other",Toronto Raptors @ Oklahoma City Thunder (01/25 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ Chicago Bulls (01/26 8:10 PM ET)" group-title="NBA | Other",Los Angeles Lakers @ Chicago Bulls (01/26 8:10 PM ET)
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Phoenix Suns (01/25 8:10 PM ET)" group-title="NBA | Other",Miami Heat @ Phoenix Suns (01/25 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Memphis Grizzlies @ Houston Rockets (01/26 8:10 PM ET)" group-title="NBA | Other",Memphis Grizzlies @ Houston Rockets (01/26 8:10 PM ET)
+https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Minnesota Timberwolves (01/26 9:40 PM ET)" group-title="NBA | Other",Golden State Warriors @ Minnesota Timberwolves (01/26 9:40 PM ET)
 https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Los Angeles Clippers (01/25 9:10 PM ET)" group-title="NBA | Other",Brooklyn Nets @ Los Angeles Clippers (01/25 9:10 PM ET)
-https://tvpass.org/live/NBA08/sd
 #EXTINF:-1 group-title="NBA | Other",01/26/26 01:40:00 PM EST = Indiana Pacers @ Atlanta Hawks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBA | Pixel Sports",Philadelphia 76ers at Toronto Raptors
@@ -422,10 +420,6 @@ https://e1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=oSvyseW9-WqUqYErSdp
 https://e3.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=YSshLQazARPgGTkJsyrvaw&expires=1769440283&user_id=ZEZzR1RKODBVMk1LdURuM0VMRlY4dmhWZHJTcjQ3TGw4VFo3Ymx1aw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Brooklyn Nets @ Los Angeles Clippers - 1/26/26, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Brooklyn Nets @ Los Angeles Clippers - 1/26/26 - 2:10:00 AM UTC HD
 https://e3.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=nn_RkuVn8iZ4ijIst9Jisg&expires=1769440288&user_id=ZEZzR1RKODBVMk1LdURuM0VMRlY4dmhWZHJTcjQ3TGw4VFo3Ymx1aw==
-#EXTINF:-1 tvg-id="" tvg-name="New England Patriots @ Denver Broncos (01/25 3:00 PM ET)" group-title="NFL | Other",New England Patriots @ Denver Broncos (01/25 3:00 PM ET)
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Rams @ Seattle Seahawks (01/25 6:30 PM ET)" group-title="NFL | Other",Los Angeles Rams @ Seattle Seahawks (01/25 6:30 PM ET)
-https://tvpass.org/live/WNYWDT1/sd
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png" group-title="NFL | Pixel Sports",Los Angeles Rams at Carolina Panthers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBDOKVmI2rAipR3UKqE7id0/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="NFL | Pixel Sports",Houston Texans at Pittsburgh Steelers
@@ -446,15 +440,15 @@ https://v18.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=0JunIJaJXqzIxu9C
 https://v2.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=XdKfKKcu2mj0gsNRirD5sQ&expires=1769440306&user_id=ZEZzR1RKODBVMk1LdURuM0VMRlY4dmhWZHJTcjQ3TGw4VFo3Ymx1aw==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams @ Seattle Seahawks - 1/25/26, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Los Angeles Rams @ Seattle Seahawks - 1/25/26 - 11:30:00 PM UTC HD
 https://v8.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=1A0v8il8hYns-a01qZPz_g&expires=1769440312&user_id=ZEZzR1RKODBVMk1LdURuM0VMRlY4dmhWZHJTcjQ3TGw4VFo3Ymx1aw==
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Avalanche @ Toronto Maple Leafs (01/25 1:40 PM ET)" group-title="NHL | Other",Colorado Avalanche @ Toronto Maple Leafs (01/25 1:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ New York Rangers (01/26 7:09 PM ET)" group-title="NHL | Other",Boston Bruins @ New York Rangers (01/26 7:09 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ Seattle Kraken (01/25 3:10 PM ET)" group-title="NHL | Other",New Jersey Devils @ Seattle Kraken (01/25 3:10 PM ET)
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Ottawa Senators (01/25 5:10 PM ET)" group-title="NHL | Other",Vegas Golden Knights @ Ottawa Senators (01/25 5:10 PM ET)
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Vancouver Canucks (01/25 6:10 PM ET)" group-title="NHL | Other",Pittsburgh Penguins @ Vancouver Canucks (01/25 6:10 PM ET)
-https://tvpass.org/live/NHL10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Calgary Flames (01/25 8:10 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Calgary Flames (01/25 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Columbus Blue Jackets (01/26 7:10 PM ET)" group-title="NHL | Other",Los Angeles Kings @ Columbus Blue Jackets (01/26 7:10 PM ET)
+https://tvpass.org/live/NHL29/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Philadelphia Flyers (01/26 7:10 PM ET)" group-title="NHL | Other",New York Islanders @ Philadelphia Flyers (01/26 7:10 PM ET)
+https://tvpass.org/live/NHL09/sd
+#EXTINF:-1 tvg-id="" tvg-name="Utah Mammoth @ Tampa Bay Lightning (01/26 7:10 PM ET)" group-title="NHL | Other",Utah Mammoth @ Tampa Bay Lightning (01/26 7:10 PM ET)
+https://tvpass.org/live/NHL08/sd
+#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Edmonton Oilers (01/26 8:40 PM ET)" group-title="NHL | Other",Anaheim Ducks @ Edmonton Oilers (01/26 8:40 PM ET)
 https://tvpass.org/live/NHL24/sd
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL | Pixel Sports",Tampa Bay Lightning at Philadelphia Flyers
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyF2IRSLpKuceqeLAtDBXqx8/.m3u8
