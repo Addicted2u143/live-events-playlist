@@ -44,6 +44,8 @@ https://tvpass.org/live/NBA08/sd
 https://tvpass.org/live/NBA09/sd
 #EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ Denver Nuggets (02/01 9:40 PM ET)" group-title="NBA | Other",Oklahoma City Thunder @ Denver Nuggets (02/01 9:40 PM ET)
 https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 group-title="NBA | Other",02/02/26 03:10:00 PM EST = New Orleans Pelicans @ Charlotte Hornets
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Boston Celtics - 2/1/26, 8:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Milwaukee Bucks @ Boston Celtics - 2/1/26 - 8:40:00 PM UTC SD
 https://v15.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=Fy7CXyOPCjiWJZdr0J-o5w&expires=1770045563&user_id=NjdLY2hmdjlZR2I5VnV1TGprRlBVQm0zWHFJSWRUWDNUUlpwdjE4dQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Boston Celtics - 2/1/26, 8:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Milwaukee Bucks @ Boston Celtics - 2/1/26 - 8:40:00 PM UTC HD
@@ -86,5 +88,3 @@ https://v15.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=I0zjf__sVf0c79naeR
 https://v15.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=y6VU-T21QYGz2wVjMK3RHQ&expires=1770045666&user_id=NjdLY2hmdjlZR2I5VnV1TGprRlBVQm0zWHFJSWRUWDNUUlpwdjE4dQ==
 #EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Carolina Hurricanes (02/01 3:10 PM ET)" group-title="NHL | Other",Los Angeles Kings @ Carolina Hurricanes (02/01 3:10 PM ET)
 https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 group-title="NHL | Other",02/01/26 03:10:00 PM EST = Los Angeles Kings @ Carolina Hurricanes
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
