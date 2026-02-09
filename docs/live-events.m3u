@@ -32,6 +32,14 @@ https://e4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=xXwQ3obW5j8q9MTDKcI
 https://v17.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=5rTClob7qwD3td0OkX9mHg&expires=1770612419&user_id=MHZqeWNmMFdZbVZVaG8wRXd1aWhYeXhSamJIOWJsblJCWG5hT3R2bA==
 #EXTINF:-1 group-title="NBA | Other",02/08/26 03:10:00 PM EST = Los Angeles Clippers @ Minnesota Timberwolves
 https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=F4FnIkxJUGpbH8eO0G-Q9g&expires=1770612430&user_id=MHZqeWNmMFdZbVZVaG8wRXd1aWhYeXhSamJIOWJsblJCWG5hT3R2bA==
+#EXTINF:-1 group-title="NBA | Other",02/08/26 12:40:00 PM EST = New York Knicks @ Boston Celtics
+https://v5.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=LOg3rD3B_6xugo7BiJBZ2Q&expires=1770637404&user_id=Y2sySGRxN2JSQUppbWIxek9FMTN5bUM1cjFnallaempOZzFWc09LMQ==
+#EXTINF:-1 group-title="NBA | Other",02/08/26 02:10:00 PM EST = Miami Heat @ Washington Wizards
+https://e1.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=HWurKDMe2tA0e2IaDW2K_A&expires=1770637415&user_id=Y2sySGRxN2JSQUppbWIxek9FMTN5bUM1cjFnallaempOZzFWc09LMQ==
+#EXTINF:-1 group-title="NBA | Other",02/08/26 03:10:00 PM EST = Indiana Pacers @ Toronto Raptors
+https://v12.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=YNt1k9xshuTVprN7TFm7Lg&expires=1770637425&user_id=Y2sySGRxN2JSQUppbWIxek9FMTN5bUM1cjFnallaempOZzFWc09LMQ==
+#EXTINF:-1 group-title="NBA | Other",02/08/26 03:10:00 PM EST = Los Angeles Clippers @ Minnesota Timberwolves
+https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=kd01NDJrOUCjTD1mAzKP9g&expires=1770637435&user_id=Y2sySGRxN2JSQUppbWIxek9FMTN5bUM1cjFnallaempOZzFWc09LMQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ Boston Celtics - 2/8/26, 5:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New York Knicks @ Boston Celtics - 2/8/26 - 5:40:00 PM UTC SD
 https://e5.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=yLw9QWp-dwOEkj8ptPLu9A&expires=1770626698&user_id=NjZNUERmSFBiYlBDNTBBMW1kMFNlaEJtVGdZTjM5OXhYdWxDazNYNw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ Boston Celtics - 2/8/26, 5:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New York Knicks @ Boston Celtics - 2/8/26 - 5:40:00 PM UTC HD
@@ -50,6 +58,8 @@ https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=z2CV9wCEaDVY5HMWuJLL
 https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=Q9GREPYGfltaDyL8kFQgtg&expires=1770626736&user_id=NjZNUERmSFBiYlBDNTBBMW1kMFNlaEJtVGdZTjM5OXhYdWxDazNYNw==
 #EXTINF:-1 group-title="NFL | Other",02/08/26 06:30:00 PM EST = Seattle Seahawks @ New England Patriots
 https://e4.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8?token=Sr87xYS8bmnrxJv2uCcuUg&expires=1770612440&user_id=MHZqeWNmMFdZbVZVaG8wRXd1aWhYeXhSamJIOWJsblJCWG5hT3R2bA==
+#EXTINF:-1 group-title="NFL | Other",02/08/26 06:30:00 PM EST = Seattle Seahawks @ New England Patriots
+https://v13.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8?token=RgLFkBaXXsNbXIZGRXaSvQ&expires=1770637445&user_id=Y2sySGRxN2JSQUppbWIxek9FMTN5bUM1cjFnallaempOZzFWc09LMQ==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seattle Seahawks @ New England Patriots - 2/8/26, 11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Seattle Seahawks @ New England Patriots - 2/8/26 - 11:30:00 PM UTC SD
 https://e5.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8?token=y9hyIIhBhdGGuk33JzUvGA&expires=1770626743&user_id=NjZNUERmSFBiYlBDNTBBMW1kMFNlaEJtVGdZTjM5OXhYdWxDazNYNw==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seattle Seahawks @ New England Patriots - 2/8/26, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL | TheTVApp",Seattle Seahawks @ New England Patriots - 2/8/26 - 11:30:00 PM UTC HD
