@@ -25,8 +25,6 @@ https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
 #EXTINF:-1 group-title="NBA | Other",02/10/26 07:40:00 PM EST = Indiana Pacers @ New York Knicks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA | Other",02/10/26 07:40:00 PM EST = Indiana Pacers @ New York Knicks
 https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=jI03EkhUKxqhe1iLf6GF0g&expires=1770765436&user_id=b2E2aEl2a1UxT1NIYWpLVzNCZUIxaEx2OTRzSUFtSEpkOWhBWWRFMw==
 #EXTINF:-1 group-title="NBA | Other",02/10/26 08:10:00 PM EST = Los Angeles Clippers @ Houston Rockets
 https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=KR1Svjc6joPY5-ch6HV1fA&expires=1770765446&user_id=b2E2aEl2a1UxT1NIYWpLVzNCZUIxaEx2OTRzSUFtSEpkOWhBWWRFMw==
@@ -35,18 +33,18 @@ https://e4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=DGk0Oybkfv9E6gFPjgM
 #EXTINF:-1 group-title="NBA | Other",02/10/26 10:13:00 PM EST = San Antonio Spurs @ Los Angeles Lakers
 https://e5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=9LnVvFEDjA7waHDjFobJUg&expires=1770765467&user_id=b2E2aEl2a1UxT1NIYWpLVzNCZUIxaEx2OTRzSUFtSEpkOWhBWWRFMw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ New York Knicks - 2/11/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Indiana Pacers @ New York Knicks - 2/11/26 - 12:40:00 AM UTC SD
-https://v13.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=oWIiCO4wAddE6DkWj5cXnQ&expires=1770763690&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=Lv0eM70i2i32wy1dxLczFw&expires=1770770348&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ New York Knicks - 2/11/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Indiana Pacers @ New York Knicks - 2/11/26 - 12:40:00 AM UTC HD
-https://v1.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=N56sHsdYq4m4Hx7wt6ZMaQ&expires=1770763695&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v2.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=3RCqBgwAagv8fnUqBKNmLQ&expires=1770770354&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Clippers @ Houston Rockets - 2/11/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Clippers @ Houston Rockets - 2/11/26 - 1:10:00 AM UTC SD
-https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=o4Hl-vXAwGHZ28bFWY0egw&expires=1770763701&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=aEvLyO4d92GIu2aCotwsrw&expires=1770770359&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Clippers @ Houston Rockets - 2/11/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Clippers @ Houston Rockets - 2/11/26 - 1:10:00 AM UTC HD
-https://v8.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=nId0GpasYxpqBmw580ChWw&expires=1770763706&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=YUlpRd9Vdm1YmZ4x_m5f6A&expires=1770770365&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Phoenix Suns - 2/11/26, 2:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Dallas Mavericks @ Phoenix Suns - 2/11/26 - 2:10:00 AM UTC SD
-https://v8.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=pLGph7a0WS3Spv7pC76WLg&expires=1770763712&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://e4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=nyE_ETux6kM1KtyAwYmpPA&expires=1770770370&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Phoenix Suns - 2/11/26, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Dallas Mavericks @ Phoenix Suns - 2/11/26 - 2:10:00 AM UTC HD
-https://v12.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=MVt2xk9o4ykKxzUNIgNXBA&expires=1770763717&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v18.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=od-nFE96j3Pr_bnDHo1ZIg&expires=1770770376&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Los Angeles Lakers - 2/11/26, 3:13:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ Los Angeles Lakers - 2/11/26 - 3:13:00 AM UTC SD
-https://e4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=sUMhmaXc_KEkNemBzRombw&expires=1770763723&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=fUSGPbGRjJaNSGkU0LdgVA&expires=1770770381&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Los Angeles Lakers - 2/11/26, 3:13:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ Los Angeles Lakers - 2/11/26 - 3:13:00 AM UTC HD
-https://e4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=ZZqy0xhaKqeLNeY7u8S5zw&expires=1770763728&user_id=QVZ0d1NMOERLdjI3Z3ROVmJ1cVZjQlJNUUNaNUVsek9Mb09Vbnh4VA==
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=6vYQsMRy8WEjZsUx9mF6gA&expires=1770770387&user_id=SWI5OENud3M1UlhqczNHU016YlZybFlRQTJXaEpUaHI4VXB0TmZqRw==
