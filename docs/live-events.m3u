@@ -24,38 +24,8 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",02/20/26 01:05:00 PM EST = New York Yankees @ Baltimore Orioles
-https://e4.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=KjbO-1VBnZFlzcpy7FCQAA&expires=1771672275&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="MLB | Other",02/20/26 01:05:00 PM EST = Northeastern at Boston Red Sox
-https://v5.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=c8-Xnt0qKsnfASa8TCud-A&expires=1771672286&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="MLB | Other",02/20/26 03:05:00 PM EST = Chicago White Sox @ Chicago Cubs
-https://v3.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=5ADqe09eK7ySUNW5JxSqqQ&expires=1771672296&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="MLB | Other",02/20/26 03:05:00 PM EST = Kansas City Royals @ Texas Rangers
-https://v15.thetvapp.to/hls/MLB28/tracks-v1a1/mono.m3u8?token=nluzj5bvQzfdblusKxDwQA&expires=1771672306&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="MLB | Other",02/20/26 03:10:00 PM EST = Arizona Diamondbacks @ Colorado Rockies
-https://v2.thetvapp.to/hls/MLB25/tracks-v1a1/mono.m3u8?token=qhglUJu8QwzAUhOecbeY-A&expires=1771672316&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="MLB | Other",02/20/26 03:10:00 PM EST = San Diego Padres @ Seattle Mariners
-https://e2.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=4XOHPY3eOAjcgm1bWv4veA&expires=1771672326&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
 #EXTINF:-1 group-title="MLB | Other",02/21/26 01:05:00 PM EST = Atlanta Braves @ Tampa Bay Rays
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA | Other",02/20/26 07:10:00 PM EST = Cleveland Cavaliers @ Charlotte Hornets
-https://e1.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=4Por7M7-40NS3St68aZWlA&expires=1771672337&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 07:10:00 PM EST = Utah Jazz @ Memphis Grizzlies
-https://v18.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=NZSZl_O_72MLdFMl1kL2zQ&expires=1771672347&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 07:15:00 PM EST = Indiana Pacers @ Washington Wizards
-https://e4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=4vJ3E4xPAbchVuDdm40iIg&expires=1771672357&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 07:40:00 PM EST = Miami Heat @ Atlanta Hawks
-https://v13.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=ZHKT5yaCDLuEPINLPki3ew&expires=1771672367&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 07:40:00 PM EST = Dallas Mavericks @ Minnesota Timberwolves
-https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=VMIf6SxI7Kfcx-nQzdWdcw&expires=1771672378&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 08:10:00 PM EST = Brooklyn Nets @ Oklahoma City Thunder
-https://v14.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=QP6CZF-RMeK9SJejg_9G5w&expires=1771672388&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 08:10:00 PM EST = Milwaukee Bucks @ New Orleans Pelicans
-https://v12.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=sfY7vTcTjfnaMsEKDx_blA&expires=1771672398&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 10:10:00 PM EST = Denver Nuggets @ Portland Trail Blazers
-https://v1.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=1RvIczhMs_cUIYMaEzrHCg&expires=1771672408&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
-#EXTINF:-1 group-title="NBA | Other",02/20/26 10:10:00 PM EST = Los Angeles Clippers @ Los Angeles Lakers
-https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=wLwjnT6K_8OYGjkmcTd62Q&expires=1771672418&user_id=MFNjb1kzMlZoaW1MczRMUDliSk51c1FsU0p0ZjFOdDk1R0hCNlBIag==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Charlotte Hornets - 2/21/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Cleveland Cavaliers @ Charlotte Hornets - 2/21/26 - 12:10:00 AM UTC SD
 https://e5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=_mItdNW9JdFkCBRlRG3I5w&expires=1771690034&user_id=amJuUG9vOWUxNmpZU1R1c2RNcGZWWUJHUDJFYmQxWkVDS3BlVWtLMQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Charlotte Hornets - 2/21/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Cleveland Cavaliers @ Charlotte Hornets - 2/21/26 - 12:10:00 AM UTC HD
