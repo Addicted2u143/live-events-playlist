@@ -25,8 +25,6 @@ https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
 #EXTINF:-1 group-title="MLB | Other",02/26/26 01:05:00 PM EST = Houston Astros @ St. Louis Cardinals
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB | Other",02/26/26 01:05:00 PM EST = Houston Astros @ St. Louis Cardinals
 https://v16.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=TI7jGSSk5L4szn1hXbOhKg&expires=1772191206&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
 #EXTINF:-1 group-title="MLB | Other",02/26/26 01:05:00 PM EST = New York Mets @ Houston Astros
 https://v18.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=XXQo_J2lGibY7U7WhsoepA&expires=1772191216&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
@@ -59,69 +57,69 @@ https://v2.thetvapp.to/hls/MLB15/tracks-v1a1/mono.m3u8?token=GfFziY2G_qqy7LYSKns
 #EXTINF:-1 group-title="MLB | Other",02/26/26 03:10:00 PM EST = Chicago Cubs @ Los Angeles Angels
 https://v14.thetvapp.to/hls/MLB16/tracks-v1a1/mono.m3u8?token=s9kZKDF99vHEF17o9qqRNA&expires=1772191359&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ New York Yankees - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Atlanta Braves @ New York Yankees - 2/26/26 - 6:05:00 PM UTC SD
-https://v2.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=5eiDDq7WlL7knUffP0ewew&expires=1772189921&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e5.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=y1gafbZQxtDGAOMY5PiUOg&expires=1772195532&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ New York Yankees - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Atlanta Braves @ New York Yankees - 2/26/26 - 6:05:00 PM UTC HD
-https://v2.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=yO_CFe8crPf-yQSYHev9iQ&expires=1772189927&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e5.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=6Kw1FiXH8MAkmGx9YfU_cA&expires=1772195538&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Baltimore Orioles - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Detroit Tigers @ Baltimore Orioles - 2/26/26 - 6:05:00 PM UTC SD
-https://v14.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=tjDMu2_gIo1J1zGQ_p4KkQ&expires=1772189932&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e4.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=A4qQYLpEOmyCURj-CFnTdQ&expires=1772195543&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Baltimore Orioles - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Detroit Tigers @ Baltimore Orioles - 2/26/26 - 6:05:00 PM UTC HD
-https://v14.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=USutiyyvt2GKTuiyjo_-Ig&expires=1772189937&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e4.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=NjP5i7CuxI7xdVGKGETNkg&expires=1772195549&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Boston Red Sox - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Tampa Bay Rays @ Boston Red Sox - 2/26/26 - 6:05:00 PM UTC SD
-https://v3.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=zH20bgnp2BVTXoQ2q2ATnA&expires=1772189943&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=65AcegPoiP1F8ztX5D8G4w&expires=1772195554&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Boston Red Sox - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Tampa Bay Rays @ Boston Red Sox - 2/26/26 - 6:05:00 PM UTC HD
-https://v3.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=E4aCD6ZBs0Ys9YCknjK6zg&expires=1772189948&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=tn6o1XNRxZEz6_o555rwyw&expires=1772195560&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Pittsburgh Pirates - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Minnesota Twins @ Pittsburgh Pirates - 2/26/26 - 6:05:00 PM UTC SD
-https://v4.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=pUWwo7buRQfgo5n7eaBfqA&expires=1772189954&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v5.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=MAaWzHNE6WcSgXDLJXTjXQ&expires=1772195565&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Pittsburgh Pirates - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Minnesota Twins @ Pittsburgh Pirates - 2/26/26 - 6:05:00 PM UTC HD
-https://v4.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=pLYRwKTJX3n4XGmNpGFZqQ&expires=1772189959&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v5.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=fpWeOniWxQcxHSIMqkTp2Q&expires=1772195571&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Philadelphia Phillies - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Washington Nationals @ Philadelphia Phillies - 2/26/26 - 6:05:00 PM UTC SD
-https://v4.thetvapp.to/hls/MLB06/tracks-v1a1/mono.m3u8?token=DVvzIN30x8bfsFX2QmK33A&expires=1772189965&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e2.thetvapp.to/hls/MLB06/tracks-v1a1/mono.m3u8?token=hmh4SZqOZV1GbwS8tWmN4Q&expires=1772195576&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Philadelphia Phillies - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Washington Nationals @ Philadelphia Phillies - 2/26/26 - 6:05:00 PM UTC HD
-https://v5.thetvapp.to/hls/MLB06/tracks-v1a1/mono.m3u8?token=Ks_7_DZU49wHNJ3kQlqwog&expires=1772189970&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e2.thetvapp.to/hls/MLB06/tracks-v1a1/mono.m3u8?token=OIM0LtRHKwhbN3hGOEY9lw&expires=1772195582&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Houston Astros - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Mets @ Houston Astros - 2/26/26 - 6:05:00 PM UTC SD
-https://v5.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=0KgJO75S9kicKbJcMV3jEQ&expires=1772189976&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v1.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=xLY82ItEz1w4lbVct_GbwA&expires=1772195588&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Houston Astros - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Mets @ Houston Astros - 2/26/26 - 6:05:00 PM UTC HD
-https://v17.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=K9bay9a3IUgJp_OJm4tz-w&expires=1772189981&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v13.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=9jRLY_qWtlbkUejMD0SNDA&expires=1772195593&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ St. Louis Cardinals - 2/26/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Houston Astros @ St. Louis Cardinals - 2/26/26 - 6:05:00 PM UTC SD
-https://v17.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=XSFz_p8SPn0v0XM8fBxGWQ&expires=1772189987&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v13.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=SFgCqWR1S8KmbocXc-7nAQ&expires=1772195599&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ St. Louis Cardinals - 2/26/26, 6:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Houston Astros @ St. Louis Cardinals - 2/26/26 - 6:05:00 PM UTC HD
-https://v16.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=uUx4VX4EmV65B9LMlXwU7A&expires=1772189992&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=pnkTBSgsaxt4af1rgxUoFw&expires=1772195604&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Toronto Blue Jays - 2/26/26, 6:07:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Miami Marlins @ Toronto Blue Jays - 2/26/26 - 6:07:00 PM UTC SD
-https://v16.thetvapp.to/hls/MLB08/tracks-v1a1/mono.m3u8?token=Own5fl5zC5QdQmYNxMiY_Q&expires=1772189998&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/MLB08/tracks-v1a1/mono.m3u8?token=Cb4WiYSyJ3UjxRW7-EhUxQ&expires=1772195610&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Toronto Blue Jays - 2/26/26, 6:07:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Miami Marlins @ Toronto Blue Jays - 2/26/26 - 6:07:00 PM UTC HD
-https://v15.thetvapp.to/hls/MLB08/tracks-v1a1/mono.m3u8?token=u13dIGnPHm8cpBYp70GTHg&expires=1772190003&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v12.thetvapp.to/hls/MLB08/tracks-v1a1/mono.m3u8?token=uYbI8WosNQ9NaCVQOrGvmg&expires=1772195615&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox @ Los Angeles Dodgers - 2/26/26, 8:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago White Sox @ Los Angeles Dodgers - 2/26/26 - 8:05:00 PM UTC SD
-https://v15.thetvapp.to/hls/MLB12/tracks-v1a1/mono.m3u8?token=O-dmKHrwEy63EFSl-bYKcg&expires=1772190009&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v12.thetvapp.to/hls/MLB12/tracks-v1a1/mono.m3u8?token=93u_DQlQkfXVqLrs7q-f0A&expires=1772195621&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox @ Los Angeles Dodgers - 2/26/26, 8:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago White Sox @ Los Angeles Dodgers - 2/26/26 - 8:05:00 PM UTC HD
-https://v3.thetvapp.to/hls/MLB12/tracks-v1a1/mono.m3u8?token=qa_8huEiOvDCGhUUTm4qhA&expires=1772190014&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v8.thetvapp.to/hls/MLB12/tracks-v1a1/mono.m3u8?token=36ka48aEsIcsJMz2OhJIqA&expires=1772195626&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Cincinnati Reds - 2/26/26, 8:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",San Diego Padres @ Cincinnati Reds - 2/26/26 - 8:05:00 PM UTC SD
-https://v3.thetvapp.to/hls/MLB09/tracks-v1a1/mono.m3u8?token=J7gywURb4e9Emo4dWaBe7g&expires=1772190020&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v8.thetvapp.to/hls/MLB09/tracks-v1a1/mono.m3u8?token=DK23AyEfuTbQ4imHusYkXQ&expires=1772195632&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Cincinnati Reds - 2/26/26, 8:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",San Diego Padres @ Cincinnati Reds - 2/26/26 - 8:05:00 PM UTC HD
-https://v4.thetvapp.to/hls/MLB09/tracks-v1a1/mono.m3u8?token=A85sDF6uxnfgZSjtVPfohQ&expires=1772190025&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v8.thetvapp.to/hls/MLB09/tracks-v1a1/mono.m3u8?token=pWmyupMzD_umYzjj6KB_Iw&expires=1772195637&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ San Francisco Giants - 2/26/26, 8:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Colorado Rockies @ San Francisco Giants - 2/26/26 - 8:05:00 PM UTC SD
-https://v1.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=9u5XHtRKQRSTfJqkas1Ttw&expires=1772190031&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v8.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=zsfX_al3fNbJn1NgRxLoZg&expires=1772195643&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ San Francisco Giants - 2/26/26, 8:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Colorado Rockies @ San Francisco Giants - 2/26/26 - 8:05:00 PM UTC HD
-https://v1.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=wjm09qo3OdBu1WO25faZSg&expires=1772190036&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v18.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=YI2tGnQY31fsqpGE8f13tw&expires=1772195648&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Texas Rangers - 2/26/26, 8:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Milwaukee Brewers @ Texas Rangers - 2/26/26 - 8:05:00 PM UTC SD
-https://v18.thetvapp.to/hls/MLB13/tracks-v1a1/mono.m3u8?token=pWohUpKWCvAYevZOdmrZ_A&expires=1772190042&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v17.thetvapp.to/hls/MLB13/tracks-v1a1/mono.m3u8?token=A2KZO91aIQFNYtrx3_TtdQ&expires=1772195654&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Texas Rangers - 2/26/26, 8:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Milwaukee Brewers @ Texas Rangers - 2/26/26 - 8:05:00 PM UTC HD
-https://v18.thetvapp.to/hls/MLB13/tracks-v1a1/mono.m3u8?token=qOegqktWzpEpdFqb3vJhSg&expires=1772190047&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v17.thetvapp.to/hls/MLB13/tracks-v1a1/mono.m3u8?token=86kanC7GgmOgTqmuHWyYzQ&expires=1772195659&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Arizona Diamondbacks - 2/26/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Kansas City Royals @ Arizona Diamondbacks - 2/26/26 - 8:10:00 PM UTC SD
-https://e5.thetvapp.to/hls/MLB14/tracks-v1a1/mono.m3u8?token=HtqX5-pubQyaOtMRz7i0Jw&expires=1772190053&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e2.thetvapp.to/hls/MLB14/tracks-v1a1/mono.m3u8?token=0d5WpZMN-lSmTJTIW5RE-A&expires=1772195665&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Arizona Diamondbacks - 2/26/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Kansas City Royals @ Arizona Diamondbacks - 2/26/26 - 8:10:00 PM UTC HD
-https://e5.thetvapp.to/hls/MLB14/tracks-v1a1/mono.m3u8?token=kARKMjkGlqFwTm9UjLzn6w&expires=1772190058&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e2.thetvapp.to/hls/MLB14/tracks-v1a1/mono.m3u8?token=v4cXIs490acEeddAXJgLZQ&expires=1772195670&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Los Angeles Angels - 2/26/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago Cubs @ Los Angeles Angels - 2/26/26 - 8:10:00 PM UTC SD
-https://e5.thetvapp.to/hls/MLB16/tracks-v1a1/mono.m3u8?token=cpx7dhBtzEZYhIZowecUiA&expires=1772190064&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v4.thetvapp.to/hls/MLB16/tracks-v1a1/mono.m3u8?token=jj51XgU8zlmHnN4nMCSfJg&expires=1772195676&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Los Angeles Angels - 2/26/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago Cubs @ Los Angeles Angels - 2/26/26 - 8:10:00 PM UTC HD
-https://e5.thetvapp.to/hls/MLB16/tracks-v1a1/mono.m3u8?token=Fdpi3OdwxP20LRMphbygtg&expires=1772190069&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v4.thetvapp.to/hls/MLB16/tracks-v1a1/mono.m3u8?token=cjBch2aMIB7pfYCHXQazww&expires=1772195681&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Seattle Mariners - 2/26/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cleveland Guardians @ Seattle Mariners - 2/26/26 - 8:10:00 PM UTC SD
-https://v1.thetvapp.to/hls/MLB15/tracks-v1a1/mono.m3u8?token=WEpcY1G4m7-zw3Jy65dIgw&expires=1772190074&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v13.thetvapp.to/hls/MLB15/tracks-v1a1/mono.m3u8?token=JUoqnY3yv9Q9fAgFGGrMwA&expires=1772195687&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Seattle Mariners - 2/26/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cleveland Guardians @ Seattle Mariners - 2/26/26 - 8:10:00 PM UTC HD
-https://v1.thetvapp.to/hls/MLB15/tracks-v1a1/mono.m3u8?token=FSUyaW9czKCLrhoBzSA6SA&expires=1772190080&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v13.thetvapp.to/hls/MLB15/tracks-v1a1/mono.m3u8?token=VTDBv3NtZa48SIcIbisoVQ&expires=1772195692&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers @ Athletics - 2/26/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Texas Rangers @ Athletics - 2/26/26 - 8:10:00 PM UTC SD
-https://e2.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=-5QNm_ffO-RCFZJiyQmGVQ&expires=1772190085&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e1.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=PJKUL5gn5iVDVcb2sK201g&expires=1772195698&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers @ Athletics - 2/26/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Texas Rangers @ Athletics - 2/26/26 - 8:10:00 PM UTC HD
-https://e2.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=vLEESs4Gz1W6GXh3JhgwdQ&expires=1772190091&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e1.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=KoMTAk0I9ieauHp9ykv1ug&expires=1772195703&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 group-title="NBA | Other",02/26/26 07:10:00 PM EST = Miami Heat @ Philadelphia 76ers
 https://v1.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=v4F4H9vqlqSCPu18TfQfqg&expires=1772191493&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
 #EXTINF:-1 group-title="NBA | Other",02/26/26 07:10:00 PM EST = Charlotte Hornets @ Indiana Pacers
@@ -143,45 +141,45 @@ https://v5.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=ENsPR9opnXdjSfOVbI_
 #EXTINF:-1 group-title="NBA | Other",02/26/26 10:10:00 PM EST = Minnesota Timberwolves @ Los Angeles Clippers
 https://v3.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=qkQkmkZ8xX6ZmBqL_1-anA&expires=1772191585&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Indiana Pacers - 2/27/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Charlotte Hornets @ Indiana Pacers - 2/27/26 - 12:10:00 AM UTC SD
-https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=_eMaWmXoM8z_4o5eMJeYBQ&expires=1772189812&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=LB3hIr48Skx-srJaeUv76A&expires=1772195422&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Indiana Pacers - 2/27/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Charlotte Hornets @ Indiana Pacers - 2/27/26 - 12:10:00 AM UTC HD
-https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=z9-J1SsVnsoGcspAO2XCOw&expires=1772189817&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=qWVlZKyRDbjbxbQ1KMP9YQ&expires=1772195427&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat @ Philadelphia 76ers - 2/27/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Miami Heat @ Philadelphia 76ers - 2/27/26 - 12:10:00 AM UTC SD
-https://v8.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=rdcz4gFuaJ4VmfnkRD_V9g&expires=1772189822&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v18.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=HzgOHwy_htrBbUZEExrmuQ&expires=1772195433&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat @ Philadelphia 76ers - 2/27/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Miami Heat @ Philadelphia 76ers - 2/27/26 - 12:10:00 AM UTC HD
-https://v8.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=wqkooRABhPY1pOyft3OuJA&expires=1772189828&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v18.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=icONnlZjQIdLG14UEdqLqQ&expires=1772195438&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Atlanta Hawks - 2/27/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Atlanta Hawks - 2/27/26 - 12:40:00 AM UTC SD
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=3MPwdLPrFs3LFWDmj916pg&expires=1772189833&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=19JgRx0Uql9de8VW29DXJw&expires=1772195444&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Atlanta Hawks - 2/27/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Washington Wizards @ Atlanta Hawks - 2/27/26 - 12:40:00 AM UTC HD
-https://v3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=KgzH1BoFuQQNOpLcytiLiQ&expires=1772189839&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v4.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=88MfbaBfU-uBOQpKd-Fj6Q&expires=1772195449&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Brooklyn Nets - 2/27/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ Brooklyn Nets - 2/27/26 - 12:40:00 AM UTC SD
-https://v3.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=zxsqPfzqothb1qZyY4bSwg&expires=1772189844&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e5.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=85d3bbgiHqkeQBVjLvyNyA&expires=1772195455&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Brooklyn Nets - 2/27/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ Brooklyn Nets - 2/27/26 - 12:40:00 AM UTC HD
-https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=n7FMT06emN-1IgOc0lPCBA&expires=1772189850&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e5.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=leW5f5TMZyWsqXGYRGdn4w&expires=1772195460&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Orlando Magic - 2/27/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Houston Rockets @ Orlando Magic - 2/27/26 - 12:40:00 AM UTC SD
-https://e4.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=nAed-HnmrzOozZnJ7xQNBQ&expires=1772189855&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=s6QIzD3lRFaxcNTevozLPg&expires=1772195466&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Orlando Magic - 2/27/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Houston Rockets @ Orlando Magic - 2/27/26 - 12:40:00 AM UTC HD
-https://v8.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=-wz2y_e0edVoCBwAbyViKQ&expires=1772189861&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v14.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=CudSowX-NPUil2Gs2il6Lg&expires=1772195471&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Chicago Bulls - 2/27/26, 1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Portland Trail Blazers @ Chicago Bulls - 2/27/26 - 1:10:00 AM UTC SD
-https://v8.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=bmfI_u3yE7LdGJ57xgShEQ&expires=1772189866&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v1.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=WILM59EkqP3eFgFd-lMxGg&expires=1772195477&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Chicago Bulls - 2/27/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Portland Trail Blazers @ Chicago Bulls - 2/27/26 - 1:10:00 AM UTC HD
-https://v13.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=2WS3J46s9IBIBe8T628mRg&expires=1772189871&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v15.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=elbRDDFG710Wzb4u9sFVvQ&expires=1772195482&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Dallas Mavericks - 2/27/26, 1:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Dallas Mavericks - 2/27/26 - 1:40:00 AM UTC SD
-https://v13.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=FUWoVMnalpZl8kgBc5_dAA&expires=1772189877&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v15.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=RKCYkwJGnd4rkJvHpzWpmA&expires=1772195488&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Dallas Mavericks - 2/27/26, 1:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Dallas Mavericks - 2/27/26 - 1:40:00 AM UTC HD
-https://v13.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=enCUb6-HPIkn_rf38Pi8mg&expires=1772189882&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v12.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=YRKmWl7K5nD7E0Vr1hEGVw&expires=1772195493&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Phoenix Suns - 2/27/26, 2:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Lakers @ Phoenix Suns - 2/27/26 - 2:10:00 AM UTC SD
-https://v13.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=OQ4NKWmWxA_vHkV4RlyGfA&expires=1772189888&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v12.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=wn_Tn5NeVdu4hPOnrLeZFw&expires=1772195499&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Phoenix Suns - 2/27/26, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Lakers @ Phoenix Suns - 2/27/26 - 2:10:00 AM UTC HD
-https://v15.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=78laq8xbW4ygD-AdJd6ZWw&expires=1772189893&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e4.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=4qs-0uubvc2Zmi63TDPvRQ&expires=1772195504&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Utah Jazz - 2/27/26, 2:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Utah Jazz - 2/27/26 - 2:10:00 AM UTC SD
-https://v15.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=KBGx4xd_xjpi6K2iDu0ZSg&expires=1772189899&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://e4.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=xPprZUuWbUPeCuzTXNhEsA&expires=1772195510&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Utah Jazz - 2/27/26, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",New Orleans Pelicans @ Utah Jazz - 2/27/26 - 2:10:00 AM UTC HD
-https://v12.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=kkNPzyl9sn-q-Hfl3tp4Xw&expires=1772189904&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v1.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=ALg8f7IInyg-VKBOkw6h2w&expires=1772195515&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Los Angeles Clippers - 2/27/26, 3:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Minnesota Timberwolves @ Los Angeles Clippers - 2/27/26 - 3:10:00 AM UTC SD
-https://e1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=bn5hHZ_-hFMSWHN0Bk12JQ&expires=1772189910&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=t0wsAHvxNyXsOGjBpzMZ6A&expires=1772195521&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Los Angeles Clippers - 2/27/26, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Minnesota Timberwolves @ Los Angeles Clippers - 2/27/26 - 3:10:00 AM UTC HD
-https://e1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=NDEUtyh_OLKrh1xef5ZlPw&expires=1772189915&user_id=SWwxWmo1emk3VzNMVTQwTjhGWGFON0JsT0hWTVpReEsxWWo4ZW9mOQ==
+https://v4.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=yaI5pqdrnlcPx_uq0eLLtw&expires=1772195526&user_id=MGZPeXN0OTVMaDh5akRXN3N4S2FBckpoSzNaSW5uZ2RPeXZIQ0hBUQ==
 #EXTINF:-1 group-title="NHL | Other",02/26/26 07:00:00 PM EST = New Jersey Devils @ Pittsburgh Penguins
 https://v8.thetvapp.to/hls/NHL07/tracks-v1a1/mono.m3u8?token=xnKMsEQvQEnwYtU_cPiQ1w&expires=1772191370&user_id=WTBoVFpHSWRiTm9KTEZ6MFNiQkVCQ1M3c2hjakRXc1dRQXNrUDNHSA==
 #EXTINF:-1 group-title="NHL | Other",02/26/26 07:00:00 PM EST = New York Islanders @ Montréal Canadiens
