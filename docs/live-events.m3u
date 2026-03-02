@@ -24,7 +24,7 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/01/26 01:05:00 PM EST = Atlanta Braves @ Minnesota Twins
+#EXTINF:-1 group-title="MLB | Other",03/02/26 01:05:00 PM EST = Atlanta Braves @ Detroit Tigers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Boston Red Sox - 3/1/26, 6:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Baltimore Orioles @ Boston Red Sox - 3/1/26 - 6:05:00 PM UTC SD
 https://e2.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=u3Ez6CcEWrALmuyA0XYEOg&expires=1772465004&user_id=NFNMM09DM1h0UFRPY09YOTBkYTB6cHl2M0NiY3RHVzZrT2p6Ym5CTg==
@@ -86,8 +86,6 @@ https://v4.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=b2N0OvJiPRCoRUknz26
 https://v4.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=QTfJArple5UWP4BPL81-tg&expires=1772465157&user_id=NFNMM09DM1h0UFRPY09YOTBkYTB6cHl2M0NiY3RHVzZrT2p6Ym5CTg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers @ Seattle Mariners - 3/1/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Texas Rangers @ Seattle Mariners - 3/1/26 - 8:10:00 PM UTC HD
 https://e5.thetvapp.to/hls/MLB11/tracks-v1a1/mono.m3u8?token=vE668_HFWO7qHps8Rei4pA&expires=1772465163&user_id=NFNMM09DM1h0UFRPY09YOTBkYTB6cHl2M0NiY3RHVzZrT2p6Ym5CTg==
-#EXTINF:-1 group-title="NBA | Other",03/01/26 03:40:00 PM EST = Milwaukee Bucks @ Chicago Bulls
-https://v3.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=mmvQyBvwox-bM3_QfzE3zw&expires=1772450554&user_id=cWdmUGVhd0ZyRzA5T2dyUU44ODZiNTZyaUs2N29IMDk1M012ZmRmZw==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ New York Knicks - 3/1/26, 6:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ New York Knicks - 3/1/26 - 6:10:00 PM UTC SD
 https://v3.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=nHk0qUs2SJ_t-qgxd0QJ9g&expires=1772464883&user_id=NFNMM09DM1h0UFRPY09YOTBkYTB6cHl2M0NiY3RHVzZrT2p6Ym5CTg==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ New York Knicks - 3/1/26, 6:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",San Antonio Spurs @ New York Knicks - 3/1/26 - 6:10:00 PM UTC HD
