@@ -24,54 +24,8 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = St. Louis Cardinals @ Pittsburgh Pirates
-https://v2.thetvapp.to/hls/MLB03/tracks-v1a1/mono.m3u8?token=URxoS69w0AYyA8DAvTdj9A&expires=1772795675&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = New York Mets @ Washington Nationals
-https://e5.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=p9d6MvG4IO3twcR1PPVJZA&expires=1772795685&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = Minnesota Twins @ New York Yankees
-https://v15.thetvapp.to/hls/MLB05/tracks-v1a1/mono.m3u8?token=e5UOSOpzhzizhDgwpjXjxw&expires=1772795696&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = Boston Red Sox @ Philadelphia Phillies
-https://v5.thetvapp.to/hls/MLB01/tracks-v1a1/mono.m3u8?token=8bi4tlajtxQUesmWyS6Irg&expires=1772795706&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = Baltimore Orioles @ Tampa Bay Rays
-https://v1.thetvapp.to/hls/MLB17/tracks-v1a1/mono.m3u8?token=ZqQn-DGXCw8HoG01go_hFA&expires=1772795716&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:05:00 PM EST = Toronto Blue Jays @ Atlanta Braves
-https://v1.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=ytdarbcKN40UlYDCCRbEVQ&expires=1772795726&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 01:10:00 PM EST = Houston Astros @ Miami Marlins
-https://e2.thetvapp.to/hls/MLB007/tracks-v1a1/mono.m3u8?token=WmJsF213d7GP5cPNG5n9-w&expires=1772795737&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 03:05:00 PM EST = Los Angeles Dodgers @ Cincinnati Reds
-https://v18.thetvapp.to/hls/MLB07/tracks-v1a1/mono.m3u8?token=y6vHMeAfyDFH0qiaJMOQKA&expires=1772795747&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 03:05:00 PM EST = Arizona Diamondbacks @ Chicago Cubs
-https://v4.thetvapp.to/hls/MLB06/tracks-v1a1/mono.m3u8?token=Keg2RY83k-nP7Ozy1sb2JA&expires=1772795757&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 03:10:00 PM EST = Athletics @ Los Angeles Angels
-https://e5.thetvapp.to/hls/MLB030/tracks-v1a1/mono.m3u8?token=zYk97gTvd1av1SmWIR21ww&expires=1772795767&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 03:10:00 PM EST = Milwaukee Brewers @ Colorado Rockies
-https://v3.thetvapp.to/hls/MLB09/tracks-v1a1/mono.m3u8?token=behgv2Gtp1DHF4KuK78b2A&expires=1772795778&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 03:10:00 PM EST = San Diego Padres @ Seattle Mariners
-https://v16.thetvapp.to/hls/MLB08/tracks-v1a1/mono.m3u8?token=Izh1N2ImiIJalUF7r1eWLw&expires=1772795788&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 08:05:00 PM EST = Cleveland Guardians @ Chicago White Sox
-https://v12.thetvapp.to/hls/MLB018/tracks-v1a1/mono.m3u8?token=qJJOEaS3oCBDGnq7ADuw8w&expires=1772795798&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="MLB | Other",03/05/26 08:05:00 PM EST = Texas Rangers @ Kansas City Royals
-https://v12.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=SWt8Jgn04eNU5lc2AAlxkQ&expires=1772795808&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
 #EXTINF:-1 group-title="MLB | Other",03/06/26 01:05:00 PM EST = St. Louis Cardinals @ Baltimore Orioles
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA | Other",03/05/26 07:10:00 PM EST = Utah Jazz @ Washington Wizards
-https://v8.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=HJTtP_8ewJ-ENjcY6VWulQ&expires=1772795901&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 07:10:00 PM EST = Dallas Mavericks @ Orlando Magic
-https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=6n0jKuhgClJfsGBsiGBdcw&expires=1772795911&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 07:40:00 PM EST = Golden State Warriors @ Houston Rockets
-https://v16.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=h0u8EsUdSy7LAxgH6RuplA&expires=1772795921&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 07:40:00 PM EST = Brooklyn Nets @ Miami Heat
-https://e2.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=p2MUQ7yS_3rGGjx517P2sg&expires=1772795932&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 08:10:00 PM EST = Toronto Raptors @ Minnesota Timberwolves
-https://v17.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=JDThhFVu8sc9q2G41yKdSQ&expires=1772795942&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 08:10:00 PM EST = Detroit Pistons @ San Antonio Spurs
-https://v15.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=FvbG8cULqOO_6y9qgUVv0Q&expires=1772795952&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 09:10:00 PM EST = Chicago Bulls @ Phoenix Suns
-https://v13.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=UYWbuQi4KLDzougot3TBAQ&expires=1772795962&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 10:10:00 PM EST = New Orleans Pelicans @ Sacramento Kings
-https://v14.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=LYGl6wW0COKr5R4cYPPnBQ&expires=1772795973&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NBA | Other",03/05/26 10:10:00 PM EST = Los Angeles Lakers @ Denver Nuggets
-https://e5.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=qNg-3LNuUh6dlJACpRXLhQ&expires=1772795983&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Orlando Magic - 3/6/26, 12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Dallas Mavericks @ Orlando Magic - 3/6/26 - 12:10:00 AM UTC SD
 https://v8.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=lA4j5_oN-ofeG_jPuM73Rw&expires=1772813752&user_id=RlNsTTg2STY3Z20xZzM4ZmVtb1I1RzJKM3lWVmtZNFlBY3U2NWI4eQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Orlando Magic - 3/6/26, 12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Dallas Mavericks @ Orlando Magic - 3/6/26 - 12:10:00 AM UTC HD
@@ -100,19 +54,3 @@ https://e5.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=ETTSOLRSRe5wB-jHuvn
 https://v17.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=fYhVWQJb9iFgY3RaNw7YWQ&expires=1772813829&user_id=RlNsTTg2STY3Z20xZzM4ZmVtb1I1RzJKM3lWVmtZNFlBY3U2NWI4eQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Denver Nuggets - 3/6/26, 3:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Los Angeles Lakers @ Denver Nuggets - 3/6/26 - 3:10:00 AM UTC HD
 https://v17.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=wzpvVs4Xz2L4pLDlSNV_CQ&expires=1772813835&user_id=RlNsTTg2STY3Z20xZzM4ZmVtb1I1RzJKM3lWVmtZNFlBY3U2NWI4eQ==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 07:00:00 PM EST = Buffalo Sabres @ Pittsburgh Penguins
-https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=wyijAEMYbbnLJWXbIPIpcw&expires=1772795819&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 07:00:00 PM EST = Florida Panthers @ Columbus Blue Jackets
-https://v2.thetvapp.to/hls/NHL04/tracks-v1a1/mono.m3u8?token=Vm29xANujvPeWznLbutkYw&expires=1772795829&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 07:00:00 PM EST = Toronto Maple Leafs @ New York Rangers
-https://v5.thetvapp.to/hls/NHL06/tracks-v1a1/mono.m3u8?token=LigkJj-rT34gAJk2BYJyhA&expires=1772795839&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 07:00:00 PM EST = Utah Mammoth @ Philadelphia Flyers
-https://e4.thetvapp.to/hls/NHL03/tracks-v1a1/mono.m3u8?token=d9V6drEdNoFBxai75yJvVA&expires=1772795850&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 08:00:00 PM EST = Boston Bruins @ Nashville Predators
-https://v17.thetvapp.to/hls/NHL09/tracks-v1a1/mono.m3u8?token=hGJ03qopgfVkKFtMCdAFXQ&expires=1772795860&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 08:00:00 PM EST = Tampa Bay Lightning @ Winnipeg Jets
-https://v3.thetvapp.to/hls/NHL10/tracks-v1a1/mono.m3u8?token=Vvu9OT3j1bA-9chYISNcyA&expires=1772795870&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 09:00:00 PM EST = Ottawa Senators @ Calgary Flames
-https://v16.thetvapp.to/hls/NHL17/tracks-v1a1/mono.m3u8?token=lu-yC1vv1YhXQaSkwiJqVQ&expires=1772795880&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
-#EXTINF:-1 group-title="NHL | Other",03/05/26 09:30:00 PM EST = New York Islanders @ Los Angeles Kings
-https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=h-y1EqfpTUgfddMmRQvSVQ&expires=1772795891&user_id=NmJrT21JM2tkdnd0dmxiVWJQNG9ESnlieTJpNTBTMVg5RjBuUjFjVg==
