@@ -24,8 +24,6 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/13/26 01:05:00 PM EST = New York Yankees @ Atlanta Braves
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Atlanta Braves - 3/13/26, 5:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Yankees @ Atlanta Braves - 3/13/26 - 5:05:00 PM UTC SD
 https://v14.thetvapp.to/hls/MLB009/tracks-v1a1/mono.m3u8?token=8HtXBoCL8GnA9vB2gbkYrg&expires=1773501304&user_id=Qko2RndaNTU4WHY5aEdudjhRZzJ0OFFHWG44OUpPa054MEZvVXl4aQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Atlanta Braves - 3/13/26, 5:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Yankees @ Atlanta Braves - 3/13/26 - 5:05:00 PM UTC HD
@@ -102,3 +100,5 @@ https://v2.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=cnKEdm-F_PsjYXMC23d
 https://v1.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=bOhNLElYQvhnu5UrI0uVdQ&expires=1773501292&user_id=Qko2RndaNTU4WHY5aEdudjhRZzJ0OFFHWG44OUpPa054MEZvVXl4aQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Los Angeles Clippers - 3/14/26, 2:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Chicago Bulls @ Los Angeles Clippers - 3/14/26 - 2:40:00 AM UTC HD
 https://v1.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=bk0FyqQomWF_iUKnJnIZUQ&expires=1773501298&user_id=Qko2RndaNTU4WHY5aEdudjhRZzJ0OFFHWG44OUpPa054MEZvVXl4aQ==
+#EXTINF:-1 group-title="NHL | Other",03/14/26 01:00:00 PM EST = Anaheim Ducks @ Ottawa Senators
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
