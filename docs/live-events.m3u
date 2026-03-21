@@ -24,24 +24,6 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/20/26 01:05:00 PM EST = Boston Red Sox @ Tampa Bay Rays
-https://v5.thetvapp.to/hls/MLB017/tracks-v1a1/mono.m3u8?token=F4fqwQqO_gSOBXQskJOqgQ&expires=1774091500&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 01:05:00 PM EST = Detroit Tigers @ Philadelphia Phillies
-https://v8.thetvapp.to/hls/MLB003/tracks-v1a1/mono.m3u8?token=HlbWjnaJlpfe9WQY0a4hEA&expires=1774091510&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 01:05:00 PM EST = Toronto Blue Jays @ Minnesota Twins
-https://v3.thetvapp.to/hls/MLB010/tracks-v1a1/mono.m3u8?token=OoaMdl38ivrkEtbP2Mht_g&expires=1774091521&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 01:10:00 PM EST = St. Louis Cardinals @ New York Mets
-https://e4.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=IYcNsmqkQa0YRvILalCtDw&expires=1774091531&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 03:10:00 PM EST = Chicago White Sox @ Los Angeles Angels
-https://v15.thetvapp.to/hls/MLB030/tracks-v1a1/mono.m3u8?token=_H1dhxTAdKSev5RE9akIkQ&expires=1774091541&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 06:05:00 PM EST = Pittsburgh Pirates @ Atlanta Braves
-https://v18.thetvapp.to/hls/MLB009/tracks-v1a1/mono.m3u8?token=WrazvNNSWES6pBYg2qYWuw&expires=1774091551&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 06:35:00 PM EST = Baltimore Orioles @ New York Yankees
-https://v5.thetvapp.to/hls/MLB029/tracks-v1a1/mono.m3u8?token=pGu0Lvxx1bzr_YOBJr9n_A&expires=1774091562&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 09:05:00 PM EST = Seattle Mariners @ Cleveland Guardians
-https://v1.thetvapp.to/hls/MLB006/tracks-v1a1/mono.m3u8?token=3P_t-i_NMHij1doCQFOS7A&expires=1774091572&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="MLB | Other",03/20/26 09:10:00 PM EST = Milwaukee Brewers @ Arizona Diamondbacks
-https://v1.thetvapp.to/hls/MLB021/tracks-v1a1/mono.m3u8?token=7rwyoqBMoWHCD8Vc_WUFzg&expires=1774091582&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
 #EXTINF:-1 group-title="MLB | Other",03/21/26 01:05:00 PM EST = Toronto Blue Jays @ Pittsburgh Pirates
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Philadelphia Phillies - 3/20/26, 5:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Detroit Tigers @ Philadelphia Phillies - 3/20/26 - 5:05:00 PM UTC SD
@@ -64,25 +46,3 @@ https://v13.thetvapp.to/hls/MLB009/tracks-v1a1/mono.m3u8?token=LqwWIuAVOK-6fxe27
 https://v15.thetvapp.to/hls/MLB021/tracks-v1a1/mono.m3u8?token=9k6dgubuN4sJY6oFcZ4Vcg&expires=1774109539&user_id=SzhROTVrS0VTRHhyRElqN0NBb3AxUzd6WHdJZUw1Q1VnRXhzbkpqQQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Arizona Diamondbacks - 3/21/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Milwaukee Brewers @ Arizona Diamondbacks - 3/21/26 - 1:10:00 AM UTC HD
 https://v15.thetvapp.to/hls/MLB021/tracks-v1a1/mono.m3u8?token=ns9wD6_1MAepCa7sysF_xw&expires=1774109545&user_id=SzhROTVrS0VTRHhyRElqN0NBb3AxUzd6WHdJZUw1Q1VnRXhzbkpqQQ==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 07:40:00 PM EST = Golden State Warriors @ Detroit Pistons
-https://v15.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=8wt_7w_RuBp5I1o_JDOukA&expires=1774091644&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 07:40:00 PM EST = New York Knicks @ Brooklyn Nets
-https://v14.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=X0Pqnk6enSmqocG67pMgPw&expires=1774091654&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 08:10:00 PM EST = Portland Trail Blazers @ Minnesota Timberwolves
-https://v3.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=1b9Giv9HmGkT7CA9_BsaHg&expires=1774091664&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 08:10:00 PM EST = Boston Celtics @ Memphis Grizzlies
-https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=B6ie0t-_Wfk6YD_RyUnrAQ&expires=1774091675&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 08:10:00 PM EST = Atlanta Hawks @ Houston Rockets
-https://v13.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=VeAGFQT9UaIFknD0LrvACA&expires=1774091685&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NBA | Other",03/20/26 09:10:00 PM EST = Toronto Raptors @ Denver Nuggets
-https://v16.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=10_5ODGPAALq2U5shmQtcw&expires=1774091695&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NHL | Other",03/20/26 07:10:00 PM EST = New Jersey Devils @ Washington Capitals
-https://e2.thetvapp.to/hls/NHL03/tracks-v1a1/mono.m3u8?token=iEOPMSz_vQN9cHqdeJUlGA&expires=1774091593&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NHL | Other",03/20/26 07:10:00 PM EST = Carolina Hurricanes @ Toronto Maple Leafs
-https://v2.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=vygksxToEkYLx4ACh2crbw&expires=1774091603&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NHL | Other",03/20/26 08:40:00 PM EST = Colorado Avalanche @ Chicago Blackhawks
-https://v13.thetvapp.to/hls/NHL08/tracks-v1a1/mono.m3u8?token=uF9jwN2SSq5X2fIvBJxOpA&expires=1774091613&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NHL | Other",03/20/26 09:10:00 PM EST = Florida Panthers @ Calgary Flames
-https://e4.thetvapp.to/hls/NHL06/tracks-v1a1/mono.m3u8?token=oJtNH2wYaxjII2dI5c67cg&expires=1774091623&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
-#EXTINF:-1 group-title="NHL | Other",03/20/26 10:10:00 PM EST = Anaheim Ducks @ Utah Mammoth
-https://e1.thetvapp.to/hls/NHL07/tracks-v1a1/mono.m3u8?token=DyqDAc-fS5uqUuG1IKsiZg&expires=1774091634&user_id=RHM4emRwS01XNXlOQ2NwaVV1TnRzTmpXZjRXOFI3OE0yaE5ZV25paA==
