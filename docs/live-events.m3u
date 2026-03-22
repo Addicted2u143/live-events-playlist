@@ -24,8 +24,6 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/21/26 01:05:00 PM EST = Toronto Blue Jays @ Pittsburgh Pirates
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Baltimore Orioles - 3/21/26, 5:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Philadelphia Phillies @ Baltimore Orioles - 3/21/26 - 5:05:00 PM UTC SD
 https://v2.thetvapp.to/hls/MLB026/tracks-v1a1/mono.m3u8?token=GGxa2AGzBPyzsHpLdth1LA&expires=1774195869&user_id=UW1mS2NTcklsTXJqbUg1VDI4dkpGcFkwZGo3ZjNPUXBDOWpsS085Wg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Baltimore Orioles - 3/21/26, 5:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Philadelphia Phillies @ Baltimore Orioles - 3/21/26 - 5:05:00 PM UTC HD
@@ -62,5 +60,5 @@ https://v8.thetvapp.to/hls/MLB011/tracks-v1a1/mono.m3u8?token=TIoLObe2AjptJ2yg6o
 https://v14.thetvapp.to/hls/MLB014/tracks-v1a1/mono.m3u8?token=68YxpuWnd5mwPYD70rBEpA&expires=1774195991&user_id=UW1mS2NTcklsTXJqbUg1VDI4dkpGcFkwZGo3ZjNPUXBDOWpsS085Wg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Seattle Mariners - 3/22/26, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago Cubs @ Seattle Mariners - 3/22/26 - 1:10:00 AM UTC HD
 https://v2.thetvapp.to/hls/MLB014/tracks-v1a1/mono.m3u8?token=361XWq--HR95WXiJd6uWBQ&expires=1774195997&user_id=UW1mS2NTcklsTXJqbUg1VDI4dkpGcFkwZGo3ZjNPUXBDOWpsS085Wg==
-#EXTINF:-1 group-title="NBA | Other",03/21/26 05:10:00 PM EST = Oklahoma City Thunder @ Washington Wizards
-https://v4.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=E-wQpLFGgMk2NFQcfdnDgA&expires=1774179363&user_id=MVpvN2JuZEo5bk15dXRtazg1eG5ZeUdxdnRpd3hkVlVoQlB3bXo4bQ==
+#EXTINF:-1 group-title="NHL | Other",03/22/26 12:00:00 PM EST = Winnipeg Jets @ New York Rangers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
