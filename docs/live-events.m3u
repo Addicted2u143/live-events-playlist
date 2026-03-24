@@ -24,30 +24,6 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/23/26 12:05:00 PM EST = Tampa Bay Rays @ Philadelphia Phillies
-https://v1.thetvapp.to/hls/MLB003/tracks-v1a1/mono.m3u8?token=kgoHKR9F07sxby-FXU1spw&expires=1774352261&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 01:05:00 PM EST = Minnesota Twins @ Boston Red Sox
-https://v16.thetvapp.to/hls/MLB005/tracks-v1a1/mono.m3u8?token=64snf5raKLCJm2L96BF5Ew&expires=1774352271&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 01:05:00 PM EST = Baltimore Orioles @ Washington Nationals
-https://v17.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=ywDkmbqZwQPnQze-e4WpBg&expires=1774352281&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 01:05:00 PM EST = Atlanta Braves @ Pittsburgh Pirates
-https://e1.thetvapp.to/hls/MLB016/tracks-v1a1/mono.m3u8?token=QkLos8bSAzlYI2Waust2KA&expires=1774352292&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 02:05:00 PM EST = Chicago White Sox @ Athletics
-https://v5.thetvapp.to/hls/MLB013/tracks-v1a1/mono.m3u8?token=PYXdEcKe4E8fv2L2K8W4tA&expires=1774352302&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 03:05:00 PM EST = New York Yankees @ Chicago Cubs
-https://e4.thetvapp.to/hls/MLB001/tracks-v1a1/mono.m3u8?token=0OI8qDcq38zqeztWnqWrfw&expires=1774352312&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 03:10:00 PM EST = Seattle Mariners @ San Diego Padres
-https://v8.thetvapp.to/hls/MLB012/tracks-v1a1/mono.m3u8?token=MVyw2e4_ojMpHz7Q-N0Ckg&expires=1774352322&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 07:40:00 PM EST = Cincinnati Reds @ Milwaukee Brewers
-https://v3.thetvapp.to/hls/MLB011/tracks-v1a1/mono.m3u8?token=SwzHt5AzT-i-ATva4RsDYw&expires=1774352333&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 08:05:00 PM EST = Kansas City Royals @ Texas Rangers
-https://v1.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=CsEyDNYKuSqi3jvLr9NwJg&expires=1774352343&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 09:10:00 PM EST = Detroit Tigers @ Colorado Rockies
-https://v2.thetvapp.to/hls/MLB025/tracks-v1a1/mono.m3u8?token=fe_4yq4K-7qExLJ4rfRO7A&expires=1774352353&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 09:10:00 PM EST = Los Angeles Angels @ Los Angeles Dodgers
-https://v2.thetvapp.to/hls/MLB022/tracks-v1a1/mono.m3u8?token=vnp-AdbeYEzUEYL6jPLHtQ&expires=1774352363&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="MLB | Other",03/23/26 09:40:00 PM EST = Cleveland Guardians @ Arizona Diamondbacks
-https://v12.thetvapp.to/hls/MLB021/tracks-v1a1/mono.m3u8?token=2OAlHSdRAXMe0D39mFS7qg&expires=1774352373&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Washington Nationals - 3/23/26, 5:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Baltimore Orioles @ Washington Nationals - 3/23/26 - 5:05:00 PM UTC SD
 https://v5.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=MsdPL9_mVwZEMeBKqCO6JQ&expires=1774370061&user_id=MnhiV1NybnB5U2NTNzJZalFEWjJlS1hsMkJlclVSaHZDbUNyMVJPRw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Washington Nationals - 3/23/26, 5:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Baltimore Orioles @ Washington Nationals - 3/23/26 - 5:05:00 PM UTC HD
@@ -56,27 +32,5 @@ https://v5.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=IH4x76K_p3x3Lw
 https://e4.thetvapp.to/hls/MLB001/tracks-v1a1/mono.m3u8?token=C1Z92TDz6ZQ3NvaKW6sj0Q&expires=1774370094&user_id=MnhiV1NybnB5U2NTNzJZalFEWjJlS1hsMkJlclVSaHZDbUNyMVJPRw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Chicago Cubs - 3/23/26, 7:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Yankees @ Chicago Cubs - 3/23/26 - 7:05:00 PM UTC HD
 https://v17.thetvapp.to/hls/MLB001/tracks-v1a1/mono.m3u8?token=SPYYUn2B5GhhFLc6xYaBZg&expires=1774370100&user_id=MnhiV1NybnB5U2NTNzJZalFEWjJlS1hsMkJlclVSaHZDbUNyMVJPRw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 07:10:00 PM EST = Indiana Pacers @ Orlando Magic
-https://v15.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=77iwJj6InJFEulIenGsmjA&expires=1774352384&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 07:10:00 PM EST = Oklahoma City Thunder @ Philadelphia 76ers
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=jCv1Oqv3_BXv1IlmJ6XeYQ&expires=1774352394&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 07:10:00 PM EST = San Antonio Spurs @ Miami Heat
-https://v5.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=vIPRY9IFURIEANL-I6dMkQ&expires=1774352404&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 07:10:00 PM EST = Los Angeles Lakers @ Detroit Pistons
-https://v15.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=3i3VUq_5otMDE0n-yvhS4g&expires=1774352414&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 07:40:00 PM EST = Memphis Grizzlies @ Atlanta Hawks
-https://v16.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=n6GVh8Uw57UAkZvj2Fg8qQ&expires=1774352424&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 08:10:00 PM EST = Houston Rockets @ Chicago Bulls
-https://v17.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=uZ1U01h1RN4mgPZRJZRJRQ&expires=1774352435&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 09:10:00 PM EST = Toronto Raptors @ Utah Jazz
-https://e4.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=KFVyM0vsrN9KgEoHSunFDQ&expires=1774352445&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 09:40:00 PM EST = Golden State Warriors @ Dallas Mavericks
-https://v13.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=3BLzRwGZYxDgtZVepQ0-RA&expires=1774352455&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 10:10:00 PM EST = Brooklyn Nets @ Portland Trail Blazers
-https://e1.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=X7HmjI3k0Q6lbvwlxFnazw&expires=1774352465&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NBA | Other",03/23/26 10:40:00 PM EST = Milwaukee Bucks @ Los Angeles Clippers
-https://v15.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=XKwMwyGLK8IYhw6C8-knCQ&expires=1774352475&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
-#EXTINF:-1 group-title="NHL | Other",03/23/26 07:30:00 PM EST = Ottawa Senators @ New York Rangers
-https://v4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=vqVF5OzRtl1Buuy34_gG-Q&expires=1774352486&user_id=MDRCUWdkUTFaaEtxYXZPbUpiRnRWWXpsZkhka2V6d3pEMTVuWGR2dw==
 #EXTINF:-1 group-title="NHL | Other",03/24/26 07:00:00 PM EST = Seattle Kraken @ Florida Panthers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
