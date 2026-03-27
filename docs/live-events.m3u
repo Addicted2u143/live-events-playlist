@@ -24,7 +24,7 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/26/26 01:15:00 PM EST = Pittsburgh Pirates @ New York Mets
+#EXTINF:-1 group-title="MLB | Other",03/27/26 04:36:00 PM EST = New York Yankees @ San Francisco Giants
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates @ New York Mets - 3/26/26, 5:15:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Pittsburgh Pirates @ New York Mets - 3/26/26 - 5:15:00 PM UTC SD
 https://v12.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=ohHjYhtpOk-Nlxd7rzf-LQ&expires=1774625500&user_id=NzRhVmVpQm9zdnc1dk11Y2hOdVh1UnZiSXdzOVBuSjExdWh4NUhrWQ==
@@ -82,5 +82,3 @@ https://e1.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=pL93WAeNmy33yJac85r
 https://v17.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=T2sb79f4dBybvhcy8HVqhQ&expires=1774625488&user_id=NzRhVmVpQm9zdnc1dk11Y2hOdVh1UnZiSXdzOVBuSjExdWh4NUhrWQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Orlando Magic - 3/26/26, 11:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Sacramento Kings @ Orlando Magic - 3/26/26 - 11:10:00 PM UTC HD
 https://v17.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=-lIOInupFqKn2CaF6mlyAA&expires=1774625494&user_id=NzRhVmVpQm9zdnc1dk11Y2hOdVh1UnZiSXdzOVBuSjExdWh4NUhrWQ==
-#EXTINF:-1 group-title="NHL | Other",03/26/26 08:00:00 PM EST = New Jersey Devils @ Nashville Predators
-https://v4.thetvapp.to/hls/NHL12/tracks-v1a1/mono.m3u8?token=T6YNt34QBJHubiEizuj1iQ&expires=1774612341&user_id=elRDS2Q2V05FUFJzWGJKalI0Mm1hRlZZdlYxWVltZEtmVXFkRERuUg==
