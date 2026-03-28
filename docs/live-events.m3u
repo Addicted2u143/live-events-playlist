@@ -24,8 +24,6 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
-#EXTINF:-1 group-title="MLB | Other",03/27/26 04:36:00 PM EST = New York Yankees @ San Francisco Giants
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ San Francisco Giants - 3/27/26, 8:36:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Yankees @ San Francisco Giants - 3/27/26 - 8:36:00 PM UTC SD
 https://v1.thetvapp.to/hls/MLB02/tracks-v1a1/mono.m3u8?token=Wqb0WRxbR_etkb3HKKY9eQ&expires=1774711070&user_id=M3FDU0RwWWpRVEtzZ2ZiMGt1emZTdldGRUlpTDViV2FoUGZtYlRoNQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ San Francisco Giants - 3/27/26, 8:36:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Yankees @ San Francisco Giants - 3/27/26 - 8:36:00 PM UTC HD
@@ -98,3 +96,5 @@ https://e2.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=rmiJ_2Dd3AtHvQZkqon
 https://e2.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=_mdrDQcicegP5mBmGeg0sA&expires=1774711059&user_id=M3FDU0RwWWpRVEtzZ2ZiMGt1emZTdldGRUlpTDViV2FoUGZtYlRoNQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Brooklyn Nets @ Los Angeles Lakers - 3/28/26, 2:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Brooklyn Nets @ Los Angeles Lakers - 3/28/26 - 2:40:00 AM UTC HD
 https://v1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=DLs2ql2fj6gdekRFW8wZJg&expires=1774711064&user_id=M3FDU0RwWWpRVEtzZ2ZiMGt1emZTdldGRUlpTDViV2FoUGZtYlRoNQ==
+#EXTINF:-1 group-title="NHL | Other",03/28/26 01:00:00 PM EST = Florida Panthers @ New York Islanders
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
