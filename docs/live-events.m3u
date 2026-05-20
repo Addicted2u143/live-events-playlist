@@ -25,36 +25,6 @@ https://fl1.moveonjoy.com/mpegts
 #EXTINF:-1 group-title="Events | Other" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
 https://fl1.moveonjoy.com/PPV_6/mpegts
 #EXTINF:-1 group-title="MLB | Other",05/19/26 04:10:00 PM EST = Atlanta Braves vs Miami Marlins @ May 19 4:10 PM
-https://v16.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=xmKFVIuZvueateoYD2iCBA&expires=1779236082&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 06:40:00 PM EST = Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM
-https://v3.thetvapp.to/hls/mlb02/tracks-v1a1/mono.m3u8?token=4TQX8gV5Ikq1R1SF_8sAsQ&expires=1779236092&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 06:40:00 PM EST = Baltimore Orioles vs Tampa Bay Rays @ May 19 6:40 PM
-https://v2.thetvapp.to/hls/mlb03/tracks-v1a1/mono.m3u8?token=75mCs3Sg_RGq4pCroK_vAA&expires=1779236103&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 06:40:00 PM EST = Cincinnati Reds vs Philadelphia Phillies @ May 19 6:40 PM
-https://v13.thetvapp.to/hls/mlb04/tracks-v1a1/mono.m3u8?token=K04LTHu3UELoTaOdg9zHGg&expires=1779236113&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 06:45:00 PM EST = New York Mets vs Washington Nationals @ May 19 6:45 PM
-https://v8.thetvapp.to/hls/mlb05/tracks-v1a1/mono.m3u8?token=rwsRw9lhklEXbX2PYProYg&expires=1779236123&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 07:05:00 PM EST = Toronto Blue Jays vs New York Yankees @ May 19 7:05 PM
-https://e4.thetvapp.to/hls/mlb06/tracks-v1a1/mono.m3u8?token=C8RNILwwlIq0xnt1P6O5VQ&expires=1779236133&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 07:40:00 PM EST = Boston Red Sox vs Kansas City Royals @ May 19 7:40 PM
-https://v14.thetvapp.to/hls/mlb07/tracks-v1a1/mono.m3u8?token=-uFGeFS_xkYBXD2gSfiNiw&expires=1779236143&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 07:40:00 PM EST = Houston Astros vs Minnesota Twins @ May 19 7:40 PM
-https://v3.thetvapp.to/hls/mlb08/tracks-v1a1/mono.m3u8?token=-fOHLBk1t0du83cWyJX7zA&expires=1779236154&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 07:40:00 PM EST = Milwaukee Brewers vs Chicago Cubs @ May 19 7:40 PM
-https://v8.thetvapp.to/hls/mlb09/tracks-v1a1/mono.m3u8?token=JM2DUBc8JMO4tQnb9QHRCA&expires=1779236164&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 07:45:00 PM EST = Pittsburgh Pirates vs St. Louis Cardinals @ May 19 7:45 PM
-https://v2.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=n4ZonP5tL8JJM6ep-_YoxA&expires=1779236174&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 08:40:00 PM EST = Texas Rangers vs Colorado Rockies @ May 19 8:40 PM
-https://e2.thetvapp.to/hls/mlb11/tracks-v1a1/mono.m3u8?token=xbjRpesFJd-WOYGBHmGfpA&expires=1779236185&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 09:38:00 PM EST = Athletics vs Los Angeles Angels @ May 19 9:38 PM
-https://v15.thetvapp.to/hls/mlb12/tracks-v1a1/mono.m3u8?token=2UI_mHrNu8rdQjHR9IEwXg&expires=1779236195&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 09:40:00 PM EST = Los Angeles Dodgers vs San Diego Padres @ May 19 9:40 PM
-https://e1.thetvapp.to/hls/mlb13/tracks-v1a1/mono.m3u8?token=ARuxdxW088sIKnxbodHHAg&expires=1779236205&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 09:40:00 PM EST = San Francisco Giants vs Arizona Diamondbacks @ May 19 9:40 PM
-https://v17.thetvapp.to/hls/mlb14/tracks-v1a1/mono.m3u8?token=8_C04Au1i4xBwjQNd8cwXg&expires=1779236215&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 09:40:00 PM EST = Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM
-https://v3.thetvapp.to/hls/mlb15/tracks-v1a1/mono.m3u8?token=omK5EafgG2mFlzIbngorxg&expires=1779236226&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
-#EXTINF:-1 group-title="MLB | Other",05/19/26 04:10:00 PM EST = Atlanta Braves vs Miami Marlins @ May 19 4:10 PM
 https://v1.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=jIloqHWcGhth7jPwA5f4HA&expires=1779254395&user_id=UWVNOUUwWGo0SGx1N09maXZ4U3BBcWVzaHRrQklDUkRXNFV2RGIxVQ==
 #EXTINF:-1 group-title="MLB | Other",05/19/26 06:40:00 PM EST = Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM
 https://v8.thetvapp.to/hls/mlb02/tracks-v1a1/mono.m3u8?token=PgO3N17l3oDiD9AiKN0mMQ&expires=1779254405&user_id=UWVNOUUwWGo0SGx1N09maXZ4U3BBcWVzaHRrQklDUkRXNFV2RGIxVQ==
@@ -85,70 +55,68 @@ https://v13.thetvapp.to/hls/mlb14/tracks-v1a1/mono.m3u8?token=Q6AOlUUvWO_Vo3CFZ0
 #EXTINF:-1 group-title="MLB | Other",05/19/26 09:40:00 PM EST = Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM
 https://v17.thetvapp.to/hls/mlb15/tracks-v1a1/mono.m3u8?token=FPXamyDwAW0nM61NqrAdMw&expires=1779254538&user_id=UWVNOUUwWGo0SGx1N09maXZ4U3BBcWVzaHRrQklDUkRXNFV2RGIxVQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Miami Marlins @ May 19 4:10 PM - 5/19/26, 8:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Atlanta Braves vs Miami Marlins @ May 19 4:10 PM - 5/19/26 - 8:10:00 PM UTC SD
-https://e2.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=-KHh1_oRxm7I5A3rKs35mw&expires=1779252839&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=jh7C2ht7p1i8q1EVjVyFoA&expires=1779259371&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Miami Marlins @ May 19 4:10 PM - 5/19/26, 8:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Atlanta Braves vs Miami Marlins @ May 19 4:10 PM - 5/19/26 - 8:10:00 PM UTC HD
-https://v13.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=Qq2zyM8rnu0AImZRw-_9Fw&expires=1779252845&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=xF7n2L5jcr36mVq4fgsAFQ&expires=1779259376&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC SD
-https://v12.thetvapp.to/hls/mlb02/tracks-v1a1/mono.m3u8?token=ASOV_GP2blm8HjmF4unV_w&expires=1779252850&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/mlb02/tracks-v1a1/mono.m3u8?token=_A0pxiN5Kh-4NTT8wjO8Tw&expires=1779259382&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cleveland Guardians vs Detroit Tigers @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC HD
-https://v12.thetvapp.to/hls/mlb02/tracks-v1a1/mono.m3u8?token=utzv4evuHSKEOOPKW6xWqw&expires=1779252856&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=1xfUU6PfpHrhDRPS_M4c8A&expires=1779259387&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Tampa Bay Rays @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Baltimore Orioles vs Tampa Bay Rays @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC SD
-https://v14.thetvapp.to/hls/mlb03/tracks-v1a1/mono.m3u8?token=uNvuFbYU3GXwF-q84SwN5w&expires=1779252861&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e2.thetvapp.to/hls/mlb03/tracks-v1a1/mono.m3u8?token=90Zcg9dgmAVvRtoinD0CDQ&expires=1779259393&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Tampa Bay Rays @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Baltimore Orioles vs Tampa Bay Rays @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC HD
-https://v2.thetvapp.to/hls/mlb03/tracks-v1a1/mono.m3u8?token=6PgKWPcM97V48KLwARNSNw&expires=1779252866&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/mlb03/tracks-v1a1/mono.m3u8?token=OT1GS_LgyodTUbrvqFylVw&expires=1779259398&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds vs Philadelphia Phillies @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cincinnati Reds vs Philadelphia Phillies @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC SD
-https://v2.thetvapp.to/hls/mlb04/tracks-v1a1/mono.m3u8?token=C6LB_VW2BMFj-4c5PBOCvQ&expires=1779252872&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v12.thetvapp.to/hls/mlb04/tracks-v1a1/mono.m3u8?token=V7AXsgjujWOMV1_DVFyNdg&expires=1779259403&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds vs Philadelphia Phillies @ May 19 6:40 PM - 5/19/26, 10:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Cincinnati Reds vs Philadelphia Phillies @ May 19 6:40 PM - 5/19/26 - 10:40:00 PM UTC HD
-https://v17.thetvapp.to/hls/mlb04/tracks-v1a1/mono.m3u8?token=emA8qiUvaTgoSOe8vdqNbw&expires=1779252877&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Tb_MPUnYw--ehzpjCuX7mA&expires=1779259409&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Washington Nationals @ May 19 6:45 PM - 5/19/26, 10:45:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Mets vs Washington Nationals @ May 19 6:45 PM - 5/19/26 - 10:45:00 PM UTC SD
-https://v18.thetvapp.to/hls/mlb05/tracks-v1a1/mono.m3u8?token=eEQS81S2qstPORt7nYP6dg&expires=1779252883&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=iFULnpSEznTdKaTlrEzJwA&expires=1779259414&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Washington Nationals @ May 19 6:45 PM - 5/19/26, 10:45:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",New York Mets vs Washington Nationals @ May 19 6:45 PM - 5/19/26 - 10:45:00 PM UTC HD
-https://v18.thetvapp.to/hls/mlb05/tracks-v1a1/mono.m3u8?token=tKtz-Sxo8cD_pJY0XPfOlA&expires=1779252888&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e1.thetvapp.to/hls/mlb05/tracks-v1a1/mono.m3u8?token=8pRReBO0oWgEeN6_ksHMnA&expires=1779259420&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Yankees @ May 19 7:05 PM - 5/19/26, 11:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Toronto Blue Jays vs New York Yankees @ May 19 7:05 PM - 5/19/26 - 11:05:00 PM UTC SD
-https://v1.thetvapp.to/hls/mlb06/tracks-v1a1/mono.m3u8?token=_CH1vZpjf5taa_uTv_7hMA&expires=1779252894&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e4.thetvapp.to/hls/mlb06/tracks-v1a1/mono.m3u8?token=TnixqFPsCfhLj0DXxjmyxg&expires=1779259425&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Yankees @ May 19 7:05 PM - 5/19/26, 11:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Toronto Blue Jays vs New York Yankees @ May 19 7:05 PM - 5/19/26 - 11:05:00 PM UTC HD
-https://e3.thetvapp.to/hls/mlb06/tracks-v1a1/mono.m3u8?token=GnJP_EtPgqm3G4-l7ryGZA&expires=1779252899&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e4.thetvapp.to/hls/mlb06/tracks-v1a1/mono.m3u8?token=cWNQVKmHh8mAws14r1IRtg&expires=1779259431&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Kansas City Royals @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Boston Red Sox vs Kansas City Royals @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC SD
-https://e1.thetvapp.to/hls/mlb07/tracks-v1a1/mono.m3u8?token=T8C7uPydxIPgeI0HPsKPUQ&expires=1779252905&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v1.thetvapp.to/hls/mlb07/tracks-v1a1/mono.m3u8?token=SlNt7mW6TnC93IJSZOgCnQ&expires=1779259436&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Kansas City Royals @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Boston Red Sox vs Kansas City Royals @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC HD
-https://e4.thetvapp.to/hls/mlb07/tracks-v1a1/mono.m3u8?token=T-olpAWGHksSnTL5WC8Csg&expires=1779252910&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v2.thetvapp.to/hls/mlb07/tracks-v1a1/mono.m3u8?token=BDC0IKh3C_hS8MkNb0jbaw&expires=1779259442&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Minnesota Twins @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Houston Astros vs Minnesota Twins @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC SD
-https://e4.thetvapp.to/hls/mlb08/tracks-v1a1/mono.m3u8?token=EK6KvGiUAndUvQCS8nOIyg&expires=1779252916&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v5.thetvapp.to/hls/mlb08/tracks-v1a1/mono.m3u8?token=5qT01Lvm1WViplKSVl5nwQ&expires=1779259447&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Minnesota Twins @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Houston Astros vs Minnesota Twins @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC HD
-https://v15.thetvapp.to/hls/mlb08/tracks-v1a1/mono.m3u8?token=9vLopMcyyu2GUEj0KTq24w&expires=1779252921&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v17.thetvapp.to/hls/mlb08/tracks-v1a1/mono.m3u8?token=MdyF0m2YNob3a-oOSbClXg&expires=1779259453&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Chicago Cubs @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Milwaukee Brewers vs Chicago Cubs @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC SD
-https://v1.thetvapp.to/hls/mlb09/tracks-v1a1/mono.m3u8?token=1L9LDKvwXuczKsmcSnPJww&expires=1779252927&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v17.thetvapp.to/hls/mlb09/tracks-v1a1/mono.m3u8?token=KG61l8tE5fUzZh7zaDOiaQ&expires=1779259458&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Chicago Cubs @ May 19 7:40 PM - 5/19/26, 11:40:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Milwaukee Brewers vs Chicago Cubs @ May 19 7:40 PM - 5/19/26 - 11:40:00 PM UTC HD
-https://e2.thetvapp.to/hls/mlb09/tracks-v1a1/mono.m3u8?token=qGT4HlKW44yeJkTnXg3MqA&expires=1779252932&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=m_P7rwjI3GrqvZ7pzT_F-A&expires=1779259464&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs St. Louis Cardinals @ May 19 7:45 PM - 5/19/26, 11:45:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Pittsburgh Pirates vs St. Louis Cardinals @ May 19 7:45 PM - 5/19/26 - 11:45:00 PM UTC SD
-https://e2.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=NjVnyn1iYN4z-juSYcK4GA&expires=1779252938&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v14.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=wZYRtwtNpSzCLCCilG0Agw&expires=1779259469&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs St. Louis Cardinals @ May 19 7:45 PM - 5/19/26, 11:45:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Pittsburgh Pirates vs St. Louis Cardinals @ May 19 7:45 PM - 5/19/26 - 11:45:00 PM UTC HD
-https://e1.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=8tCh1K5CXrL9kTrvDOALow&expires=1779252943&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v4.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=4Xh3a6yihjYp7GfhN3fQ_Q&expires=1779259475&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Colorado Rockies @ May 19 8:40 PM - 5/20/26, 12:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Texas Rangers vs Colorado Rockies @ May 19 8:40 PM - 5/20/26 - 12:40:00 AM UTC SD
-https://e1.thetvapp.to/hls/mlb11/tracks-v1a1/mono.m3u8?token=1HLy_9PakcHfyNtg5eoRTA&expires=1779252949&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v4.thetvapp.to/hls/mlb11/tracks-v1a1/mono.m3u8?token=PbkfW13AygCMLDr8SyKtIA&expires=1779259480&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Colorado Rockies @ May 19 8:40 PM - 5/20/26, 12:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Texas Rangers vs Colorado Rockies @ May 19 8:40 PM - 5/20/26 - 12:40:00 AM UTC HD
-https://v4.thetvapp.to/hls/mlb11/tracks-v1a1/mono.m3u8?token=KwThaEd69AvRk4uw1f_6TA&expires=1779252954&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/mlb11/tracks-v1a1/mono.m3u8?token=yR1cDEzXDuUG2-gZ3Fop7Q&expires=1779259486&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Los Angeles Angels @ May 19 9:38 PM - 5/20/26, 1:38:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Athletics vs Los Angeles Angels @ May 19 9:38 PM - 5/20/26 - 1:38:00 AM UTC SD
-https://v4.thetvapp.to/hls/mlb12/tracks-v1a1/mono.m3u8?token=pSUeW6A-gcbbLtUrPdVM7w&expires=1779252960&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v2.thetvapp.to/hls/mlb12/tracks-v1a1/mono.m3u8?token=GkvJBdHBf4cM9vLjA7dDAw&expires=1779259491&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Los Angeles Angels @ May 19 9:38 PM - 5/20/26, 1:38:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Athletics vs Los Angeles Angels @ May 19 9:38 PM - 5/20/26 - 1:38:00 AM UTC HD
-https://v14.thetvapp.to/hls/mlb12/tracks-v1a1/mono.m3u8?token=Nq5Z8KvP1sfBQ86rjfwHpA&expires=1779252965&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e4.thetvapp.to/hls/mlb12/tracks-v1a1/mono.m3u8?token=6S1WbRmI8cqa42jyZQwiOQ&expires=1779259496&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs San Diego Padres @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Los Angeles Dodgers vs San Diego Padres @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC SD
-https://v14.thetvapp.to/hls/mlb13/tracks-v1a1/mono.m3u8?token=580oBgjGf943GsDBluA_bg&expires=1779252970&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=v_m5VGfSzK_JBRUL7qN98Q&expires=1779259502&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs San Diego Padres @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Los Angeles Dodgers vs San Diego Padres @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC HD
-https://v18.thetvapp.to/hls/mlb13/tracks-v1a1/mono.m3u8?token=lJ3KfMMUQXKDL6b_SXWehg&expires=1779252976&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=tBr4wLNiyKd-VgAZBsBorw&expires=1779259507&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Arizona Diamondbacks @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",San Francisco Giants vs Arizona Diamondbacks @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC SD
-https://v18.thetvapp.to/hls/mlb14/tracks-v1a1/mono.m3u8?token=tVXC7ptTmwvYnQvl7uKphg&expires=1779252981&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pX5oS4qrfW4uovHB40CZSg&expires=1779259513&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Arizona Diamondbacks @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",San Francisco Giants vs Arizona Diamondbacks @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC HD
-https://e3.thetvapp.to/hls/mlb14/tracks-v1a1/mono.m3u8?token=Zlnu9y_-y2xwyBjbFdR9tg&expires=1779252987&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=hGJEFkLIMWd4aNDmjEUJTA&expires=1779259518&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC SD
-https://v1.thetvapp.to/hls/mlb15/tracks-v1a1/mono.m3u8?token=T3ZsoQ1--JqmvPDqgYvYAw&expires=1779252992&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=RI3P68n-ksEu4xWNqhHZCw&expires=1779259524&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM - 5/20/26, 1:40:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB | TheTVApp",Chicago White Sox vs Seattle Mariners @ May 19 9:40 PM - 5/20/26 - 1:40:00 AM UTC HD
-https://v1.thetvapp.to/hls/mlb15/tracks-v1a1/mono.m3u8?token=Q3ylJ1mxMFa2QS_8C0CuHQ&expires=1779252998&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
-#EXTINF:-1 group-title="NBA | Other",05/19/26 08:00:00 PM EST = Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM
-https://v12.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=hmrcSTlm6yGDny0HeV_WIw&expires=1779236236&user_id=ejBnak5hS0VGM3NwU0dqSWRUTFNGcTlTcHZRN094NTdiVkxld0IzRQ==
+https://v12.thetvapp.to/hls/mlb15/tracks-v1a1/mono.m3u8?token=uc2p8iKUrE4LMFCrIwnnxA&expires=1779259529&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 group-title="NBA | Other",05/19/26 08:00:00 PM EST = Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM
 https://v12.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=wMoFrtlDza4PyKRW9kY4Og&expires=1779254548&user_id=UWVNOUUwWGo0SGx1N09maXZ4U3BBcWVzaHRrQklDUkRXNFV2RGIxVQ==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM - 5/20/26, 12:00:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM - 5/20/26 - 12:00:00 AM UTC SD
-https://v8.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=p5usSZ8i9R8j8gtqKmf-ag&expires=1779252827&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://v13.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=5Nx-zNrMDklmCUHtcW6YIg&expires=1779259359&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM - 5/20/26, 12:00:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA | TheTVApp",Cleveland Cavaliers vs New York Knicks @ May 19 8:00 PM - 5/20/26 - 12:00:00 AM UTC HD
-https://e2.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=5cpNJF3N2Va1nIL7kMrh3A&expires=1779252833&user_id=RDVvT2cwOEFIWFlwNE5SYzdzNmxhYjFoQmZlVVhhcVVrSlJBbmphZg==
+https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=bxRgppTgqcbAzEZOM28v5A&expires=1779259365&user_id=OFAwSGQ3UDk0Q2hnemJVaGZkMlJEUzhYSW9DdkVQOUtKSzJ3MURzeA==
